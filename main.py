@@ -14,6 +14,9 @@ class neuralNetwork:
         self.inodes = inputnodes
         self.hnodes = hiddennodes
         self.onodes = outputnodes
+
+        # learning rate
+        self.lr = learningrate
     
         pass
 
