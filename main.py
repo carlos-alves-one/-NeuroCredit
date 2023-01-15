@@ -8,4 +8,10 @@
 # neural network class definition
 class neuralNetwork:
 
+    # initialise the neural network
+    def __init__():
+        pass
+
+    
+
     
