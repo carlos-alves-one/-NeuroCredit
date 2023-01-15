@@ -16,4 +16,7 @@ class neuralNetwork:
     def train():
         pass
 
+    # query the neural network
+    def query():
+        pass
     
