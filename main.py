@@ -32,4 +32,6 @@ class neuralNetwork:
     input_nodes = 3
     hidden_nodes = 3
     output_nodes = 3
-    
+
+    # declare the learning rate is 0.3
+    learning_rate = 0.3
