@@ -28,3 +28,8 @@ class neuralNetwork:
     def query():
         pass
     
+    # declare the number of input, hidden and output nodes
+    input_nodes = 3
+    hidden_nodes = 3
+    output_nodes = 3
+    
