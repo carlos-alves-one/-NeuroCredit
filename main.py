@@ -32,7 +32,8 @@ class neuralNetwork:
         pass
 
     # train the neural network
-    def train():
+    def train(self, inputs_list, targets_list):
+        
         pass
 
     # query the neural network
@@ -55,5 +56,7 @@ n = neuralNetwork(input_nodes, hidden_nodes, output_nodes, learning_rate)
 
 # test the neural network
 n.query([1.0, 0.5, -1.5])
+
+
 
 
