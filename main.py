@@ -53,5 +53,7 @@ n = neuralNetwork(input_nodes, hidden_nodes, output_nodes, learning_rate)
 # Second step: Test the neural network by creating a new instance of the neural network class, and then calling the query method.
 #              The query method will return a list of output values, which we will print to the screen.
 
+# test the neural network
+n.query([1.0, 0.5, -1.5])
 
 
