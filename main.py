@@ -33,7 +33,9 @@ class neuralNetwork:
 
     # train the neural network
     def train(self, inputs_list, targets_list):
-        
+
+        # convert inputs list to 2d array
+        inputs = numpy.array(inputs_list, ndmin=2).T
         pass
 
     # query the neural network
