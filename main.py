@@ -50,3 +50,8 @@ learning_rate = 0.3
 # create instance of neural network
 n = neuralNetwork(input_nodes, hidden_nodes, output_nodes, learning_rate)
 
+# Second step: Test the neural network by creating a new instance of the neural network class, and then calling the query method.
+#              The query method will return a list of output values, which we will print to the screen.
+
+
+
