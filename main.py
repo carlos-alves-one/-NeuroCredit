@@ -49,6 +49,9 @@ class neuralNetwork:
 
         # calculate signals into final output layer
         final_inputs = np.dot(self.who, hidden_outputs)
+
+        # calculate the signals emerging from final output layer
+        final_outputs = self.activation_function(final_inputs)
         
 
     # query the neural network
