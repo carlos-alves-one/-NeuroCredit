@@ -17,7 +17,7 @@
 #             as well as the learning rate.
 
 # import numpy library
-import numpy
+import numpy as np
 
 # neural network class definition
 class neuralNetwork:
@@ -38,7 +38,7 @@ class neuralNetwork:
     def train(self, inputs_list, targets_list):
 
         # convert inputs list to 2d array
-        inputs = numpy.array(inputs_list, ndmin=2).T
+        inputs = np.array(inputs_list, ndmin=2).T
         pass
 
     # query the neural network
@@ -60,7 +60,10 @@ n = neuralNetwork(input_nodes, hidden_nodes, output_nodes, learning_rate)
 #              The query method will return a list of output values, which we will print to the screen.
 
 # test the neural network
-n.query([1.0, 0.5, -1.5])
+# print the output
+print(n.query([1.0, 0.5, -1.5]))
+
+
 
 
 
