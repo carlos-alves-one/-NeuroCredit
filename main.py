@@ -16,6 +16,9 @@
 #             At the end we create a new instance of the neural network class, and we pass the number of input, hidden, and output nodes, 
 #             as well as the learning rate.
 
+# import numpy library
+import numpy
+
 # neural network class definition
 class neuralNetwork:
 
