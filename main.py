@@ -39,7 +39,12 @@ class neuralNetwork:
 
         # convert inputs list to 2d array
         inputs = np.array(inputs_list, ndmin=2).T
-        pass
+        targets = np.array(targets_list, ndmin=2).T
+
+        # calculate signals into hidden layer
+        hidden_inputs = np.dot(self.wih, inputs)
+
+        
 
     # query the neural network
     def query():
