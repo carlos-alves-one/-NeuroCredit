@@ -84,7 +84,9 @@ class neuralNetwork:
 
         # calculate the signals emerging from final output layer
         final_outputs = self.activation_function(final_inputs)
-        pass
+
+        # return the final output
+        return final_outputs
     
 # declare the number of input, hidden and output nodes
 input_nodes  = 3
