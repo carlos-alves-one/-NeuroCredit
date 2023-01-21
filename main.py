@@ -72,6 +72,9 @@ class neuralNetwork:
 
         # convert inputs list to 2d array
         inputs = np.array(inputs_list, ndmin=2).T
+
+        # calculate signals into hidden layer
+        hidden_inputs = np.dot(self.wih, inputs)
         pass
     
 # declare the number of input, hidden and output nodes
