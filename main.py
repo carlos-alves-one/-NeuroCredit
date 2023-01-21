@@ -68,7 +68,7 @@ class neuralNetwork:
         pass
         
     # query the neural network
-    def query():
+    def query(self, inputs_list):
         pass
     
 # declare the number of input, hidden and output nodes
