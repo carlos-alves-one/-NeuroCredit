@@ -55,6 +55,9 @@ class neuralNetwork:
 
         # output layer error is the (target - actual)
         output_errors = targets - final_outputs
+
+        # hidden layer error is the output_errors, split by weights, recombined at hidden nodes
+        hidden_errors = np.dot(self.who.T, output_errors)
         
     # query the neural network
     def query():
