@@ -61,6 +61,11 @@ class neuralNetwork:
 
         # update the weights for the links between the hidden and output layers
         self.who += self.lr * np.dot((output_errors * final_outputs * (1.0 - final_outputs)), np.transpose(hidden_outputs))
+
+        # update the weights for the links between the input and hidden layers
+        self.wih += self.lr * np.dot((hidden_errors * hidden_outputs * (1.0 - hidden_outputs)), np.transpose(inputs))
+
+        pass
         
     # query the neural network
     def query():
