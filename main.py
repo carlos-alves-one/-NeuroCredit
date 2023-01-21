@@ -69,6 +69,9 @@ class neuralNetwork:
         
     # query the neural network
     def query(self, inputs_list):
+
+        # convert inputs list to 2d array
+        inputs = np.array(inputs_list, ndmin=2).T
         pass
     
 # declare the number of input, hidden and output nodes
