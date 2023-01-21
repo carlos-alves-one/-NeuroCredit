@@ -58,6 +58,9 @@ class neuralNetwork:
 
         # hidden layer error is the output_errors, split by weights, recombined at hidden nodes
         hidden_errors = np.dot(self.who.T, output_errors)
+
+        # update the weights for the links between the hidden and output layers
+        self.who += self.lr * np.dot((output_errors * final_outputs * (1.0 - final_outputs)), np.transpose(hidden_outputs))
         
     # query the neural network
     def query():
