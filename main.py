@@ -78,6 +78,9 @@ class neuralNetwork:
 
         # calculate the signals emerging from hidden layer
         hidden_outputs = self.activation_function(hidden_inputs)
+
+        # calculate signals into final output layer
+        final_inputs = np.dot(self.who, hidden_outputs)
         pass
     
 # declare the number of input, hidden and output nodes
