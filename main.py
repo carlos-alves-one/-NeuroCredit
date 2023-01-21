@@ -56,7 +56,6 @@ class neuralNetwork:
         # output layer error is the (target - actual)
         output_errors = targets - final_outputs
         
-
     # query the neural network
     def query():
         pass
