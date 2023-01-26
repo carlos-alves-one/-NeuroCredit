@@ -1,1001 +1,1001 @@
-credit_history,credit_score,income,employment_status,collateral,assets_value,debt_to_income_ratio,payment_history,length_of_credit_history,number_of_credit_inquiries,number_of_credit_accounts,number_of_credit_accounts_opened_last_12_months,type_of_credit_accounts,current_balance_of_credit_accounts,total_credit_limit,total_credit_utilization,public_records_and_collections
-Fair,583,20943,Self-Employed,Land,10850,93,Good,87,28,3,8,Personal,28243,51131,40,Judgement
-Good,722,61172,Employed,Land,79392,73,Excellent,90,86,8,9,Personal,78071,52645,36,None
-Good,383,69816,Self-Employed,Investment,34792,10,Excellent,84,94,5,8,Mortgage,88620,54645,39,Judgement
-Fair,567,75044,Employed,Car,77203,4,Fair,55,17,7,9,Mortgage,77890,41898,32,None
-Poor,830,43094,Self-Employed,None,87838,45,Excellent,70,87,9,4,Mortgage,5098,19837,27,Tax Lien
-Fair,757,28230,Unemployed,House,66481,81,Excellent,82,3,3,1,Personal,11708,88236,47,Other
-Excellent,640,48449,Employed,Car,20173,45,Fair,58,67,0,0,Personal,25572,29121,72,Bankruptcy
-Excellent,464,35848,Unemployed,Land,17344,57,Poor,9,66,2,2,Student,31826,80802,31,Tax Lien
-Fair,540,81660,Unemployed,None,43780,8,Excellent,62,79,10,4,Mortgage,70110,67980,22,Tax Lien
-Excellent,532,81138,Unemployed,Other,30338,24,Poor,91,78,6,2,Student,4240,14957,17,Bankruptcy
-Excellent,539,32282,Unemployed,Investment,62546,58,Poor,98,93,7,7,Other,27750,89862,62,Tax Lien
-Excellent,838,31494,Self-Employed,Investment,46337,20,Poor,34,44,0,8,Mortgage,79385,55344,87,None
-Fair,764,85116,Self-Employed,Investment,35792,91,Poor,23,36,2,8,Auto,93274,37374,32,Bankruptcy
-Poor,373,97933,Unemployed,Land,47754,46,Poor,22,19,8,4,Student,52405,35692,34,Other
-Fair,333,22878,Unemployed,None,68183,80,Poor,42,49,7,3,Personal,65991,99815,21,Collection
-Excellent,415,47724,Unemployed,Land,62280,91,Good,37,40,8,0,Auto,60201,34065,91,Tax Lien
-Poor,679,50861,Self-Employed,None,95364,85,Excellent,48,82,0,1,Other,88004,91293,76,Tax Lien
-Poor,415,77585,Employed,Land,17409,4,Poor,69,86,10,9,Auto,76722,60328,51,Collection
-Good,815,11629,Self-Employed,Car,34528,41,Poor,46,44,3,3,Other,34225,20300,96,Bankruptcy
-Good,446,35147,Unemployed,None,83937,43,Good,82,52,1,7,Personal,78978,70899,7,Collection
-Good,823,15110,Unemployed,Other,55691,5,Poor,35,52,0,7,Other,15833,53746,3,Collection
-Fair,703,93901,Unemployed,None,14382,60,Excellent,53,69,5,2,Student,39300,88637,58,Tax Lien
-Poor,468,77544,Unemployed,House,76619,55,Fair,20,96,4,8,Student,74032,4755,21,Bankruptcy
-Poor,381,61308,Self-Employed,Car,13648,74,Poor,51,90,3,5,Auto,36595,72397,24,Tax Lien
-Excellent,412,21082,Employed,None,60427,11,Excellent,10,75,2,10,Student,7920,56227,19,Bankruptcy
-Excellent,742,31414,Employed,None,31651,27,Fair,88,97,4,10,Mortgage,7501,34697,21,Bankruptcy
-Fair,315,84017,Employed,House,82154,7,Excellent,13,1,5,6,Student,90501,32053,5,Judgement
-Poor,761,29358,Self-Employed,Investment,47730,22,Good,58,67,5,0,Mortgage,76248,19363,8,Tax Lien
-Fair,796,86090,Employed,House,82280,34,Fair,45,27,6,8,Student,65377,82049,14,Other
-Fair,318,66797,Employed,Car,40154,23,Fair,17,0,2,5,Auto,17750,25383,22,Bankruptcy
-Fair,558,80781,Unemployed,Other,21967,76,Excellent,25,24,6,2,Other,71703,28225,29,Other
-Good,365,98799,Self-Employed,Land,31275,20,Good,94,25,2,6,Mortgage,71497,61580,14,Tax Lien
-Fair,443,51306,Employed,Other,83820,86,Excellent,67,2,10,9,Student,78454,60604,97,Collection
-Good,348,33097,Unemployed,Other,68142,3,Fair,58,30,8,2,Personal,90861,10545,38,Bankruptcy
-Fair,512,85254,Employed,House,48318,36,Good,28,13,2,8,Student,74730,87940,9,Tax Lien
-Good,397,34826,Self-Employed,None,34807,43,Fair,55,13,0,5,Student,18278,30081,96,Collection
-Good,362,98883,Self-Employed,Car,46546,4,Poor,0,52,7,0,Other,83225,3119,40,None
-Excellent,406,93399,Unemployed,Land,86185,3,Good,78,86,10,6,Student,51355,85561,44,Other
-Good,525,35196,Employed,Car,88301,33,Excellent,22,80,1,4,Student,66757,99424,54,Judgement
-Excellent,527,65985,Self-Employed,None,60380,1,Fair,85,27,4,1,Student,43634,56723,8,None
-Fair,830,11030,Self-Employed,Car,41975,79,Poor,85,100,0,0,Auto,5635,92677,62,Collection
-Good,763,52361,Employed,Investment,35761,28,Poor,55,23,10,4,Personal,45053,97706,31,Other
-Poor,360,26466,Self-Employed,None,24296,4,Excellent,58,32,3,8,Personal,95056,27761,31,None
-Excellent,450,76015,Employed,Car,83930,59,Good,72,32,3,0,Personal,69738,982,53,None
-Fair,846,65325,Self-Employed,Land,92694,75,Fair,99,81,7,2,Other,5773,85551,14,Judgement
-Good,534,89843,Employed,None,73793,67,Fair,28,77,7,1,Mortgage,73225,98955,78,None
-Poor,585,77321,Unemployed,Car,65797,83,Excellent,44,25,0,5,Student,9382,81485,65,Tax Lien
-Excellent,792,90552,Self-Employed,Investment,58263,3,Fair,67,39,2,9,Personal,38675,43816,67,Other
-Good,764,33356,Employed,Investment,49875,93,Poor,84,11,2,1,Other,61462,98543,58,Tax Lien
-Excellent,546,29109,Employed,Land,96458,50,Poor,8,42,5,5,Personal,14582,33302,28,Bankruptcy
-Good,316,23983,Unemployed,None,21367,55,Fair,87,26,7,4,Personal,14784,16658,17,Tax Lien
-Good,341,15342,Employed,Land,90886,78,Good,6,7,5,2,Auto,87325,5664,6,Tax Lien
-Good,811,72117,Self-Employed,Other,12588,45,Poor,81,63,9,6,Mortgage,72060,79986,77,Other
-Fair,561,48135,Unemployed,None,36024,10,Good,85,22,6,2,Personal,13850,2736,36,Other
-Fair,391,47802,Self-Employed,House,44902,47,Good,50,36,6,4,Other,20923,26638,16,Other
-Fair,751,36072,Self-Employed,Investment,68002,57,Poor,38,43,10,0,Student,92314,14213,55,None
-Fair,552,85499,Unemployed,None,93452,18,Poor,5,21,2,10,Student,63818,58759,74,Judgement
-Fair,488,59197,Self-Employed,Car,33176,65,Good,61,29,5,3,Auto,49099,86272,89,Other
-Poor,518,73638,Employed,None,36341,78,Poor,35,46,8,10,Student,84991,27992,28,Other
-Poor,404,80386,Self-Employed,Investment,16998,5,Excellent,88,81,5,4,Student,74726,16303,19,None
-Excellent,738,28801,Employed,Car,92669,98,Excellent,23,66,6,6,Personal,70906,19029,50,None
-Fair,775,91160,Unemployed,Investment,27887,93,Fair,31,73,8,4,Mortgage,20116,21501,47,Tax Lien
-Excellent,371,15134,Employed,House,11829,37,Fair,9,56,4,4,Mortgage,1578,71397,40,Collection
-Good,586,67914,Unemployed,Car,85796,98,Excellent,31,72,1,5,Auto,37670,56119,66,Other
-Good,665,62527,Unemployed,Other,42992,33,Good,63,44,3,10,Other,30367,28477,21,Judgement
-Good,745,95428,Employed,Land,15495,95,Good,18,29,2,4,Auto,82863,58022,69,Other
-Fair,368,70214,Unemployed,Land,26655,91,Excellent,63,50,3,6,Mortgage,10128,93030,22,Bankruptcy
-Fair,421,98485,Unemployed,Investment,21772,39,Excellent,69,8,7,6,Mortgage,69107,83114,89,Other
-Poor,847,13916,Unemployed,Land,38382,36,Good,96,23,3,6,Auto,43897,21306,57,Collection
-Poor,538,57286,Self-Employed,Investment,11629,39,Fair,34,15,8,3,Mortgage,32428,94982,62,Other
-Good,715,21964,Self-Employed,House,60612,33,Excellent,51,79,10,0,Mortgage,10377,78494,95,Bankruptcy
-Poor,343,70689,Self-Employed,Land,72920,53,Excellent,13,23,0,5,Personal,21518,95866,54,Tax Lien
-Poor,537,48422,Unemployed,Car,23191,52,Excellent,0,84,8,2,Mortgage,73144,59983,22,Collection
-Poor,454,28499,Self-Employed,Other,42366,2,Good,71,93,0,7,Auto,33786,72626,9,Bankruptcy
-Fair,841,35615,Self-Employed,House,39975,68,Fair,27,27,1,4,Personal,27784,8377,49,Tax Lien
-Poor,636,18043,Self-Employed,None,61328,17,Excellent,24,81,4,7,Mortgage,33627,82450,79,Collection
-Poor,570,15946,Self-Employed,Other,20316,6,Fair,21,94,1,1,Student,54184,89458,39,Bankruptcy
-Fair,678,70316,Employed,None,15344,28,Excellent,32,23,1,3,Student,14026,27715,95,None
-Fair,651,68580,Employed,None,25887,50,Poor,21,95,8,1,Personal,6415,52335,77,Other
-Fair,535,20422,Self-Employed,Car,53122,42,Fair,38,100,8,2,Student,2598,15931,85,Tax Lien
-Fair,826,59629,Self-Employed,Land,91176,44,Good,61,0,0,0,Student,15883,43463,57,Collection
-Fair,703,49752,Self-Employed,Car,23166,44,Poor,4,90,7,7,Student,7922,25046,49,None
-Excellent,630,36165,Self-Employed,Car,17153,73,Poor,16,50,8,9,Student,22546,36364,29,Other
-Good,494,13001,Employed,Car,64785,11,Poor,99,32,3,0,Personal,93812,92794,72,Tax Lien
-Poor,726,20320,Unemployed,None,82194,8,Fair,54,59,4,6,Auto,99369,65893,55,Bankruptcy
-Good,354,69903,Unemployed,Land,22956,47,Poor,19,94,6,1,Student,29878,69032,10,Judgement
-Fair,613,68878,Self-Employed,None,20622,80,Poor,5,42,5,3,Other,61519,11377,14,Tax Lien
-Poor,334,98648,Unemployed,Other,56154,62,Excellent,29,11,8,8,Other,65311,66619,28,Collection
-Poor,762,45753,Unemployed,Investment,25648,74,Fair,82,94,8,2,Auto,26544,7140,84,Collection
-Excellent,312,17945,Self-Employed,Land,78829,58,Excellent,10,39,6,6,Auto,23978,37508,10,None
-Good,560,26919,Employed,Other,32743,83,Good,39,89,6,4,Other,42132,77043,0,Other
-Good,814,27448,Unemployed,None,86662,62,Excellent,76,89,9,9,Auto,43245,20494,61,Other
-Excellent,685,41467,Self-Employed,Investment,23542,4,Fair,65,32,0,8,Auto,38575,41694,81,Judgement
-Fair,626,96013,Employed,Investment,32591,2,Fair,66,79,2,5,Mortgage,61271,94814,58,Tax Lien
-Good,845,74270,Self-Employed,None,79440,22,Excellent,61,76,9,5,Auto,71433,38700,3,Collection
-Excellent,841,65130,Self-Employed,Investment,93969,12,Poor,70,41,6,10,Auto,1354,32799,86,Judgement
-Fair,349,77339,Employed,House,32948,66,Good,98,96,7,5,Other,88155,10709,16,Judgement
-Good,630,69912,Unemployed,Land,13209,26,Good,47,62,9,0,Auto,42635,50983,22,Other
-Good,735,12651,Employed,None,52065,100,Excellent,78,31,8,2,Personal,41835,70881,23,Judgement
-Good,638,49325,Employed,House,35291,74,Good,33,5,4,0,Student,65440,11743,45,Other
-Excellent,350,65893,Self-Employed,Land,77480,48,Fair,70,84,5,1,Auto,98878,46999,73,Judgement
-Fair,758,63362,Unemployed,Land,81199,61,Good,13,99,6,7,Student,65083,46649,46,Collection
-Fair,682,66343,Unemployed,Land,86101,81,Poor,80,79,6,2,Other,30919,33477,73,Bankruptcy
-Excellent,538,10904,Unemployed,None,22947,62,Poor,27,44,10,3,Mortgage,42117,52476,94,Tax Lien
-Poor,643,49222,Unemployed,Investment,38305,52,Good,48,82,7,7,Other,44855,40796,88,Bankruptcy
-Poor,393,10319,Unemployed,Other,34951,83,Poor,70,73,8,9,Other,63725,71929,4,Collection
-Fair,618,90553,Unemployed,Investment,82411,12,Fair,70,3,5,8,Student,10894,97764,79,Tax Lien
-Good,782,34388,Unemployed,House,94220,83,Good,4,92,3,10,Personal,66298,18138,26,Judgement
-Excellent,473,20797,Unemployed,Land,23500,79,Fair,87,86,10,10,Mortgage,24873,12727,14,Other
-Poor,578,55161,Employed,Investment,67211,28,Poor,83,15,8,2,Other,94714,81,67,Judgement
-Fair,760,17319,Unemployed,Land,10597,71,Poor,61,39,8,7,Student,28168,58694,92,Tax Lien
-Excellent,639,84036,Self-Employed,Other,25528,39,Poor,28,72,2,9,Personal,70626,9861,33,None
-Good,818,92708,Self-Employed,Other,33794,29,Fair,16,57,7,9,Auto,94063,56342,18,Collection
-Poor,773,55767,Self-Employed,Land,28152,15,Good,96,19,7,2,Personal,55777,46937,6,Tax Lien
-Good,735,28749,Self-Employed,House,48005,85,Poor,10,71,10,2,Mortgage,76318,32563,17,Tax Lien
-Poor,825,89098,Employed,House,75266,68,Poor,80,2,9,1,Student,23823,49419,64,Judgement
-Excellent,768,44061,Unemployed,House,34434,68,Good,22,45,3,5,Mortgage,53287,11106,91,None
-Poor,650,36310,Employed,Land,91471,62,Good,31,53,3,1,Auto,65166,97618,60,Judgement
-Poor,781,30317,Employed,House,27128,74,Poor,49,90,10,0,Student,27098,12357,98,Judgement
-Poor,441,10131,Unemployed,Other,25911,8,Fair,26,47,1,9,Student,60505,81186,35,Judgement
-Good,739,20188,Unemployed,None,58764,42,Good,65,13,3,2,Auto,54278,17636,93,Other
-Excellent,780,89625,Unemployed,Land,34491,81,Excellent,5,74,0,10,Auto,35532,96141,100,Judgement
-Poor,777,52644,Self-Employed,Land,36553,27,Good,28,57,3,0,Auto,81015,58765,2,Judgement
-Excellent,564,79571,Self-Employed,Land,15769,35,Fair,74,82,3,4,Student,25140,97905,0,Judgement
-Fair,607,19778,Self-Employed,Investment,33269,12,Good,93,73,1,4,Personal,11359,36031,36,None
-Good,714,26165,Unemployed,Land,38565,65,Fair,29,50,5,0,Other,61598,29795,72,Judgement
-Poor,475,92294,Unemployed,House,30709,62,Poor,73,34,9,8,Personal,97711,62994,29,Judgement
-Excellent,305,69305,Employed,House,92295,1,Good,35,30,10,7,Other,86398,69815,96,Collection
-Fair,511,96676,Unemployed,Car,53292,57,Good,46,82,0,2,Student,86390,17615,29,Tax Lien
-Good,407,13278,Unemployed,Land,59542,84,Poor,27,70,4,4,Other,31836,49583,91,Judgement
-Poor,616,56737,Employed,House,81761,52,Good,27,47,1,5,Student,81709,78216,61,Judgement
-Poor,601,12447,Unemployed,Car,59773,44,Fair,14,15,9,2,Student,92125,1802,6,Judgement
-Excellent,433,80925,Unemployed,None,70145,76,Fair,71,7,2,8,Student,22299,59316,15,Collection
-Fair,838,42436,Unemployed,Investment,74032,27,Poor,81,50,6,7,Other,33720,79532,52,Bankruptcy
-Excellent,310,84854,Unemployed,None,96965,33,Fair,73,12,10,10,Student,13040,29903,56,Tax Lien
-Excellent,430,26844,Employed,House,89286,54,Good,2,35,10,3,Personal,25317,38363,57,Judgement
-Fair,400,24207,Unemployed,House,64861,28,Excellent,46,95,9,3,Other,67631,36977,7,Collection
-Excellent,707,49798,Self-Employed,Car,66087,0,Poor,14,79,0,3,Other,46626,28162,19,Other
-Poor,407,49187,Employed,House,18090,1,Good,74,30,0,3,Auto,9749,68554,99,Judgement
-Excellent,570,19017,Employed,None,38331,87,Poor,95,97,7,3,Other,38592,37526,10,None
-Poor,587,45911,Self-Employed,House,48163,21,Fair,1,60,7,9,Auto,13198,67903,27,None
-Excellent,694,83324,Employed,Land,45006,88,Good,18,50,10,3,Mortgage,92666,78614,55,Judgement
-Fair,680,83290,Self-Employed,House,80830,88,Fair,57,46,3,7,Auto,53849,20611,71,Collection
-Excellent,720,10591,Self-Employed,Land,94038,16,Poor,2,69,2,1,Personal,35761,81431,54,Judgement
-Fair,380,14426,Unemployed,Investment,26585,84,Fair,7,57,2,10,Mortgage,95295,92815,35,Tax Lien
-Poor,727,89605,Unemployed,Other,17257,90,Good,81,44,4,4,Student,90038,51978,76,Other
-Good,640,53072,Unemployed,None,16658,63,Excellent,6,39,2,10,Student,26730,82501,38,Collection
-Poor,729,83429,Self-Employed,None,54154,63,Good,84,18,9,0,Auto,85220,53109,41,Tax Lien
-Excellent,668,49430,Unemployed,House,36270,64,Fair,85,74,8,0,Personal,5549,37762,78,Collection
-Poor,722,49046,Self-Employed,None,90646,77,Poor,32,82,10,2,Other,28352,86213,38,Bankruptcy
-Poor,366,90179,Self-Employed,None,49658,68,Good,42,89,5,7,Mortgage,79732,58920,83,Collection
-Excellent,776,69861,Employed,Car,93679,65,Excellent,14,94,5,8,Student,60728,22132,44,Bankruptcy
-Poor,471,23606,Self-Employed,Investment,82001,87,Good,83,38,4,4,Student,89359,84280,38,Bankruptcy
-Fair,311,25321,Unemployed,Investment,77930,68,Excellent,56,17,10,6,Personal,34146,88941,86,Other
-Good,806,23464,Unemployed,Car,16619,20,Fair,88,47,6,5,Student,24467,92579,7,Judgement
-Fair,574,58045,Self-Employed,Land,53447,99,Excellent,15,3,9,10,Auto,8307,62567,24,None
-Poor,509,13775,Unemployed,House,82358,34,Good,40,67,2,9,Mortgage,73577,41952,67,Other
-Excellent,740,22379,Employed,Other,97415,95,Poor,83,14,4,8,Personal,93842,51157,34,Judgement
-Excellent,444,70969,Unemployed,Car,56019,71,Good,58,27,5,3,Student,33312,9635,85,Other
-Excellent,811,13928,Unemployed,Investment,71992,80,Good,77,72,3,0,Other,4250,10138,53,Bankruptcy
-Poor,731,70982,Self-Employed,House,19412,42,Poor,25,11,7,2,Mortgage,64625,95505,36,Judgement
-Fair,329,15450,Unemployed,House,65341,25,Good,39,10,1,4,Auto,49243,10087,19,None
-Poor,792,56353,Employed,Other,86804,38,Poor,84,66,3,7,Mortgage,866,40890,89,Tax Lien
-Excellent,747,92300,Unemployed,Land,48382,39,Fair,31,56,1,1,Auto,28600,8228,41,Judgement
-Poor,656,47955,Self-Employed,Other,39806,97,Fair,19,75,9,6,Auto,59526,95457,87,Collection
-Fair,423,22017,Employed,Car,99717,29,Fair,64,76,8,9,Other,74,15784,78,Collection
-Good,764,77034,Self-Employed,Investment,63012,72,Good,91,92,8,8,Auto,63183,47994,33,Tax Lien
-Poor,371,55556,Unemployed,Car,16431,93,Excellent,92,93,7,0,Mortgage,67681,94851,1,Judgement
-Excellent,756,19500,Self-Employed,Land,70638,18,Fair,20,27,8,0,Other,79008,98513,97,Tax Lien
-Excellent,793,99096,Unemployed,Car,94515,11,Excellent,9,64,7,1,Student,48067,59981,33,None
-Excellent,355,45930,Unemployed,None,54095,37,Good,10,48,6,7,Auto,38472,86827,12,Bankruptcy
-Poor,714,97896,Unemployed,None,84358,95,Good,86,53,8,6,Other,19090,38257,68,Collection
-Excellent,329,87919,Employed,Land,85319,93,Poor,77,6,3,2,Personal,16839,1569,17,Collection
-Good,687,20351,Employed,Investment,54701,78,Excellent,100,34,7,5,Personal,50627,43655,99,Judgement
-Good,543,90139,Self-Employed,Investment,76652,14,Fair,48,49,2,10,Other,8618,55806,33,Bankruptcy
-Good,725,59423,Unemployed,Other,36725,96,Excellent,71,68,8,4,Other,19435,41221,60,Tax Lien
-Poor,821,11835,Employed,None,45054,65,Fair,29,89,4,6,Student,51453,11224,38,Other
-Poor,643,88806,Unemployed,House,49481,28,Fair,54,74,9,0,Auto,91997,14430,62,Other
-Fair,618,33456,Self-Employed,None,25990,64,Poor,85,94,0,3,Other,22366,82273,14,Other
-Excellent,825,72198,Unemployed,Land,40349,9,Excellent,93,87,3,9,Other,84464,91566,95,None
-Fair,714,50668,Employed,None,66019,79,Poor,56,85,7,9,Other,71507,29486,35,Judgement
-Good,819,18436,Self-Employed,Other,84066,9,Fair,44,32,10,10,Other,93659,39789,68,Bankruptcy
-Poor,405,31994,Self-Employed,Car,28446,79,Poor,77,38,4,7,Student,41313,38990,17,Judgement
-Poor,823,64629,Employed,House,86810,67,Fair,52,62,0,2,Auto,14457,61973,28,Other
-Poor,395,47136,Self-Employed,Investment,55916,97,Fair,85,9,4,5,Other,96082,32096,84,Collection
-Good,786,55691,Self-Employed,House,51207,95,Good,17,3,0,10,Auto,92190,698,31,Tax Lien
-Fair,548,45624,Employed,Land,92617,88,Good,27,38,4,10,Auto,9065,40761,78,Tax Lien
-Poor,385,43330,Employed,Other,65752,9,Fair,99,20,1,6,Auto,25883,52115,76,Tax Lien
-Poor,390,54264,Unemployed,House,98008,30,Good,19,41,5,2,Other,33439,65265,66,Other
-Good,648,25326,Self-Employed,Other,30596,54,Poor,53,60,2,10,Other,83132,60804,23,Collection
-Excellent,318,83272,Self-Employed,House,58660,70,Fair,13,51,5,1,Auto,64059,36708,38,Judgement
-Fair,821,45985,Self-Employed,None,27037,34,Excellent,18,2,8,1,Auto,74340,7976,64,Judgement
-Poor,689,46370,Employed,House,41851,69,Poor,5,41,1,5,Personal,31767,56801,62,Other
-Excellent,335,80759,Employed,Car,28664,6,Good,21,20,8,2,Personal,12922,25492,39,Tax Lien
-Fair,532,96828,Self-Employed,Car,11251,97,Excellent,42,46,6,6,Other,740,31985,30,Judgement
-Excellent,734,82007,Self-Employed,Other,27306,83,Fair,66,27,4,8,Other,81271,85375,31,Other
-Fair,507,36081,Unemployed,Car,48312,33,Fair,47,39,2,0,Student,58410,7831,3,Tax Lien
-Good,467,40232,Unemployed,None,59512,52,Good,58,74,9,7,Personal,8958,126,38,Other
-Poor,581,98473,Employed,House,59723,15,Excellent,68,57,1,6,Auto,83694,48529,74,Tax Lien
-Fair,694,39912,Employed,None,15312,60,Fair,79,37,8,8,Personal,99996,81450,93,None
-Good,413,56892,Self-Employed,Car,53947,41,Good,59,60,7,9,Other,82772,77264,33,Collection
-Poor,778,52621,Self-Employed,Other,62285,95,Excellent,51,3,10,2,Mortgage,51752,61610,11,Tax Lien
-Fair,457,27083,Self-Employed,None,33850,97,Poor,95,93,10,10,Student,74446,1621,7,Other
-Excellent,670,19792,Unemployed,Car,70630,14,Fair,71,45,6,4,Auto,54498,30875,32,Other
-Good,392,81297,Unemployed,Investment,82642,100,Good,31,44,7,2,Student,42521,53867,63,None
-Good,490,42305,Employed,Other,62602,8,Fair,3,83,4,8,Personal,52475,35753,3,Tax Lien
-Poor,493,19147,Employed,Car,12432,70,Poor,37,13,9,8,Student,10338,82361,27,Tax Lien
-Poor,307,58331,Self-Employed,Other,73135,20,Excellent,24,96,9,0,Other,31687,69475,88,Collection
-Good,677,49670,Self-Employed,Car,38257,3,Fair,16,85,2,3,Mortgage,78498,68621,47,Tax Lien
-Poor,542,94068,Unemployed,Other,36523,46,Poor,16,86,8,4,Personal,55630,30835,99,None
-Fair,532,74945,Self-Employed,Other,15310,80,Excellent,24,100,4,1,Personal,5182,86044,44,Other
-Excellent,378,26997,Employed,House,84830,100,Good,66,32,1,8,Student,7312,35013,38,Tax Lien
-Poor,698,11539,Unemployed,Investment,99989,77,Fair,62,4,7,1,Other,27721,86164,17,Other
-Poor,680,56873,Unemployed,Other,69437,0,Excellent,59,92,0,0,Personal,40926,92474,50,None
-Good,845,65366,Self-Employed,None,52843,69,Poor,33,14,1,7,Auto,41187,79904,43,Bankruptcy
-Good,651,81535,Self-Employed,None,50819,8,Fair,47,48,2,4,Personal,56060,13024,75,Collection
-Fair,486,11506,Employed,Other,36543,97,Good,91,6,8,5,Personal,58767,40237,58,Judgement
-Good,503,24318,Employed,Car,23495,39,Poor,49,28,3,7,Mortgage,207,92661,27,Judgement
-Fair,410,91550,Unemployed,Car,14956,99,Good,49,66,0,2,Auto,10074,49439,5,Tax Lien
-Excellent,522,46913,Employed,Car,78640,66,Good,0,84,0,4,Student,90426,62113,42,Judgement
-Excellent,348,15841,Employed,Car,39596,22,Fair,83,85,4,10,Student,86928,52727,91,Other
-Good,724,45967,Self-Employed,Land,77835,44,Fair,37,83,10,1,Personal,56073,44539,75,Tax Lien
-Good,527,35216,Unemployed,None,68931,10,Good,29,52,9,6,Student,51192,69048,55,Other
-Good,493,90594,Self-Employed,House,51497,28,Good,53,23,5,10,Personal,7554,75246,80,Other
-Good,551,12290,Employed,Other,86324,7,Poor,18,76,1,0,Other,10290,54433,38,Tax Lien
-Good,440,81362,Unemployed,Investment,64808,85,Good,45,94,2,0,Mortgage,10600,97416,99,Bankruptcy
-Excellent,306,11829,Unemployed,Other,21848,58,Excellent,78,81,6,0,Student,21251,8962,95,Bankruptcy
-Fair,427,73322,Self-Employed,Land,99957,43,Fair,70,69,9,3,Mortgage,15697,40980,28,Other
-Excellent,329,61653,Employed,House,51521,4,Good,19,93,0,4,Personal,5754,91687,64,Tax Lien
-Poor,357,59026,Employed,Investment,69603,43,Good,22,89,6,5,Personal,85735,46978,12,Tax Lien
-Excellent,580,94050,Unemployed,Other,41826,99,Poor,22,96,3,3,Auto,54301,64436,25,Judgement
-Good,721,84192,Unemployed,Land,15252,96,Fair,51,78,1,7,Auto,36387,64057,25,None
-Fair,492,43330,Unemployed,Land,56334,62,Poor,59,58,5,10,Personal,52007,92257,93,None
-Fair,485,45306,Employed,Investment,43217,80,Poor,76,7,0,0,Personal,7544,32731,73,Judgement
-Fair,552,72199,Self-Employed,None,75233,77,Poor,37,100,6,5,Mortgage,36253,73448,95,Judgement
-Good,486,66754,Self-Employed,Land,44438,42,Excellent,17,52,7,6,Auto,75694,9925,75,None
-Good,361,73952,Unemployed,House,47739,50,Good,1,28,3,8,Other,31673,20858,68,None
-Fair,842,32423,Unemployed,House,19623,46,Excellent,51,52,1,6,Student,61399,21420,24,None
-Poor,700,58981,Unemployed,Investment,35492,88,Good,15,72,1,0,Auto,73664,27129,80,Judgement
-Excellent,829,57996,Self-Employed,Investment,79413,2,Fair,28,61,6,4,Other,43755,77747,44,None
-Fair,314,43136,Unemployed,None,51403,21,Poor,18,14,4,1,Student,46271,34198,49,Other
-Good,674,64458,Unemployed,Other,44108,27,Excellent,38,57,6,7,Student,12975,97818,84,None
-Good,415,53762,Unemployed,Other,90017,13,Fair,2,92,8,6,Mortgage,78437,32628,82,None
-Excellent,444,27034,Unemployed,Investment,95993,67,Good,81,63,3,4,Personal,8889,10900,51,Tax Lien
-Poor,533,36622,Self-Employed,Other,97278,23,Fair,36,79,5,3,Other,21240,67779,13,None
-Fair,841,55691,Unemployed,None,62911,46,Fair,29,84,4,6,Other,4605,34494,72,Judgement
-Excellent,635,74833,Employed,Land,57215,54,Fair,92,46,10,1,Other,31407,21954,34,None
-Fair,733,59182,Self-Employed,House,83457,60,Fair,100,22,2,0,Other,45510,56067,80,Judgement
-Excellent,649,37023,Unemployed,Car,24525,91,Poor,61,79,10,5,Other,50072,55116,23,Bankruptcy
-Poor,649,12775,Self-Employed,Other,19674,32,Poor,68,27,1,8,Personal,5533,90189,17,Collection
-Fair,686,16641,Unemployed,Land,33194,45,Excellent,86,40,10,8,Student,63941,40944,73,Judgement
-Excellent,384,34509,Self-Employed,Land,42466,41,Poor,46,100,4,3,Other,16449,82184,22,None
-Good,503,79834,Unemployed,House,92051,26,Good,82,4,9,10,Personal,67513,69499,93,None
-Poor,665,96448,Employed,Car,42148,89,Fair,43,79,3,5,Other,79431,78118,54,None
-Excellent,639,25357,Unemployed,Other,32162,40,Fair,89,40,10,6,Personal,9408,42734,10,Bankruptcy
-Poor,734,28783,Employed,None,77657,68,Excellent,24,22,4,5,Personal,71689,47150,90,Other
-Fair,467,14401,Employed,Other,66682,57,Poor,86,79,2,0,Student,78583,33081,18,Tax Lien
-Fair,598,78764,Employed,Car,41501,43,Good,86,34,2,3,Other,61146,55739,46,Other
-Good,305,59939,Employed,Other,11687,77,Fair,80,3,5,9,Student,38191,51692,11,Collection
-Excellent,762,27133,Self-Employed,Land,85128,8,Poor,18,12,3,2,Other,74490,33638,29,Judgement
-Fair,426,55747,Unemployed,House,12770,55,Good,47,90,1,9,Personal,98644,98957,5,Judgement
-Fair,771,42814,Self-Employed,Other,96371,93,Fair,7,13,5,7,Auto,20547,87418,100,Bankruptcy
-Poor,391,24719,Unemployed,Car,82374,58,Fair,26,99,1,1,Student,71016,84113,61,None
-Fair,810,12470,Unemployed,Investment,24166,26,Fair,16,2,10,3,Student,5769,11098,60,Bankruptcy
-Excellent,842,72806,Self-Employed,Investment,85846,58,Good,99,17,6,6,Personal,90354,35883,56,Tax Lien
-Excellent,361,46199,Employed,House,18411,71,Poor,8,47,6,5,Other,51479,68461,78,Collection
-Poor,377,32912,Self-Employed,Land,92677,62,Fair,51,47,0,6,Auto,5735,42866,47,Judgement
-Poor,431,25623,Employed,Other,24370,3,Poor,0,7,4,10,Student,93042,81658,36,Judgement
-Good,774,87908,Employed,Car,69328,7,Poor,14,73,3,3,Mortgage,29051,79187,43,None
-Good,367,81062,Self-Employed,Land,15374,32,Poor,91,31,9,6,Auto,44540,99325,59,Other
-Good,340,63635,Employed,House,99400,44,Excellent,79,14,5,9,Mortgage,51867,56806,67,Judgement
-Excellent,406,66907,Unemployed,House,96214,100,Good,97,27,2,4,Personal,711,81534,11,Tax Lien
-Excellent,417,95626,Unemployed,Car,79423,14,Excellent,83,79,7,1,Auto,33019,77142,49,Tax Lien
-Good,576,79168,Unemployed,Car,86553,68,Poor,30,57,0,5,Other,79119,808,34,None
-Good,587,19540,Unemployed,None,12487,75,Excellent,18,2,6,1,Student,12820,33614,43,Judgement
-Poor,441,89046,Self-Employed,None,58223,23,Poor,16,88,1,9,Mortgage,15002,40231,21,Judgement
-Poor,435,13604,Unemployed,Car,12053,63,Fair,59,10,8,7,Auto,56539,28961,69,Collection
-Good,335,56425,Unemployed,House,32049,14,Excellent,78,34,7,10,Personal,53122,81253,12,None
-Fair,411,48301,Employed,Other,65100,87,Fair,41,8,9,3,Personal,83127,46581,31,Collection
-Poor,642,75136,Unemployed,Other,36714,20,Excellent,5,29,5,7,Student,64941,1621,87,None
-Good,783,89167,Unemployed,Car,37929,97,Fair,48,47,1,5,Mortgage,97376,44844,0,Bankruptcy
-Poor,806,55486,Employed,Other,49037,79,Excellent,81,55,4,9,Other,93137,43839,8,Tax Lien
-Excellent,523,92327,Self-Employed,Land,26184,56,Good,83,90,4,0,Student,80425,33617,2,Collection
-Good,730,28837,Employed,None,68768,84,Good,53,19,2,1,Other,99375,61215,55,Tax Lien
-Good,423,92329,Employed,Investment,52298,28,Excellent,83,59,10,9,Student,32566,22426,87,Tax Lien
-Fair,619,98170,Unemployed,None,80163,52,Poor,18,9,9,2,Student,78547,82465,39,None
-Good,598,10491,Self-Employed,Investment,94761,87,Good,93,88,10,6,Mortgage,53709,25426,51,Other
-Excellent,490,40119,Self-Employed,Investment,86003,81,Fair,94,15,7,0,Student,33059,83670,94,Tax Lien
-Fair,569,61752,Unemployed,Investment,36768,36,Good,85,95,2,1,Mortgage,36295,75046,17,Tax Lien
-Poor,809,83723,Unemployed,Car,17989,71,Poor,79,91,10,1,Personal,376,35015,87,Judgement
-Poor,828,93302,Employed,Land,67228,92,Good,80,28,2,7,Student,51507,3437,58,Other
-Good,575,44829,Employed,None,77088,76,Excellent,60,73,1,9,Personal,40421,61896,85,None
-Poor,754,97618,Self-Employed,Investment,89274,56,Good,87,48,5,5,Mortgage,98528,86676,46,Judgement
-Good,329,32971,Unemployed,Land,16021,26,Excellent,74,61,1,1,Mortgage,47162,91407,5,Other
-Excellent,596,97225,Unemployed,None,24713,95,Good,88,74,6,4,Personal,40563,41060,49,Tax Lien
-Good,327,59038,Self-Employed,Land,42881,52,Good,66,80,5,8,Student,45092,35935,42,Other
-Poor,655,51108,Employed,Other,73265,99,Good,74,90,5,3,Personal,20297,94997,99,Tax Lien
-Poor,655,85861,Unemployed,None,15167,23,Excellent,59,59,7,3,Student,95606,81913,25,Collection
-Good,832,81545,Employed,Land,99428,19,Good,79,85,1,6,Student,33850,83630,58,None
-Good,712,96504,Employed,None,73247,82,Fair,44,22,2,0,Student,50028,84473,69,Judgement
-Fair,548,65757,Self-Employed,None,80458,74,Excellent,42,96,7,7,Student,53142,34990,43,Bankruptcy
-Fair,403,76934,Employed,Investment,46313,6,Excellent,84,3,6,10,Auto,7156,7228,1,Bankruptcy
-Fair,342,43260,Employed,None,24694,71,Poor,16,25,1,9,Auto,67216,97496,68,Collection
-Fair,569,91078,Unemployed,Other,80172,38,Good,52,2,3,1,Other,24480,10590,4,Tax Lien
-Excellent,682,89764,Self-Employed,Car,40969,9,Poor,26,65,1,2,Auto,98220,71527,7,Other
-Good,527,57127,Employed,Land,93374,97,Good,40,46,6,9,Personal,86694,12137,88,Tax Lien
-Good,306,88882,Unemployed,Other,36112,49,Good,16,6,1,3,Other,37022,64942,50,Judgement
-Excellent,331,62815,Unemployed,House,32929,83,Excellent,68,59,5,1,Student,53334,47435,22,Tax Lien
-Poor,457,38451,Employed,None,66073,90,Good,24,84,9,8,Personal,97555,27233,44,Other
-Poor,640,39817,Unemployed,House,62066,20,Poor,87,17,8,5,Mortgage,80145,18114,50,None
-Poor,558,99869,Employed,Other,46631,48,Fair,83,27,1,8,Auto,27346,52980,19,Collection
-Excellent,453,37060,Self-Employed,Other,23960,66,Fair,42,16,6,10,Other,35521,84783,76,Tax Lien
-Good,626,24304,Self-Employed,Investment,61298,84,Excellent,25,86,7,6,Student,93526,73192,70,None
-Poor,332,86197,Self-Employed,Land,81882,42,Excellent,76,4,2,3,Mortgage,62330,50049,51,Judgement
-Good,826,88446,Self-Employed,Other,49708,72,Good,19,88,6,3,Auto,12069,66528,100,Other
-Fair,719,89494,Employed,Investment,20351,42,Excellent,81,46,1,1,Other,65230,16389,42,Judgement
-Excellent,642,79778,Employed,None,62511,20,Excellent,25,95,6,1,Student,85420,28592,50,Other
-Poor,473,35756,Employed,Other,33647,42,Excellent,30,1,8,6,Auto,78899,75669,86,Bankruptcy
-Good,757,48550,Unemployed,None,45047,11,Fair,57,50,1,4,Auto,78039,76900,21,Other
-Fair,427,39897,Self-Employed,House,46719,26,Excellent,5,37,3,2,Other,36617,30011,79,Bankruptcy
-Poor,728,46162,Self-Employed,None,59185,85,Poor,34,36,6,1,Mortgage,44895,21149,100,Tax Lien
-Fair,719,10187,Employed,House,69348,29,Poor,47,53,0,8,Mortgage,86853,23202,91,Other
-Poor,752,98207,Self-Employed,Investment,11581,66,Poor,39,71,8,7,Student,84080,79289,48,Collection
-Good,416,81400,Self-Employed,Other,67558,53,Excellent,16,45,7,8,Other,58240,73162,18,Collection
-Excellent,817,69051,Unemployed,Car,25047,58,Good,88,85,4,9,Other,44672,43211,40,Other
-Fair,709,54504,Unemployed,Investment,15109,83,Excellent,12,74,4,1,Personal,31117,6944,31,Bankruptcy
-Good,631,25872,Employed,Investment,42522,10,Good,93,88,6,2,Auto,50216,24644,15,Bankruptcy
-Good,599,46573,Employed,Other,16830,28,Good,66,80,5,0,Mortgage,76545,48796,40,Bankruptcy
-Poor,313,13279,Employed,Investment,42137,42,Fair,24,21,8,1,Mortgage,20653,46425,33,Collection
-Poor,643,38661,Self-Employed,None,19497,66,Excellent,24,100,8,0,Mortgage,79098,88766,95,Judgement
-Poor,306,76773,Employed,Land,24129,90,Excellent,47,40,4,3,Mortgage,7991,52964,31,None
-Poor,813,52869,Self-Employed,None,33953,49,Poor,26,70,10,2,Auto,85317,65956,71,Judgement
-Fair,343,48888,Employed,Other,39312,41,Good,65,24,1,0,Mortgage,25956,52945,34,None
-Fair,759,30271,Employed,House,24584,82,Excellent,85,99,2,4,Auto,99626,92491,27,None
-Excellent,321,63504,Self-Employed,None,33115,15,Poor,61,80,7,9,Student,49585,33315,38,Other
-Good,794,12165,Unemployed,Car,68305,62,Good,40,91,0,5,Mortgage,44957,79604,97,Other
-Poor,467,57632,Unemployed,Investment,59705,17,Good,3,20,4,5,Mortgage,17209,15435,21,Other
-Fair,509,38006,Employed,Other,36549,99,Poor,76,76,9,9,Student,8603,27552,61,Collection
-Excellent,722,72099,Unemployed,None,65746,93,Poor,98,99,3,9,Student,37953,4092,19,Collection
-Fair,441,20272,Unemployed,Car,88011,78,Excellent,0,79,9,2,Mortgage,81006,89312,18,Collection
-Good,824,95241,Employed,Land,13846,27,Fair,7,100,9,2,Auto,61697,88861,60,Collection
-Fair,371,77362,Self-Employed,Other,46706,89,Good,88,22,2,9,Mortgage,34587,98117,33,Tax Lien
-Excellent,355,83159,Employed,Land,29185,74,Poor,85,43,4,1,Student,44350,34077,29,Judgement
-Poor,343,69831,Employed,Investment,79411,20,Good,44,56,3,6,Other,47984,58738,10,Other
-Poor,827,42347,Employed,None,67206,37,Excellent,95,54,9,9,Personal,26307,56968,34,Tax Lien
-Good,516,19617,Self-Employed,Investment,19949,61,Good,78,40,5,8,Mortgage,2520,87,71,None
-Excellent,763,88954,Self-Employed,House,60776,92,Good,53,12,0,1,Student,38059,98033,87,Bankruptcy
-Fair,667,84549,Employed,Other,96132,100,Excellent,93,27,8,5,Student,60992,66111,61,None
-Fair,485,44700,Self-Employed,Investment,41344,52,Fair,48,87,2,2,Student,46140,74732,90,Judgement
-Fair,814,52669,Self-Employed,Other,80867,37,Poor,66,85,6,6,Auto,75179,85959,49,Collection
-Poor,750,45943,Self-Employed,Other,50625,26,Good,29,31,0,3,Personal,94007,19567,9,Judgement
-Good,719,50634,Unemployed,None,13522,23,Good,81,74,2,9,Personal,53015,67122,58,Tax Lien
-Fair,610,67354,Employed,Investment,24488,15,Fair,5,80,3,4,Auto,86005,40436,54,Bankruptcy
-Fair,414,97335,Unemployed,Other,58431,61,Good,70,65,10,3,Mortgage,42031,25908,53,Tax Lien
-Fair,620,63479,Unemployed,Other,28250,87,Good,50,24,0,5,Mortgage,10260,63681,23,None
-Excellent,791,91503,Unemployed,House,19000,54,Fair,25,82,0,4,Other,69104,5348,56,None
-Poor,678,33443,Self-Employed,Land,65119,78,Fair,37,82,3,10,Student,56852,17242,69,Collection
-Fair,792,38587,Unemployed,House,17376,56,Good,63,76,2,7,Other,89089,65625,93,Other
-Excellent,419,22927,Self-Employed,House,86841,30,Fair,8,61,6,5,Student,78544,97925,53,Other
-Good,736,27525,Employed,House,78727,64,Fair,89,12,6,4,Other,86292,42374,69,Tax Lien
-Excellent,381,12130,Employed,Other,41768,51,Fair,40,16,8,2,Personal,30136,90713,72,Bankruptcy
-Poor,836,81877,Self-Employed,Car,37369,16,Fair,79,87,1,1,Student,82410,17304,57,Judgement
-Good,331,14408,Self-Employed,None,51929,20,Excellent,0,91,9,7,Mortgage,63553,39913,29,Bankruptcy
-Fair,477,59249,Self-Employed,House,79981,4,Fair,45,27,5,10,Student,13955,96291,88,Judgement
-Poor,753,12821,Employed,House,14512,4,Poor,44,74,8,3,Personal,65820,64042,17,None
-Excellent,731,68995,Self-Employed,Other,60973,73,Excellent,14,14,7,7,Personal,53458,99484,78,None
-Fair,733,51088,Employed,Car,22428,9,Good,35,0,3,8,Student,90562,2918,96,Bankruptcy
-Good,397,85935,Employed,House,85579,55,Poor,0,68,5,0,Other,95914,1994,35,Judgement
-Excellent,584,27892,Unemployed,Other,78516,4,Good,2,39,2,4,Personal,84251,31994,52,Other
-Excellent,300,19925,Employed,Land,43343,24,Good,33,89,3,9,Other,77036,54899,69,Other
-Good,704,33712,Self-Employed,Land,81868,62,Good,20,11,4,8,Personal,13244,3658,67,Collection
-Poor,644,73140,Employed,Other,48548,96,Good,58,80,1,2,Mortgage,26701,20338,84,Collection
-Poor,832,56404,Self-Employed,House,88007,42,Excellent,50,88,1,9,Mortgage,71030,16598,96,Tax Lien
-Good,394,58250,Employed,None,19415,53,Good,74,39,5,9,Personal,94378,38078,1,Bankruptcy
-Good,764,12040,Self-Employed,None,93662,2,Excellent,42,71,10,10,Student,74218,19680,69,None
-Good,506,82793,Self-Employed,Land,51649,43,Fair,49,83,6,1,Mortgage,47596,71450,58,Other
-Good,542,71664,Self-Employed,Car,64467,75,Good,95,99,4,1,Personal,33570,85547,54,Other
-Fair,303,49542,Unemployed,Investment,65658,91,Excellent,84,9,1,7,Personal,89417,41365,1,Other
-Excellent,710,30382,Employed,None,85339,61,Excellent,40,78,7,0,Student,67311,79511,92,Judgement
-Good,379,67949,Self-Employed,Investment,41933,27,Excellent,69,78,7,5,Auto,29358,11447,39,Collection
-Excellent,661,96281,Employed,Car,37087,41,Fair,78,89,1,9,Other,74523,55603,47,None
-Excellent,495,50064,Self-Employed,House,94149,48,Good,39,68,10,5,Student,27708,60713,3,Collection
-Poor,559,38692,Self-Employed,Other,16524,48,Good,51,14,7,9,Mortgage,45715,62136,29,Tax Lien
-Good,710,28282,Self-Employed,Car,11777,100,Good,85,58,8,1,Mortgage,71129,64942,28,Bankruptcy
-Poor,457,19578,Unemployed,None,53951,51,Fair,35,0,8,0,Auto,57362,27780,90,Bankruptcy
-Excellent,420,81150,Unemployed,Car,94860,16,Poor,60,20,5,4,Auto,10150,5813,34,Bankruptcy
-Good,735,22032,Employed,Investment,21241,77,Excellent,3,98,3,0,Auto,83774,2014,46,Tax Lien
-Good,790,41058,Self-Employed,Investment,80562,94,Good,97,20,2,6,Auto,43683,69050,91,Collection
-Excellent,469,92649,Self-Employed,House,27351,1,Fair,40,89,0,8,Auto,68522,5740,96,Tax Lien
-Fair,544,87531,Employed,None,45407,97,Good,85,73,7,2,Student,72346,31296,55,Bankruptcy
-Good,586,42254,Self-Employed,House,70912,91,Excellent,94,50,9,6,Mortgage,60820,47454,84,Collection
-Good,309,85761,Self-Employed,House,73953,25,Excellent,30,15,1,7,Personal,65899,90219,81,Judgement
-Excellent,706,15567,Unemployed,Other,55359,2,Good,58,83,7,1,Personal,15616,54739,31,Other
-Excellent,572,50748,Unemployed,Investment,60063,50,Poor,56,21,6,4,Personal,77584,70523,56,Other
-Excellent,592,69163,Self-Employed,Car,66192,57,Fair,90,73,3,1,Personal,14716,74072,64,Bankruptcy
-Poor,661,28557,Employed,House,93745,10,Good,90,51,6,7,Auto,33857,99689,60,Judgement
-Excellent,724,11431,Self-Employed,None,43222,12,Fair,44,23,1,2,Mortgage,87547,31324,99,Collection
-Good,811,36156,Employed,Land,91479,94,Good,84,34,2,4,Auto,40156,44923,90,Judgement
-Excellent,840,20264,Self-Employed,Investment,49356,74,Excellent,22,34,3,7,Auto,31713,79853,81,Tax Lien
-Good,355,60382,Unemployed,Other,92088,45,Poor,52,15,9,2,Auto,38533,25581,84,Bankruptcy
-Fair,431,30056,Employed,Land,89681,50,Good,73,10,10,1,Student,28778,52474,61,None
-Excellent,781,30958,Employed,Other,93107,14,Fair,91,39,10,2,Other,98442,27258,48,Tax Lien
-Excellent,519,90514,Self-Employed,Car,48136,59,Poor,60,41,1,8,Other,47469,96312,54,Collection
-Excellent,569,33829,Unemployed,House,59830,65,Poor,35,73,4,6,Mortgage,85023,24245,10,Bankruptcy
-Poor,511,15052,Unemployed,Land,96489,91,Excellent,27,66,5,0,Student,12411,71272,88,Bankruptcy
-Fair,537,90779,Unemployed,Car,57291,82,Excellent,77,61,8,10,Auto,27903,56409,79,Other
-Poor,822,12276,Employed,Other,79322,28,Poor,54,81,3,9,Other,97630,63768,39,Judgement
-Fair,495,17988,Unemployed,Other,14957,91,Excellent,60,93,5,10,Personal,16142,67222,95,Judgement
-Good,837,39847,Self-Employed,Land,15875,57,Poor,55,35,5,4,Other,76949,50794,76,Collection
-Fair,435,97743,Employed,House,23271,87,Excellent,97,21,2,6,Other,88928,78488,94,None
-Excellent,358,99084,Employed,Car,93173,41,Excellent,47,50,3,2,Auto,26953,91575,66,Collection
-Good,514,51554,Employed,Other,35160,68,Poor,46,72,9,9,Personal,81592,93408,96,Other
-Fair,512,23186,Employed,Other,43143,28,Fair,12,47,0,5,Mortgage,99838,79581,96,Collection
-Good,328,57679,Self-Employed,Other,11902,68,Good,12,17,4,6,Personal,87126,7664,1,None
-Good,499,33918,Self-Employed,House,94082,6,Excellent,13,64,4,2,Personal,71039,59589,19,Bankruptcy
-Poor,421,20728,Self-Employed,Investment,49644,83,Good,71,56,1,0,Personal,41160,39414,46,Tax Lien
-Excellent,847,69549,Unemployed,None,10395,61,Good,91,83,7,0,Other,70861,60931,56,Collection
-Good,394,45514,Employed,Car,69105,57,Good,41,4,1,9,Student,99433,99839,15,None
-Excellent,606,52904,Employed,Other,98367,36,Poor,3,29,0,4,Other,40981,74838,98,Other
-Good,302,44934,Employed,Car,31464,69,Excellent,1,89,1,7,Auto,6631,33366,19,Tax Lien
-Good,705,94535,Employed,None,78620,90,Fair,32,33,2,3,Other,21097,3960,99,Collection
-Good,305,57089,Employed,Land,69587,78,Poor,94,19,3,10,Mortgage,35669,4823,18,Collection
-Poor,770,57272,Employed,Car,64611,26,Excellent,86,21,10,4,Mortgage,46846,85839,1,Bankruptcy
-Poor,790,12006,Employed,Investment,24453,100,Good,47,93,1,6,Mortgage,30498,98722,3,Judgement
-Poor,373,14985,Unemployed,Car,98379,56,Poor,86,41,8,9,Mortgage,96816,22301,11,Collection
-Fair,421,29382,Employed,Car,28461,32,Fair,87,12,1,6,Mortgage,76432,15262,68,Tax Lien
-Excellent,482,58207,Employed,None,34128,92,Excellent,25,74,3,5,Other,36678,95632,55,Bankruptcy
-Good,632,18454,Self-Employed,None,63934,62,Fair,7,100,4,4,Student,16033,96923,29,None
-Excellent,637,24841,Unemployed,None,89359,86,Excellent,76,99,3,7,Student,87090,39680,86,Judgement
-Fair,791,92206,Employed,Other,89901,38,Good,38,99,4,5,Other,82693,89574,40,Other
-Fair,343,60287,Employed,Other,34978,90,Poor,9,55,2,4,Other,42519,13745,55,Judgement
-Poor,796,26832,Employed,None,43497,54,Fair,36,33,5,6,Personal,77574,10341,46,Other
-Good,741,14642,Unemployed,None,31695,64,Good,97,1,5,4,Student,69961,33641,17,Judgement
-Poor,319,70914,Employed,Car,62835,62,Excellent,37,17,4,1,Mortgage,6982,75591,83,Judgement
-Excellent,352,54271,Unemployed,Car,66733,70,Fair,44,34,6,9,Personal,24560,15573,58,None
-Good,335,43894,Employed,Car,24287,28,Fair,57,44,10,3,Other,54664,30599,3,Other
-Poor,380,61402,Unemployed,Car,64840,88,Good,78,94,0,5,Personal,13293,60717,91,Judgement
-Poor,658,85586,Employed,Land,68496,46,Good,97,11,3,4,Other,94239,75102,68,None
-Good,552,76059,Unemployed,Investment,25178,43,Excellent,62,95,6,8,Personal,16280,76452,54,Judgement
-Excellent,726,78236,Self-Employed,Car,46647,80,Excellent,59,22,7,3,Student,50158,39344,11,Other
-Excellent,576,69966,Unemployed,House,61446,74,Fair,60,9,7,6,Personal,92253,5227,9,Judgement
-Good,302,33840,Unemployed,House,55930,91,Excellent,36,41,7,3,Mortgage,12546,74605,41,Other
-Excellent,660,19284,Unemployed,House,15226,62,Good,91,87,1,10,Personal,17512,19590,72,Collection
-Excellent,786,95649,Self-Employed,House,93740,38,Excellent,44,10,9,2,Student,91292,34501,6,None
-Poor,700,90443,Unemployed,None,87417,49,Excellent,68,84,3,3,Mortgage,14894,78648,32,Judgement
-Fair,506,16886,Employed,House,70185,40,Excellent,31,21,1,1,Mortgage,23834,253,92,Collection
-Poor,604,88788,Unemployed,Land,65914,80,Poor,69,57,4,5,Mortgage,11303,63290,88,Collection
-Excellent,657,31703,Unemployed,Car,39912,38,Excellent,83,71,8,7,Other,2418,28806,37,Bankruptcy
-Excellent,652,14746,Employed,Other,33415,99,Good,31,31,4,0,Other,15877,81443,9,Other
-Fair,786,62940,Employed,None,41456,24,Poor,1,18,3,10,Mortgage,64319,49842,13,Collection
-Good,523,50622,Unemployed,Land,33033,97,Excellent,79,54,5,4,Auto,41004,64508,54,Tax Lien
-Excellent,459,11952,Employed,None,37852,28,Good,44,85,6,2,Auto,88877,23974,66,Other
-Excellent,388,78703,Employed,Other,82914,85,Good,22,25,10,5,Student,18888,30883,73,Other
-Good,483,16278,Self-Employed,Land,88919,68,Poor,51,69,8,1,Mortgage,30409,54264,97,Collection
-Excellent,678,88808,Unemployed,House,50021,90,Excellent,5,71,2,0,Auto,91707,33823,63,Bankruptcy
-Good,841,32919,Self-Employed,None,44225,88,Excellent,8,80,2,0,Auto,79109,9266,56,Tax Lien
-Poor,445,87088,Unemployed,Investment,55487,84,Excellent,40,63,4,9,Mortgage,58882,80109,1,None
-Excellent,680,94436,Self-Employed,House,24310,29,Good,95,25,7,0,Personal,38410,75816,37,Collection
-Poor,598,85054,Employed,Other,24955,64,Fair,6,83,1,8,Student,59566,87714,47,Other
-Fair,778,93067,Unemployed,Land,19661,54,Poor,46,9,2,3,Personal,2024,60734,43,Tax Lien
-Fair,564,10684,Unemployed,Land,77325,80,Excellent,14,73,4,9,Mortgage,47395,80287,19,Bankruptcy
-Good,826,18305,Unemployed,Car,71651,21,Good,42,17,6,0,Other,51415,67285,72,Collection
-Good,706,67845,Unemployed,Other,67993,89,Poor,10,63,2,7,Mortgage,48556,98689,44,Other
-Excellent,623,18922,Unemployed,House,65481,88,Excellent,60,51,0,5,Personal,65089,55901,64,Collection
-Fair,423,78163,Employed,Car,19508,51,Excellent,3,6,9,1,Student,87559,71717,63,Bankruptcy
-Good,463,31919,Employed,House,82956,35,Excellent,0,77,1,7,Auto,21181,148,47,None
-Fair,369,73348,Employed,Other,84728,22,Fair,92,64,0,3,Mortgage,6088,97070,32,Collection
-Good,628,82650,Unemployed,Investment,37063,67,Good,14,68,2,2,Mortgage,57296,88365,59,None
-Poor,467,74708,Unemployed,Land,50172,10,Excellent,39,85,8,8,Student,67899,93217,69,Other
-Excellent,785,83357,Unemployed,House,88066,86,Poor,77,23,6,9,Other,5968,31443,65,Other
-Poor,509,88025,Employed,None,25686,27,Poor,22,6,1,8,Other,40292,99126,64,Tax Lien
-Excellent,723,60916,Unemployed,Investment,64316,85,Good,6,5,9,1,Mortgage,90468,17734,2,Other
-Good,573,10797,Employed,House,66076,93,Good,58,7,6,1,Student,35104,90610,22,Tax Lien
-Fair,682,54877,Unemployed,None,47212,52,Good,17,99,3,10,Personal,69132,57964,80,None
-Poor,600,82101,Unemployed,House,68533,70,Fair,41,34,3,1,Mortgage,45054,65242,28,Other
-Fair,577,36875,Unemployed,Land,51696,20,Good,75,94,5,5,Other,95482,24518,20,Other
-Poor,416,60862,Employed,Other,99015,31,Poor,70,55,6,2,Auto,34131,45428,88,Other
-Poor,472,51038,Employed,Car,38557,11,Good,75,53,4,2,Student,72485,59569,5,Judgement
-Good,331,34363,Unemployed,Car,26429,67,Excellent,52,86,8,6,Other,21128,37527,10,Tax Lien
-Good,378,43357,Employed,None,29788,48,Excellent,11,88,7,10,Personal,29893,65088,7,Collection
-Good,529,21911,Unemployed,Other,82143,77,Good,64,65,10,3,Mortgage,5760,66200,13,Tax Lien
-Poor,693,91115,Employed,House,66384,16,Good,97,12,9,0,Auto,82478,52880,84,Judgement
-Poor,831,61757,Self-Employed,Car,74369,57,Poor,26,95,2,5,Other,28959,84005,31,None
-Good,554,32134,Employed,Investment,23933,15,Excellent,75,23,3,9,Student,24998,26905,6,Other
-Poor,662,45321,Unemployed,Other,58348,26,Poor,27,7,9,9,Other,33558,44448,75,Tax Lien
-Good,558,11870,Unemployed,Investment,48634,6,Fair,92,54,8,9,Auto,83323,60138,50,Collection
-Fair,593,75185,Self-Employed,None,65116,79,Poor,86,95,9,6,Student,30734,72884,26,None
-Poor,704,85003,Self-Employed,Land,32368,73,Good,96,59,7,1,Auto,24973,87016,45,Bankruptcy
-Poor,766,63337,Employed,Investment,37817,29,Good,65,17,2,5,Mortgage,24436,86381,10,Other
-Good,469,42828,Unemployed,Land,22309,40,Excellent,67,62,3,5,Other,96594,51254,5,Collection
-Fair,513,23821,Employed,None,95399,96,Poor,39,71,1,8,Personal,75661,29125,89,None
-Excellent,303,40980,Employed,None,19235,3,Fair,62,18,0,10,Student,31008,11857,32,Other
-Fair,837,37609,Self-Employed,Land,32262,83,Good,47,28,5,2,Auto,2352,40895,25,Judgement
-Good,441,44464,Employed,House,88867,17,Poor,72,86,8,8,Personal,30787,10287,3,Collection
-Good,307,40061,Unemployed,Land,62772,39,Fair,93,93,6,2,Other,31074,44961,19,Judgement
-Excellent,635,52693,Unemployed,Land,46083,0,Poor,84,42,9,5,Auto,72465,17125,87,Bankruptcy
-Excellent,397,54206,Employed,Other,16142,82,Good,84,55,1,2,Personal,49139,92056,33,Bankruptcy
-Poor,848,34940,Unemployed,Investment,12540,29,Fair,72,30,5,2,Personal,63968,75387,43,Judgement
-Good,342,54553,Unemployed,Other,36586,40,Excellent,76,82,7,9,Personal,12481,969,65,Other
-Poor,477,98349,Employed,Investment,32333,34,Good,19,3,6,3,Personal,86625,73898,18,Judgement
-Poor,512,36654,Employed,Investment,44595,14,Poor,36,89,8,2,Other,93310,53695,67,Collection
-Fair,325,74003,Unemployed,Land,80310,69,Poor,52,62,7,9,Student,54881,52871,63,Judgement
-Poor,466,56617,Unemployed,Other,61695,15,Excellent,92,93,7,2,Other,17132,73697,17,Tax Lien
-Good,455,70686,Employed,Car,72363,85,Good,61,70,7,3,Mortgage,13941,75373,100,Bankruptcy
-Excellent,647,90398,Self-Employed,Other,69571,5,Poor,16,27,4,8,Other,40427,58757,64,Bankruptcy
-Fair,558,63987,Employed,House,48100,34,Good,49,88,4,10,Student,53051,13823,78,Tax Lien
-Poor,312,57117,Unemployed,None,33071,75,Good,64,82,2,5,Mortgage,33159,4493,57,Bankruptcy
-Fair,648,43816,Self-Employed,Other,64856,51,Poor,44,36,5,2,Personal,63773,21134,44,Judgement
-Poor,380,16037,Self-Employed,None,27551,1,Excellent,44,99,1,2,Other,58829,53366,87,Other
-Excellent,811,37967,Self-Employed,None,84254,36,Fair,51,68,3,1,Other,16773,62640,77,Collection
-Fair,803,25306,Self-Employed,Investment,86568,37,Poor,59,80,10,3,Personal,28024,67503,16,Collection
-Fair,626,76988,Self-Employed,Investment,49115,78,Fair,82,70,9,10,Other,70115,7880,88,None
-Fair,414,91427,Employed,None,34714,33,Excellent,73,80,4,9,Auto,80990,72688,32,Collection
-Poor,486,41313,Self-Employed,Land,91968,7,Poor,10,63,6,10,Auto,58546,37293,60,Bankruptcy
-Poor,323,37408,Unemployed,Investment,92513,14,Poor,23,21,8,5,Mortgage,49164,75811,37,Judgement
-Fair,753,42872,Self-Employed,Land,17849,99,Good,94,22,7,6,Student,92265,83954,58,Tax Lien
-Fair,476,97087,Employed,Land,24473,92,Excellent,80,9,7,1,Other,7672,38569,51,Collection
-Poor,631,98657,Self-Employed,House,49764,99,Good,3,1,8,2,Personal,62984,74417,56,Tax Lien
-Poor,380,14929,Self-Employed,House,61150,6,Poor,22,16,4,3,Other,40860,62874,77,Collection
-Poor,534,51769,Unemployed,Investment,50248,82,Fair,2,15,9,6,Mortgage,80104,19648,28,None
-Good,847,83405,Employed,Car,35611,80,Good,10,59,10,0,Auto,39390,39549,21,Judgement
-Good,342,37872,Employed,Car,12352,61,Good,86,83,3,1,Auto,60789,86473,28,None
-Poor,532,91842,Employed,Car,67308,57,Fair,3,2,6,6,Student,74339,66344,22,Judgement
-Fair,309,63861,Employed,Land,27011,57,Fair,64,18,7,5,Student,68366,62663,78,None
-Excellent,559,28497,Employed,None,21628,52,Excellent,30,54,4,1,Mortgage,66447,73815,7,Bankruptcy
-Excellent,592,22531,Employed,House,68981,59,Fair,38,29,9,3,Student,55089,41252,55,Judgement
-Fair,338,79673,Self-Employed,Land,25106,28,Fair,78,0,5,9,Student,19007,36114,51,Tax Lien
-Good,729,30857,Self-Employed,Other,35924,8,Poor,66,54,2,1,Student,73686,26706,13,Tax Lien
-Poor,818,14969,Employed,None,90640,43,Poor,35,24,5,8,Student,55563,71996,34,Other
-Fair,581,62847,Unemployed,Other,59399,68,Fair,34,98,0,10,Personal,45816,4146,80,Tax Lien
-Fair,603,79944,Unemployed,Car,49419,18,Excellent,33,62,5,3,Other,32452,36430,91,None
-Poor,697,29911,Self-Employed,Land,27840,13,Excellent,93,5,3,8,Personal,82990,27348,76,Other
-Excellent,366,53405,Employed,Other,50165,21,Poor,80,32,4,4,Other,11074,311,58,None
-Poor,668,70194,Self-Employed,Land,33345,86,Fair,34,70,4,4,Personal,53094,5501,51,None
-Good,490,49803,Employed,None,52041,13,Poor,70,54,4,5,Student,2833,8659,86,Judgement
-Poor,411,38179,Self-Employed,Other,99674,80,Excellent,65,57,5,1,Personal,29634,685,57,Collection
-Fair,504,93085,Self-Employed,Car,67056,33,Poor,23,5,9,1,Other,93547,46013,14,Bankruptcy
-Poor,538,49087,Employed,House,61627,83,Good,86,94,3,7,Mortgage,49573,16684,38,None
-Good,626,70327,Unemployed,House,86858,46,Good,68,62,0,0,Other,13119,53179,23,Bankruptcy
-Excellent,681,63130,Unemployed,None,18324,81,Poor,81,13,0,6,Other,7809,51506,53,None
-Poor,818,62093,Self-Employed,Investment,21987,41,Poor,98,12,6,5,Student,32858,61245,68,Collection
-Fair,806,57161,Employed,Investment,59362,64,Poor,0,23,10,1,Auto,57756,36708,97,None
-Excellent,304,74070,Employed,Other,57013,42,Excellent,99,56,0,0,Mortgage,3055,67929,85,Collection
-Poor,474,48786,Self-Employed,Land,62922,10,Excellent,99,81,1,7,Auto,54004,27308,98,Bankruptcy
-Excellent,376,31252,Employed,Other,64778,50,Poor,4,46,2,5,Personal,456,48411,38,Bankruptcy
-Poor,757,43976,Unemployed,Land,26964,46,Excellent,11,19,7,5,Auto,55521,945,85,Collection
-Excellent,443,87453,Employed,Investment,62044,72,Fair,65,59,3,5,Personal,28347,21667,67,Judgement
-Excellent,425,94467,Self-Employed,None,47312,0,Fair,17,67,10,7,Mortgage,63130,36693,70,Collection
-Fair,325,58517,Self-Employed,House,51545,13,Excellent,30,97,6,10,Personal,48695,71385,12,Judgement
-Poor,638,88224,Unemployed,None,84092,31,Fair,47,50,7,1,Auto,10855,1196,18,Tax Lien
-Poor,373,86849,Employed,None,97114,93,Poor,21,28,5,0,Student,83557,10270,95,Collection
-Excellent,407,88537,Self-Employed,Car,80724,17,Excellent,53,76,2,1,Mortgage,14626,29711,70,Bankruptcy
-Fair,574,22434,Employed,None,36812,0,Excellent,17,92,1,9,Mortgage,63849,5871,59,Judgement
-Excellent,424,48445,Self-Employed,Car,63657,85,Excellent,95,78,3,3,Mortgage,90382,98301,32,Tax Lien
-Fair,799,83880,Employed,House,36025,15,Good,2,1,8,8,Other,98490,91520,20,Other
-Excellent,473,28780,Employed,House,72766,79,Good,83,21,9,4,Personal,61280,19514,8,Bankruptcy
-Good,765,27821,Unemployed,Land,97160,41,Good,24,10,8,4,Other,90596,13943,43,Judgement
-Fair,714,23820,Self-Employed,Land,74886,30,Good,3,83,2,0,Student,3916,79251,4,Tax Lien
-Good,684,78311,Employed,Car,20788,21,Excellent,62,59,1,2,Personal,50023,70093,39,Judgement
-Good,315,90097,Employed,Car,49972,89,Fair,37,46,2,4,Personal,60037,87957,69,Bankruptcy
-Good,759,14015,Employed,House,41073,11,Good,66,41,0,7,Auto,28363,38999,35,Collection
-Fair,335,63981,Self-Employed,House,82783,77,Poor,19,80,10,5,Personal,99267,80860,2,Judgement
-Poor,794,15772,Employed,Other,23249,10,Poor,68,5,2,4,Student,92640,90278,15,Tax Lien
-Fair,747,85334,Self-Employed,Car,90803,62,Poor,51,53,9,1,Other,1818,82333,34,Bankruptcy
-Fair,605,39990,Employed,Land,38369,63,Fair,33,36,0,3,Mortgage,45655,89987,56,None
-Good,664,41206,Unemployed,Investment,34707,93,Good,60,68,0,2,Mortgage,76944,39427,87,None
-Poor,412,12331,Self-Employed,None,90555,18,Poor,88,14,6,7,Personal,84978,7284,59,Collection
-Poor,392,27455,Unemployed,Other,41014,65,Good,65,79,7,0,Auto,15188,723,9,Bankruptcy
-Good,476,84480,Self-Employed,House,74202,93,Excellent,68,22,8,2,Mortgage,85259,39633,86,Other
-Excellent,564,83566,Employed,Investment,64381,76,Good,44,91,7,1,Other,81428,46758,37,Tax Lien
-Poor,375,38178,Unemployed,Car,79528,19,Good,90,17,1,8,Mortgage,96223,33889,29,None
-Good,383,88125,Self-Employed,Car,73487,62,Good,100,7,4,1,Personal,97694,2486,63,Other
-Poor,391,42282,Self-Employed,Investment,13554,19,Poor,39,49,10,5,Auto,35107,64874,20,Judgement
-Good,397,78167,Self-Employed,None,65707,70,Poor,63,0,6,2,Auto,71130,89290,28,Other
-Poor,673,58418,Employed,Other,30723,7,Poor,10,38,7,10,Student,13508,19964,73,Judgement
-Excellent,736,98948,Employed,Land,44526,7,Excellent,56,95,2,10,Personal,77195,18565,49,Judgement
-Fair,641,23840,Unemployed,None,36008,1,Good,22,62,3,7,Auto,66815,2863,96,Tax Lien
-Fair,413,79988,Unemployed,Investment,60264,60,Good,94,37,5,9,Other,15076,37885,65,Collection
-Fair,682,99076,Self-Employed,Investment,40736,58,Excellent,97,31,5,0,Personal,47463,24646,57,Bankruptcy
-Excellent,519,81344,Self-Employed,House,64054,72,Fair,30,4,7,3,Other,58770,25760,2,Judgement
-Excellent,426,18655,Unemployed,Car,68969,93,Fair,48,27,2,7,Mortgage,8565,39762,52,Other
-Poor,465,34280,Unemployed,None,30805,49,Fair,42,44,2,5,Auto,17453,51829,30,Judgement
-Poor,536,67422,Unemployed,Land,84266,53,Excellent,89,44,3,2,Personal,80186,69130,10,Collection
-Fair,397,44128,Self-Employed,Car,69575,55,Excellent,83,21,4,6,Mortgage,25182,40111,34,Tax Lien
-Fair,512,86658,Unemployed,Land,79442,53,Excellent,89,12,3,10,Student,80516,34042,26,Collection
-Fair,789,20974,Unemployed,Land,57004,52,Good,85,20,9,10,Personal,10816,55681,33,Bankruptcy
-Good,702,70027,Unemployed,Land,47562,74,Excellent,5,34,2,5,Student,69408,94183,57,Collection
-Poor,484,11735,Unemployed,House,77211,6,Poor,82,97,6,9,Student,32807,51273,69,Tax Lien
-Excellent,352,37861,Self-Employed,Investment,91649,8,Excellent,98,42,6,1,Personal,7881,87283,51,Collection
-Good,707,11722,Self-Employed,Land,24780,54,Excellent,18,59,2,3,Auto,5026,48142,87,Tax Lien
-Fair,470,92505,Unemployed,Land,82300,12,Fair,31,37,2,7,Personal,46014,2627,53,Bankruptcy
-Poor,715,43831,Employed,Investment,24831,100,Fair,82,99,6,2,Personal,50520,38411,24,Collection
-Good,801,92437,Employed,Investment,43172,63,Good,68,99,9,6,Mortgage,28966,49570,57,Other
-Good,376,25971,Employed,None,19248,70,Poor,9,25,5,5,Other,818,74931,28,Other
-Excellent,811,45131,Unemployed,House,57015,96,Poor,85,68,6,4,Other,42676,11091,92,None
-Poor,580,32348,Unemployed,Land,67401,63,Good,48,37,3,3,Auto,34850,8251,54,None
-Fair,548,22513,Unemployed,Investment,18392,41,Good,63,34,4,10,Mortgage,42160,70306,23,Collection
-Fair,462,70909,Unemployed,Car,69896,39,Excellent,57,85,4,2,Student,62752,18452,85,Tax Lien
-Good,823,80164,Self-Employed,Car,18894,32,Fair,84,19,7,10,Personal,52333,53486,63,Tax Lien
-Good,367,80274,Employed,Investment,99929,5,Fair,90,2,2,10,Student,58469,38975,28,None
-Good,304,91707,Employed,Other,90880,52,Poor,8,50,4,6,Mortgage,73765,7796,37,Bankruptcy
-Excellent,470,51505,Unemployed,Investment,88325,96,Good,74,29,6,8,Other,96087,36255,89,Judgement
-Poor,622,26864,Unemployed,House,40623,32,Poor,3,70,3,0,Other,28010,12606,17,Tax Lien
-Fair,599,46517,Self-Employed,Investment,17093,25,Poor,69,45,4,4,Mortgage,63920,98279,65,Tax Lien
-Poor,482,68271,Employed,Car,45356,48,Poor,55,52,9,1,Student,87047,60589,26,None
-Good,398,13006,Employed,House,48282,29,Good,79,96,0,5,Mortgage,80605,1279,26,Bankruptcy
-Excellent,576,53735,Unemployed,Other,19894,81,Fair,81,0,0,9,Student,45240,91597,6,Other
-Poor,677,39739,Employed,Investment,68712,2,Good,74,33,9,8,Mortgage,4167,58403,89,Judgement
-Poor,480,22580,Self-Employed,House,39122,59,Poor,45,33,2,5,Student,21830,88878,83,Collection
-Poor,490,56226,Unemployed,House,43541,78,Fair,19,6,4,6,Mortgage,92102,95137,44,None
-Fair,600,29026,Self-Employed,Car,51396,89,Poor,27,37,4,8,Mortgage,86332,57474,99,None
-Excellent,555,67750,Unemployed,House,74617,31,Fair,81,4,4,6,Personal,74998,91044,24,Bankruptcy
-Excellent,717,98279,Employed,Land,24260,26,Poor,66,85,7,0,Personal,43530,57130,6,Other
-Good,492,21186,Employed,Car,58017,32,Poor,23,64,1,2,Other,68612,3563,12,Other
-Fair,375,52085,Unemployed,Land,20721,91,Excellent,78,9,1,5,Auto,37877,15743,66,Tax Lien
-Poor,428,61668,Self-Employed,Land,80870,91,Poor,51,88,10,2,Personal,11782,1266,95,Judgement
-Fair,748,24662,Employed,None,65217,34,Poor,49,93,6,0,Personal,94052,15355,75,Collection
-Poor,798,43540,Unemployed,Land,11438,62,Excellent,51,35,4,4,Auto,31777,78800,100,Tax Lien
-Poor,347,59268,Employed,Other,42001,58,Excellent,90,74,0,1,Mortgage,33660,39947,96,None
-Fair,303,66621,Employed,Car,40313,41,Fair,13,68,7,1,Student,92899,78269,99,Other
-Excellent,554,89504,Employed,Land,53006,35,Fair,78,62,7,10,Auto,88959,99696,43,Other
-Fair,529,15616,Unemployed,House,30335,16,Excellent,28,26,5,4,Auto,95496,45508,33,Collection
-Fair,738,74510,Employed,None,80852,99,Excellent,62,68,1,8,Auto,16027,9373,45,Bankruptcy
-Fair,311,21316,Unemployed,Investment,98237,55,Poor,92,52,2,3,Personal,79376,46476,54,Tax Lien
-Excellent,306,24463,Unemployed,None,11907,72,Fair,94,11,6,3,Student,63699,46855,59,Bankruptcy
-Excellent,509,44803,Unemployed,House,82907,88,Excellent,81,76,1,10,Other,3762,59857,71,Tax Lien
-Excellent,477,23004,Unemployed,Car,72131,44,Fair,8,100,9,9,Personal,31124,55858,14,Judgement
-Fair,479,41326,Employed,Other,79882,59,Poor,12,76,9,5,Mortgage,26731,40958,91,Bankruptcy
-Good,396,91191,Employed,Land,99803,16,Excellent,51,61,3,9,Student,17511,38053,76,Bankruptcy
-Good,668,93857,Employed,Car,64956,22,Fair,2,76,3,4,Mortgage,73040,97009,76,Tax Lien
-Fair,789,59453,Self-Employed,Investment,48322,38,Excellent,6,58,6,6,Personal,71342,12899,19,Collection
-Fair,543,54099,Employed,Investment,44585,10,Excellent,15,24,4,0,Personal,79754,52509,89,Bankruptcy
-Excellent,835,37223,Employed,Other,43996,56,Fair,42,71,0,4,Other,57213,48802,17,Other
-Good,747,25483,Employed,Land,40402,72,Excellent,4,21,4,7,Personal,96952,66684,7,Bankruptcy
-Good,484,43453,Employed,Other,61504,1,Excellent,10,76,3,0,Other,89994,72413,31,Bankruptcy
-Excellent,421,93195,Unemployed,Car,73791,6,Good,2,85,1,10,Other,99038,38594,4,Tax Lien
-Fair,699,85802,Self-Employed,Land,18622,1,Poor,96,78,4,0,Student,11972,86765,35,Tax Lien
-Poor,731,23865,Employed,Other,81880,69,Good,40,59,6,10,Personal,26244,98100,83,Other
-Excellent,530,78951,Employed,House,82807,22,Excellent,12,81,0,5,Auto,49984,81085,90,Bankruptcy
-Fair,696,18106,Employed,Investment,61247,95,Fair,25,44,1,3,Mortgage,63787,92194,98,None
-Fair,762,15205,Unemployed,Car,55098,36,Good,70,1,6,7,Other,52593,18034,83,Collection
-Excellent,393,15705,Unemployed,None,54037,87,Excellent,91,26,6,1,Student,68683,34649,57,Other
-Good,547,62353,Unemployed,Other,69609,65,Fair,46,0,4,5,Other,71775,96919,42,Bankruptcy
-Excellent,610,10533,Self-Employed,Land,56166,80,Good,93,18,8,5,Student,78479,90372,41,Collection
-Poor,692,52706,Employed,Land,82366,37,Fair,22,11,2,10,Mortgage,49446,8301,9,Other
-Excellent,614,59165,Self-Employed,Car,42211,42,Good,73,31,2,6,Personal,75397,43030,8,Tax Lien
-Fair,651,72274,Employed,House,32213,33,Excellent,11,32,3,3,Student,22663,74514,95,Collection
-Good,574,11634,Self-Employed,None,90925,15,Poor,67,44,8,6,Student,90781,79835,56,Collection
-Excellent,544,20062,Unemployed,Car,30400,50,Good,3,91,9,9,Student,50264,2761,62,Bankruptcy
-Good,647,56705,Unemployed,House,39623,7,Excellent,71,88,5,6,Auto,44167,504,83,Tax Lien
-Poor,403,13911,Self-Employed,None,55457,73,Excellent,80,38,8,4,Personal,48265,87418,46,None
-Good,303,91138,Unemployed,Car,86616,23,Excellent,79,98,4,5,Mortgage,90287,76019,32,Bankruptcy
-Fair,348,94146,Self-Employed,Land,45997,78,Good,95,95,5,1,Student,84138,88004,44,Other
-Poor,426,48926,Employed,Land,23211,14,Good,8,5,5,10,Auto,85565,94898,50,Tax Lien
-Good,770,37864,Employed,Car,63685,93,Good,72,39,4,9,Personal,75020,36875,15,Bankruptcy
-Fair,431,55276,Employed,Car,20434,73,Poor,59,79,4,9,Other,62877,6553,90,Collection
-Poor,365,67926,Unemployed,Land,67445,23,Excellent,91,84,1,0,Personal,19608,11056,51,None
-Excellent,346,53390,Self-Employed,None,21202,78,Excellent,87,7,3,5,Student,5866,70712,8,Tax Lien
-Excellent,301,95780,Unemployed,House,62641,32,Fair,100,96,6,7,Student,42213,82087,17,Other
-Excellent,669,18938,Employed,Other,80882,66,Good,81,96,10,0,Student,61499,28966,90,Bankruptcy
-Poor,802,82522,Unemployed,Car,13048,85,Poor,84,67,5,2,Mortgage,4721,59719,48,None
-Good,703,10005,Employed,Other,90329,97,Poor,92,38,10,1,Other,91188,84959,69,Tax Lien
-Fair,398,99059,Self-Employed,Land,88769,36,Excellent,66,40,8,7,Mortgage,51690,81294,3,None
-Good,745,60617,Self-Employed,Car,76674,81,Excellent,95,69,2,4,Student,92471,55726,18,None
-Fair,684,55286,Self-Employed,Investment,53260,73,Good,25,73,1,3,Other,34947,22921,55,Tax Lien
-Poor,740,36394,Employed,Car,53461,14,Good,56,61,8,9,Other,9922,50768,13,Bankruptcy
-Excellent,835,71439,Unemployed,Other,74386,74,Excellent,81,98,0,4,Mortgage,40164,87913,45,Bankruptcy
-Fair,807,59807,Self-Employed,Investment,24026,24,Poor,59,91,2,9,Auto,26339,31353,16,None
-Good,418,45943,Self-Employed,House,18114,79,Fair,3,57,0,0,Personal,725,20099,43,Judgement
-Good,564,18677,Unemployed,Other,54856,21,Fair,83,36,5,4,Mortgage,42819,86075,89,Tax Lien
-Good,368,61089,Unemployed,Investment,65094,60,Poor,42,17,5,1,Other,91088,53977,20,None
-Excellent,628,60399,Self-Employed,Other,61480,18,Fair,85,6,4,8,Mortgage,98157,66747,80,Tax Lien
-Good,471,36367,Unemployed,House,63557,35,Fair,78,61,10,10,Student,22872,87750,5,Collection
-Good,589,92877,Self-Employed,Other,20153,58,Good,46,23,9,4,Mortgage,63202,60393,88,None
-Fair,564,63451,Self-Employed,None,88860,71,Excellent,78,44,0,1,Student,49600,68606,36,Collection
-Excellent,829,31284,Unemployed,Car,28086,49,Poor,42,92,2,0,Mortgage,17110,98048,15,Other
-Excellent,596,94379,Unemployed,None,47470,36,Poor,62,73,1,5,Student,19613,63051,41,Bankruptcy
-Good,316,26803,Unemployed,Other,16471,36,Good,84,22,0,6,Mortgage,53271,23217,56,Other
-Excellent,720,14475,Employed,Land,35611,30,Poor,8,30,6,3,Other,7018,60139,41,Judgement
-Good,514,48431,Employed,Car,26823,52,Excellent,75,1,10,2,Personal,54889,58122,99,Collection
-Excellent,494,21044,Self-Employed,Car,21890,13,Excellent,98,20,0,4,Other,12381,6852,29,Tax Lien
-Good,620,21149,Self-Employed,Investment,88857,68,Fair,96,86,8,6,Student,36762,46284,70,None
-Poor,798,79134,Self-Employed,None,70358,29,Poor,41,83,10,4,Mortgage,40214,8483,43,Collection
-Excellent,505,62135,Employed,House,88079,72,Excellent,70,49,10,0,Student,23059,80745,77,Tax Lien
-Poor,304,94806,Employed,Land,72487,50,Fair,79,62,0,4,Auto,12243,4561,27,Judgement
-Good,394,97694,Unemployed,House,73854,79,Fair,90,76,10,10,Personal,30333,27573,48,Tax Lien
-Excellent,360,93467,Self-Employed,Investment,22782,53,Good,45,6,9,10,Other,75127,7627,48,Collection
-Poor,313,28115,Unemployed,House,28185,20,Good,36,27,8,2,Auto,25464,69861,98,Bankruptcy
-Poor,737,14096,Employed,Other,31426,11,Excellent,43,26,1,8,Student,43319,94793,17,Tax Lien
-Excellent,389,40393,Unemployed,House,21196,43,Excellent,33,69,6,3,Mortgage,31473,47293,47,Other
-Fair,738,45804,Unemployed,Car,52011,9,Fair,73,98,5,10,Other,73351,49117,15,Collection
-Excellent,381,85904,Employed,Car,35579,24,Poor,49,9,4,9,Mortgage,38436,82479,72,Bankruptcy
-Good,702,28223,Unemployed,Other,79796,52,Good,96,5,4,0,Student,47303,27906,7,Judgement
-Poor,511,28774,Unemployed,House,82579,5,Excellent,14,80,6,2,Auto,59653,49082,33,Collection
-Fair,375,75323,Unemployed,Investment,59506,45,Fair,63,41,4,5,Personal,79126,72141,31,Judgement
-Excellent,642,63270,Employed,Car,87143,24,Fair,5,48,5,3,Auto,83458,37579,39,None
-Excellent,389,81378,Self-Employed,None,62774,18,Excellent,52,70,0,2,Personal,12911,81769,37,Bankruptcy
-Fair,626,60547,Unemployed,Investment,65101,30,Good,88,38,7,2,Other,15407,15488,69,None
-Excellent,612,92102,Self-Employed,Car,95765,39,Excellent,41,6,2,7,Mortgage,87684,54236,86,Bankruptcy
-Good,351,56702,Unemployed,Car,75471,61,Good,14,93,3,0,Auto,55982,14812,22,Bankruptcy
-Good,378,23953,Employed,Investment,21877,16,Excellent,3,68,5,7,Personal,38727,55615,14,None
-Fair,342,47343,Unemployed,Car,11931,77,Poor,14,0,6,5,Mortgage,40075,99391,32,Judgement
-Poor,652,88242,Unemployed,Investment,97886,40,Fair,28,28,5,2,Mortgage,64034,2976,33,Bankruptcy
-Good,479,75080,Employed,Other,78374,16,Poor,81,96,8,10,Mortgage,5353,50189,29,Other
-Excellent,386,17219,Employed,Investment,67490,80,Poor,61,73,0,9,Auto,83520,9031,77,Other
-Excellent,822,90008,Employed,None,10338,90,Fair,50,8,0,0,Auto,42133,96741,84,None
-Poor,588,89578,Self-Employed,Land,89656,76,Good,32,60,6,3,Auto,25961,93636,64,Other
-Poor,805,11542,Unemployed,Other,12623,34,Fair,73,15,5,7,Mortgage,63268,2494,32,None
-Good,725,94667,Employed,Other,21492,17,Excellent,96,97,9,5,Mortgage,11864,28353,69,Collection
-Poor,345,25376,Employed,Land,30057,48,Poor,8,77,5,2,Auto,40500,26094,4,None
-Fair,732,64716,Self-Employed,Land,58982,43,Excellent,92,32,10,8,Auto,89758,16544,78,Tax Lien
-Poor,838,46685,Unemployed,House,75634,22,Excellent,100,32,0,9,Other,97066,50062,55,Tax Lien
-Poor,784,94296,Self-Employed,Other,65061,5,Good,64,87,3,5,Other,11497,2386,82,Other
-Poor,458,35793,Unemployed,Investment,13967,5,Poor,58,37,6,7,Personal,25812,53904,14,Judgement
-Good,408,67132,Employed,None,30373,89,Good,78,50,2,3,Mortgage,46390,8179,58,Other
-Excellent,822,71020,Self-Employed,House,27579,44,Good,18,14,4,10,Auto,4245,29541,92,None
-Fair,656,47379,Employed,Car,94481,83,Poor,55,9,10,5,Other,34438,15442,26,Judgement
-Fair,530,95764,Employed,House,12406,94,Poor,47,33,5,5,Auto,37064,37805,24,Judgement
-Fair,395,37166,Unemployed,Car,50572,72,Good,1,54,10,5,Other,47317,74760,42,Judgement
-Fair,514,38747,Self-Employed,None,71827,61,Excellent,81,10,3,3,Other,84500,65384,62,None
-Excellent,789,63192,Unemployed,Investment,76779,36,Fair,59,42,4,10,Auto,19725,10631,24,Other
-Poor,632,70009,Unemployed,Investment,75949,30,Poor,61,77,2,6,Student,25620,64000,53,Bankruptcy
-Poor,536,97729,Self-Employed,Other,58806,65,Poor,39,64,1,5,Auto,35914,53580,37,Other
-Good,301,96951,Self-Employed,Investment,67666,74,Excellent,58,63,5,10,Other,11625,50029,9,Judgement
-Fair,405,22147,Unemployed,Land,53300,48,Poor,24,0,2,4,Mortgage,41762,51048,19,Bankruptcy
-Excellent,747,67198,Employed,House,18320,78,Fair,60,19,4,7,Auto,82823,1038,21,Other
-Fair,465,32533,Unemployed,None,35174,94,Good,56,42,6,1,Personal,77348,16719,69,None
-Excellent,499,74904,Self-Employed,Investment,93464,50,Good,45,84,3,9,Student,98446,31985,38,Bankruptcy
-Good,405,37479,Self-Employed,Investment,20252,77,Fair,77,48,1,8,Student,95051,78534,75,None
-Good,715,48518,Employed,None,36662,22,Fair,1,64,0,10,Mortgage,20056,62936,13,Other
-Excellent,634,77471,Employed,Car,81907,66,Good,47,52,0,6,Other,59949,33028,98,Collection
-Excellent,704,40147,Self-Employed,Other,61996,57,Excellent,35,53,7,0,Mortgage,92874,32097,46,Bankruptcy
-Fair,425,92147,Unemployed,Car,52088,55,Good,87,56,2,9,Student,90312,96139,95,Bankruptcy
-Good,681,31225,Employed,Other,24137,2,Fair,21,80,3,8,Auto,77206,27806,53,Judgement
-Excellent,348,70081,Unemployed,Other,78803,48,Fair,37,51,2,3,Mortgage,71222,62854,43,Other
-Good,315,39860,Unemployed,Land,27855,40,Fair,23,59,1,6,Other,16407,669,94,Judgement
-Excellent,592,79822,Self-Employed,None,80329,99,Poor,18,4,8,1,Other,39450,72419,51,Bankruptcy
-Excellent,637,80365,Self-Employed,Car,10351,100,Excellent,1,98,2,8,Personal,4529,71913,97,Bankruptcy
-Fair,350,74459,Unemployed,Other,83552,13,Fair,24,15,2,0,Other,63187,4027,59,Collection
-Fair,385,68547,Employed,Car,59462,52,Fair,79,80,0,0,Other,8271,4540,81,Tax Lien
-Fair,503,29793,Unemployed,Investment,39150,65,Fair,68,29,0,8,Personal,14039,72706,76,Judgement
-Fair,445,54357,Self-Employed,Car,66931,80,Fair,22,27,10,6,Personal,34761,72140,18,Judgement
-Fair,483,28791,Self-Employed,None,98406,32,Poor,58,58,9,6,Auto,54969,30884,21,Collection
-Poor,664,98429,Employed,House,87235,5,Good,1,24,9,0,Personal,43363,45160,45,Other
-Fair,613,93025,Unemployed,None,21180,8,Excellent,14,39,4,0,Mortgage,94684,8193,31,Judgement
-Poor,544,61862,Unemployed,Land,82272,6,Poor,41,24,10,8,Mortgage,4199,55460,13,Collection
-Good,592,97547,Self-Employed,House,52415,86,Excellent,60,93,7,8,Mortgage,60569,18410,22,Judgement
-Excellent,828,50433,Self-Employed,Car,32177,75,Fair,29,64,3,1,Student,43715,96798,60,Collection
-Excellent,647,38019,Employed,House,43139,56,Poor,73,81,0,3,Student,50991,16702,69,Other
-Poor,426,26547,Employed,Investment,59142,28,Poor,97,65,9,2,Mortgage,16677,80289,35,Bankruptcy
-Poor,674,85132,Unemployed,Other,75591,67,Poor,9,3,9,10,Other,68528,72083,62,Other
-Good,500,53893,Employed,House,49662,21,Poor,33,86,2,1,Mortgage,83165,65132,76,Judgement
-Good,359,63250,Self-Employed,Land,97380,76,Excellent,61,40,8,6,Mortgage,2599,91658,94,Bankruptcy
-Poor,623,26634,Unemployed,Investment,18202,69,Excellent,52,38,4,0,Personal,95240,19544,94,Other
-Excellent,636,56502,Employed,Other,80066,7,Fair,86,49,7,4,Auto,32519,22600,95,Judgement
-Poor,827,34837,Employed,Other,23684,53,Excellent,33,63,0,3,Other,60989,49059,59,None
-Fair,612,78126,Employed,Other,48960,70,Poor,58,3,4,5,Mortgage,92557,19891,32,Bankruptcy
-Good,813,54428,Unemployed,Car,92846,64,Poor,51,18,10,3,Personal,18142,57159,27,Collection
-Excellent,615,85633,Self-Employed,House,17829,29,Excellent,75,10,2,1,Auto,74089,29664,32,Collection
-Fair,646,24692,Unemployed,Investment,31809,36,Excellent,57,88,8,8,Other,82413,72246,97,Bankruptcy
-Poor,465,24207,Unemployed,Other,49587,48,Excellent,7,56,3,10,Student,36003,86045,41,Bankruptcy
-Excellent,635,65893,Self-Employed,House,71764,23,Good,67,53,9,7,Auto,21326,5211,90,Other
-Excellent,829,19640,Unemployed,Land,29653,40,Excellent,3,44,1,9,Mortgage,31206,87389,89,Bankruptcy
-Excellent,651,23445,Unemployed,None,84976,59,Poor,40,53,1,4,Other,64835,37113,100,Collection
-Fair,331,73861,Unemployed,Car,15087,48,Fair,59,63,8,4,Other,69369,91666,96,Bankruptcy
-Excellent,797,31158,Self-Employed,Land,49489,50,Poor,44,1,9,10,Auto,16095,79286,95,Tax Lien
-Good,496,64816,Unemployed,None,16727,3,Poor,31,83,1,6,Other,81083,95011,24,Collection
-Fair,547,66277,Employed,Investment,11285,63,Excellent,95,42,8,2,Personal,73519,48747,76,Collection
-Fair,311,87411,Self-Employed,None,99675,17,Poor,63,44,0,6,Auto,12677,96958,38,None
-Excellent,810,61027,Unemployed,Investment,98085,21,Excellent,33,43,5,9,Auto,77423,47301,6,Bankruptcy
-Good,464,42863,Unemployed,Land,76591,31,Excellent,55,74,5,2,Other,60128,41274,44,Judgement
-Excellent,549,70090,Unemployed,Investment,93695,13,Fair,44,89,4,2,Auto,86788,30999,83,Judgement
-Good,430,54858,Unemployed,Car,95278,40,Poor,38,50,1,7,Mortgage,68393,22801,14,Judgement
-Good,364,76839,Unemployed,Car,87223,26,Fair,90,28,3,3,Mortgage,69749,44839,92,Judgement
-Excellent,809,31494,Unemployed,House,40825,86,Excellent,13,37,10,0,Student,29177,42977,79,Judgement
-Good,831,80924,Self-Employed,Car,88221,36,Good,9,0,6,9,Mortgage,15148,68314,2,Other
-Fair,368,83243,Unemployed,Car,21818,14,Excellent,92,28,5,4,Other,20244,1983,89,None
-Poor,803,91571,Self-Employed,None,53618,21,Good,32,36,9,10,Student,1334,89321,80,Bankruptcy
-Good,308,65858,Self-Employed,House,55393,93,Good,85,81,5,0,Auto,17031,9718,79,Collection
-Fair,360,55579,Self-Employed,None,19465,75,Excellent,83,15,7,7,Mortgage,45843,25942,7,Collection
-Fair,636,80018,Self-Employed,Land,35939,29,Fair,57,0,7,5,Personal,10434,26338,51,None
-Poor,585,25990,Unemployed,Investment,27334,97,Excellent,14,79,2,3,Auto,17236,44954,83,None
-Fair,606,59738,Self-Employed,Car,95493,46,Excellent,41,78,2,8,Auto,26349,11146,82,Collection
-Poor,748,36505,Unemployed,House,69997,95,Fair,88,71,1,2,Mortgage,24905,92937,10,Tax Lien
-Poor,772,12399,Self-Employed,Land,45679,67,Excellent,28,32,10,8,Student,84690,25378,0,Collection
-Good,674,31214,Employed,Land,95574,49,Fair,86,87,6,10,Other,44891,55116,24,Bankruptcy
-Excellent,770,89402,Employed,Investment,18803,95,Good,28,41,2,4,Student,70260,91064,41,Tax Lien
-Fair,318,27662,Employed,Car,26335,50,Excellent,29,20,7,0,Personal,37356,16830,98,Judgement
-Poor,516,71988,Unemployed,Car,66549,97,Good,23,74,8,1,Auto,20423,65129,8,Other
-Excellent,542,24819,Unemployed,Land,35679,42,Good,77,4,4,9,Mortgage,2806,88848,2,Tax Lien
-Good,832,81758,Self-Employed,None,22804,13,Fair,98,0,5,1,Other,85930,32086,64,Collection
-Fair,675,96390,Employed,Car,87357,88,Poor,32,41,9,3,Student,90011,37630,51,Collection
-Good,836,18082,Employed,Investment,65472,80,Excellent,33,57,3,5,Student,76736,87798,44,None
-Poor,606,42524,Unemployed,Land,83516,23,Fair,8,88,3,5,Personal,39433,72938,82,Tax Lien
-Poor,698,70739,Self-Employed,None,65007,67,Poor,75,49,2,1,Other,57719,78935,38,Bankruptcy
-Good,726,62077,Self-Employed,Investment,98708,50,Fair,12,71,3,3,Personal,55982,36524,66,None
-Excellent,786,96929,Employed,Car,55096,23,Good,29,10,5,1,Personal,33475,30980,9,Collection
-Good,448,63134,Employed,Investment,65572,57,Poor,37,1,3,6,Student,39286,4731,12,Judgement
-Good,477,20216,Unemployed,Car,49456,6,Poor,64,26,5,7,Personal,43173,64432,51,Other
-Good,426,62215,Employed,None,45410,52,Good,56,86,7,1,Auto,46782,11347,17,Tax Lien
-Poor,643,67341,Employed,None,86023,86,Fair,29,5,6,3,Auto,9609,17583,5,Bankruptcy
-Poor,360,71026,Employed,None,78022,53,Good,29,21,7,1,Student,22589,6885,22,Judgement
-Good,355,76122,Self-Employed,None,37029,29,Fair,11,91,0,4,Auto,73127,65021,58,None
-Poor,653,38425,Employed,Land,17745,26,Poor,25,1,4,7,Student,44047,53319,43,Judgement
-Fair,767,72050,Self-Employed,House,68827,50,Excellent,21,7,9,6,Mortgage,62548,70316,65,Judgement
-Poor,658,55943,Unemployed,Other,98564,15,Excellent,24,18,2,10,Mortgage,16205,73624,23,Bankruptcy
-Excellent,818,81030,Unemployed,Land,33058,14,Excellent,89,75,2,6,Student,86658,28439,82,Judgement
-Good,658,72940,Self-Employed,Other,96407,15,Excellent,89,86,8,5,Personal,21974,65804,61,Collection
-Excellent,374,78307,Unemployed,None,71934,36,Excellent,64,37,10,3,Student,39046,64655,30,Judgement
-Good,776,75341,Unemployed,None,13650,69,Fair,100,51,9,10,Other,48063,85807,7,None
-Poor,795,29212,Self-Employed,Other,74229,67,Good,23,25,7,1,Auto,76700,81813,66,Tax Lien
-Good,390,72930,Self-Employed,Land,20376,40,Excellent,72,84,9,1,Auto,84922,77423,34,None
-Fair,743,73468,Employed,Car,88076,51,Fair,88,4,8,8,Student,3990,41647,54,Judgement
-Fair,547,25130,Employed,None,15820,20,Fair,74,19,10,0,Student,71783,783,30,Collection
-Poor,578,49335,Unemployed,None,13967,35,Poor,97,63,2,2,Other,54997,13216,23,Other
-Excellent,402,88177,Unemployed,Car,46650,95,Fair,10,96,1,8,Student,88179,27629,39,Judgement
-Poor,802,51143,Self-Employed,House,38606,27,Excellent,15,48,8,10,Mortgage,79633,31000,67,Bankruptcy
-Excellent,732,34410,Employed,Car,14611,99,Fair,11,64,2,5,Student,21129,34753,82,Collection
-Fair,451,50683,Unemployed,Land,60817,56,Good,98,16,6,0,Mortgage,24022,21888,20,Collection
-Fair,695,68387,Unemployed,Land,23116,20,Poor,63,87,8,5,Student,14532,46630,24,Tax Lien
-Good,329,13247,Unemployed,Other,57718,28,Fair,84,71,8,6,Auto,27317,88701,0,Judgement
-Excellent,840,37367,Unemployed,Other,21273,72,Excellent,21,67,2,2,Mortgage,44041,69786,92,Other
-Excellent,316,46193,Employed,Car,78586,71,Fair,14,16,3,3,Other,45117,25227,77,Bankruptcy
-Fair,847,38845,Unemployed,Other,34648,15,Good,51,10,9,4,Student,97914,66723,14,Tax Lien
-Fair,605,13975,Self-Employed,Land,24014,56,Poor,7,32,5,6,Student,88164,94857,67,Bankruptcy
-Fair,452,91144,Unemployed,None,78163,59,Poor,86,62,8,5,Personal,29000,19246,59,Bankruptcy
-Poor,318,63037,Employed,Land,75215,35,Good,42,13,4,6,Personal,25356,58498,31,Tax Lien
-Excellent,731,57339,Employed,House,13948,65,Poor,46,20,0,0,Mortgage,14602,595,61,None
-Excellent,709,37150,Employed,Land,45651,25,Fair,86,42,7,9,Mortgage,37670,56572,90,Other
-Fair,730,49208,Self-Employed,Car,27299,69,Fair,30,70,7,7,Mortgage,65220,36860,45,Collection
-Fair,809,92013,Employed,Other,85699,42,Poor,65,28,4,4,Mortgage,60596,23884,39,Other
-Poor,684,43731,Self-Employed,Investment,75400,39,Fair,71,38,6,7,Auto,51424,71098,86,Collection
-Poor,569,68944,Employed,Land,88719,19,Excellent,52,25,8,9,Personal,64145,20381,42,Collection
-Fair,417,19851,Unemployed,Land,49843,8,Good,65,79,8,3,Auto,64017,80789,4,Judgement
-Good,781,92302,Self-Employed,Other,32812,28,Fair,96,10,10,5,Other,56982,12688,80,Bankruptcy
-Poor,346,70813,Employed,Other,37065,23,Fair,23,62,9,0,Auto,96388,67974,75,Collection
-Fair,669,29227,Unemployed,None,69296,20,Excellent,69,53,0,2,Mortgage,25876,58998,95,Tax Lien
-Poor,780,42481,Unemployed,None,60408,31,Fair,80,56,1,7,Mortgage,39491,35558,18,Other
-Excellent,825,56771,Unemployed,Land,45079,51,Good,73,74,5,5,Auto,73393,54779,72,Other
-Good,411,54096,Self-Employed,Other,27218,30,Fair,96,9,1,8,Other,17429,37910,61,Judgement
-Excellent,331,36967,Self-Employed,House,21445,54,Excellent,33,80,6,0,Personal,75821,99764,47,Bankruptcy
-Excellent,764,95163,Unemployed,Land,52906,66,Fair,31,44,0,5,Other,95212,91060,9,Tax Lien
-Poor,410,26646,Employed,House,79986,15,Excellent,4,49,10,3,Mortgage,19904,33993,97,Tax Lien
-Good,737,16718,Employed,House,85790,12,Excellent,89,49,1,1,Personal,36232,10851,83,Tax Lien
-Good,381,45962,Self-Employed,Land,57765,31,Good,12,26,6,3,Auto,65719,21653,19,None
-Poor,516,82735,Unemployed,Car,73986,64,Excellent,57,62,4,7,Auto,73204,15301,73,Other
-Excellent,318,23099,Unemployed,Investment,24328,29,Excellent,95,8,8,9,Personal,50329,8035,21,Collection
-Good,692,53303,Unemployed,Other,17488,91,Excellent,49,86,5,1,Student,44168,38543,3,Tax Lien
-Good,376,97069,Employed,Other,91646,15,Good,34,26,2,3,Other,51111,55095,24,Collection
-Fair,731,93350,Unemployed,Land,88740,78,Fair,80,89,3,7,Mortgage,5886,86233,49,Collection
-Fair,577,13560,Unemployed,Investment,70735,58,Excellent,96,50,8,7,Student,56385,74744,53,Other
-Good,320,27895,Self-Employed,Investment,17456,72,Fair,58,45,2,5,Other,55704,73935,67,Other
-Fair,501,87415,Unemployed,None,97900,23,Fair,10,23,7,5,Student,43181,89494,1,Other
-Fair,445,60469,Employed,House,55020,59,Poor,90,28,6,7,Personal,69148,93074,79,None
-Poor,592,38835,Self-Employed,House,85934,82,Poor,24,94,4,4,Mortgage,3216,95168,57,Tax Lien
-Good,375,67127,Self-Employed,Land,38712,16,Excellent,15,54,7,4,Mortgage,83570,91875,58,Collection
-Excellent,617,42178,Self-Employed,Car,52690,25,Fair,62,65,1,5,Auto,83401,75378,20,Collection
-Good,314,82403,Self-Employed,Land,48121,0,Poor,89,27,2,0,Mortgage,73153,40738,48,Judgement
-Good,315,18997,Employed,Car,93481,71,Fair,35,24,5,0,Student,64276,43114,10,None
-Excellent,446,83101,Unemployed,Car,80772,2,Fair,97,60,0,9,Auto,27249,27508,81,Bankruptcy
-Fair,706,56878,Unemployed,None,32762,32,Good,38,76,10,9,Other,66625,7340,62,Other
-Fair,717,98095,Unemployed,Investment,98220,11,Poor,3,99,3,5,Other,10419,31362,59,Bankruptcy
-Good,777,51046,Self-Employed,None,47350,16,Excellent,9,82,3,0,Mortgage,62821,52675,45,Other
-Poor,780,16781,Self-Employed,Land,68567,8,Fair,3,45,10,1,Personal,91613,64699,98,Other
-Fair,395,64029,Employed,Land,54574,9,Good,90,99,8,6,Other,22384,97680,52,Bankruptcy
-Good,488,31093,Employed,Investment,39081,67,Poor,57,96,5,1,Auto,11326,52820,69,None
-Poor,448,21758,Unemployed,Car,76648,65,Good,13,61,8,2,Personal,50576,62470,32,None
-Good,829,50002,Employed,Other,92776,58,Good,86,6,10,7,Personal,6094,94195,77,Judgement
-Good,495,22283,Employed,Investment,76070,24,Excellent,67,82,8,4,Personal,21213,37843,49,Bankruptcy
-Fair,846,25825,Self-Employed,House,74299,43,Fair,0,0,10,2,Mortgage,76767,48319,24,Collection
-Fair,506,74166,Employed,None,27481,93,Poor,26,11,9,6,Other,9422,19535,36,Other
-Good,564,80461,Employed,Other,66924,15,Excellent,68,90,7,10,Personal,78273,87775,92,Other
-Good,329,53217,Self-Employed,Other,23083,25,Poor,93,77,7,6,Auto,2575,56154,96,Judgement
-Poor,593,91297,Self-Employed,Land,55472,22,Excellent,29,15,3,0,Other,15952,60677,91,Other
-Excellent,563,37683,Employed,None,89394,8,Excellent,42,72,9,4,Student,31973,65502,5,Other
-Poor,645,26519,Unemployed,Car,63266,29,Fair,13,71,9,2,Mortgage,41945,94919,38,Collection
-Good,385,98599,Unemployed,Investment,48121,55,Good,31,80,0,7,Mortgage,58481,82928,2,Tax Lien
-Excellent,738,23096,Employed,Investment,41278,81,Excellent,26,69,1,3,Personal,71409,99963,59,Judgement
-Poor,331,84069,Employed,House,13974,15,Good,15,46,3,7,Auto,57148,97302,38,Judgement
-Excellent,706,84965,Self-Employed,Car,65538,12,Fair,94,9,0,4,Student,82806,95000,38,Tax Lien
-Fair,403,99021,Unemployed,Investment,96699,53,Poor,31,48,9,5,Auto,85313,69657,54,Bankruptcy
-Good,627,35571,Self-Employed,Other,20030,67,Excellent,77,2,0,5,Student,87502,29361,22,Judgement
-Excellent,680,38580,Unemployed,Other,20724,3,Poor,42,40,1,4,Mortgage,8619,82201,23,Collection
-Good,446,89881,Self-Employed,Investment,82258,84,Excellent,75,59,1,0,Other,32815,49017,22,Collection
-Poor,452,39644,Self-Employed,Investment,10557,54,Poor,73,38,2,7,Other,5875,19586,34,Tax Lien
-Poor,373,88994,Employed,Investment,15470,15,Poor,68,28,8,9,Mortgage,40653,86454,38,Tax Lien
-Good,671,81183,Employed,None,25965,23,Excellent,89,96,8,4,Student,81375,69005,56,None
-Good,565,76631,Unemployed,Investment,51861,53,Fair,93,90,1,3,Other,33549,30592,11,Tax Lien
-Poor,753,27504,Employed,House,64482,56,Poor,33,31,7,10,Student,26166,75161,39,Bankruptcy
-Good,527,20758,Employed,House,28095,83,Poor,34,3,10,4,Mortgage,10537,11488,69,Judgement
-Poor,666,22693,Employed,Car,12067,51,Poor,70,94,1,1,Personal,41130,69822,67,Tax Lien
-Poor,305,96120,Employed,Investment,88822,78,Good,82,10,9,4,Personal,33136,78898,32,Other
-Poor,412,21829,Self-Employed,Car,95397,21,Excellent,23,53,5,10,Personal,44726,94580,57,None
-Fair,491,79114,Employed,House,50249,15,Fair,17,46,5,9,Auto,65796,41398,91,Judgement
-Excellent,486,30116,Unemployed,Other,73246,83,Fair,100,14,9,2,Personal,10175,64642,37,Collection
-Poor,397,64278,Employed,None,27716,51,Fair,13,98,6,2,Personal,82821,55236,42,None
-Poor,519,96023,Unemployed,Car,74047,83,Poor,34,14,9,2,Personal,80137,81148,62,None
-Excellent,834,33861,Unemployed,Land,70883,41,Poor,39,54,7,5,Personal,43226,21760,36,Judgement
-Good,779,61462,Unemployed,House,83918,44,Excellent,9,50,5,7,Mortgage,99521,6550,55,None
-Good,703,48072,Unemployed,Other,40204,37,Good,17,58,10,3,Student,49056,23031,94,Other
-Poor,343,51332,Self-Employed,None,37416,7,Good,91,55,3,4,Mortgage,62568,28402,84,Tax Lien
-Excellent,698,90070,Employed,Land,96953,8,Poor,88,97,1,1,Personal,98548,65269,39,Collection
-Excellent,687,78927,Employed,Land,24275,27,Poor,40,98,1,8,Personal,1,48101,39,Judgement
-Poor,777,91844,Employed,Other,21088,24,Good,42,99,6,8,Student,97061,10366,44,Collection
-Excellent,668,54130,Employed,Car,22941,80,Poor,21,62,1,10,Mortgage,14902,89456,80,Collection
-Poor,621,83293,Employed,Other,77561,68,Fair,26,82,6,1,Personal,41612,84978,22,Bankruptcy
-Excellent,608,51759,Unemployed,Other,52124,68,Fair,46,75,5,5,Student,49929,16691,48,None
-Poor,391,94231,Self-Employed,Investment,93181,87,Excellent,71,95,10,4,Student,77089,98825,25,None
-Excellent,370,27726,Self-Employed,House,26941,63,Poor,52,25,6,1,Personal,57482,15240,74,Other
-Excellent,694,38854,Self-Employed,None,27631,46,Good,26,92,3,10,Mortgage,33995,75683,20,Other
-Fair,491,35876,Self-Employed,Land,79980,47,Good,14,3,7,4,Student,65933,16400,94,Collection
-Fair,774,23342,Employed,Car,25707,76,Good,64,87,7,4,Auto,43361,63855,30,None
-Fair,485,86543,Employed,Land,55284,71,Excellent,4,15,8,9,Student,30143,44320,4,Other
-Good,697,10844,Self-Employed,House,52467,40,Good,37,19,7,5,Mortgage,64670,44958,78,Tax Lien
-Good,728,55860,Unemployed,None,42855,61,Fair,69,86,9,6,Auto,95403,68379,72,Collection
-Excellent,435,17656,Self-Employed,Investment,61924,76,Poor,62,56,4,2,Student,25917,957,12,Judgement
-Good,693,82083,Self-Employed,Investment,43101,94,Excellent,99,60,10,1,Mortgage,97143,79853,38,Collection
-Poor,383,10414,Unemployed,Car,51879,10,Poor,59,25,7,3,Personal,28931,63301,44,Collection
-Excellent,643,40302,Unemployed,None,89051,13,Good,82,73,1,4,Mortgage,24507,6012,36,Other
-Excellent,496,11159,Unemployed,Land,21289,87,Fair,49,40,1,4,Mortgage,22952,55629,100,Collection
-Fair,837,32720,Unemployed,House,57680,51,Fair,87,98,0,10,Personal,25516,33361,63,Other
-Poor,627,31441,Employed,None,46849,38,Excellent,10,69,7,5,Student,23024,47470,95,Collection
-Fair,704,30151,Employed,House,92407,19,Good,85,18,3,2,Student,79697,23484,17,Collection
-Excellent,721,60472,Self-Employed,Land,74469,80,Excellent,98,3,7,6,Personal,49363,26165,9,Tax Lien
-Fair,314,13197,Unemployed,Car,95037,36,Poor,36,53,8,8,Mortgage,20869,8459,82,Tax Lien
-Excellent,431,53503,Unemployed,House,90103,85,Excellent,74,17,1,10,Auto,13603,99624,7,Collection
-Fair,672,56617,Unemployed,Car,16822,61,Poor,34,89,5,10,Student,36314,17550,53,Tax Lien
-Poor,456,53751,Self-Employed,House,79429,85,Excellent,87,39,2,1,Personal,97176,2039,35,Judgement
-Fair,652,15789,Self-Employed,Land,40791,1,Poor,9,34,1,7,Mortgage,46356,11448,83,Collection
-Good,693,13485,Unemployed,Land,28829,14,Excellent,10,28,2,4,Personal,50124,99974,20,Bankruptcy
-Fair,301,49992,Employed,Investment,39541,98,Good,69,9,6,6,Mortgage,85202,21962,79,Tax Lien
-Poor,831,13189,Unemployed,Other,57139,42,Good,52,34,0,2,Auto,30866,87064,87,Tax Lien
-Good,361,15242,Unemployed,Other,42239,40,Good,35,33,10,10,Personal,41183,12681,43,Collection
-Poor,587,27613,Self-Employed,None,40998,94,Poor,34,8,7,3,Mortgage,63037,76331,85,Other
-Poor,541,76007,Employed,Other,85943,87,Good,10,30,9,3,Personal,32563,89873,91,Tax Lien
-Poor,836,80734,Unemployed,Car,32966,80,Excellent,11,5,0,8,Mortgage,77561,76730,38,Collection
-Poor,833,72619,Self-Employed,Car,67026,89,Poor,87,91,7,4,Mortgage,91642,92012,47,Collection
-Good,327,95243,Self-Employed,Other,94473,40,Good,74,43,0,3,Other,94297,37382,85,Other
-Excellent,476,40651,Unemployed,House,72758,54,Fair,1,59,6,1,Auto,85012,43579,3,Bankruptcy
-Excellent,365,68255,Self-Employed,House,66865,96,Fair,62,81,1,0,Student,15652,53955,48,Collection
-Poor,549,88956,Self-Employed,House,84782,79,Poor,78,98,10,5,Mortgage,95919,77963,2,Other
-Good,638,47654,Employed,Land,70992,86,Excellent,62,92,5,10,Mortgage,27869,16718,42,None
-Good,790,95880,Self-Employed,Other,56632,60,Good,55,99,2,2,Other,3779,2345,4,Collection
-Good,569,11570,Self-Employed,Other,40262,10,Good,74,55,3,5,Personal,26894,22226,44,Tax Lien
-Excellent,323,90159,Employed,Land,81581,97,Poor,46,93,0,1,Auto,21620,94300,33,Judgement
-Fair,834,38434,Employed,Other,69273,62,Good,83,93,0,5,Mortgage,54313,22393,4,Tax Lien
-Fair,348,16378,Unemployed,Car,35437,85,Excellent,67,1,10,6,Auto,15174,15756,57,None
-Good,389,60345,Employed,House,60558,21,Poor,82,91,9,3,Other,25304,32411,10,None
-Fair,340,16408,Self-Employed,House,78008,3,Excellent,29,58,10,4,Auto,79362,3187,43,Bankruptcy
-Good,757,99507,Self-Employed,Investment,20685,94,Poor,42,17,6,9,Auto,79623,51318,52,None
-Good,383,74652,Unemployed,Car,15194,91,Excellent,70,56,2,6,Student,77799,93497,15,Tax Lien
-Excellent,845,31336,Employed,Land,96475,94,Good,24,40,0,5,Mortgage,83112,82388,57,Collection
-Poor,813,31521,Employed,Investment,75583,76,Fair,91,19,0,3,Personal,39419,40253,27,Tax Lien
-Fair,444,15910,Unemployed,None,51216,39,Excellent,74,75,10,10,Personal,8807,28553,1,Tax Lien
-Excellent,704,45683,Unemployed,Land,46488,17,Fair,34,18,2,3,Other,12993,96316,21,None
-Fair,843,67934,Unemployed,Land,62119,64,Fair,7,18,2,5,Mortgage,51053,546,48,Collection
-Excellent,316,20191,Employed,Other,12484,40,Fair,100,58,1,5,Personal,67757,11105,67,Collection
-Good,377,23421,Self-Employed,House,89249,83,Excellent,21,28,0,9,Personal,71631,73661,93,Tax Lien
-Good,697,31871,Employed,Car,72219,45,Good,50,55,0,6,Auto,19432,2930,56,Collection
-Good,731,66632,Unemployed,None,76954,84,Good,1,57,10,5,Student,8658,93445,60,Other
-Poor,383,28654,Unemployed,Car,80981,69,Good,82,13,2,4,Auto,59479,59610,15,Bankruptcy
-Fair,434,55953,Self-Employed,None,72908,70,Excellent,40,16,1,7,Mortgage,50233,91692,44,None
-Excellent,788,71098,Employed,Investment,26485,16,Poor,97,29,5,1,Other,29255,17150,10,Collection
-Poor,367,75046,Unemployed,Land,99759,73,Fair,25,35,9,2,Mortgage,89961,3128,31,Tax Lien
-Good,834,26078,Unemployed,Other,82669,27,Poor,47,60,1,9,Other,62807,37441,49,Other
-Poor,589,14993,Self-Employed,House,48597,80,Poor,73,67,0,3,Auto,88810,68509,60,Other
-Good,322,21894,Unemployed,Other,42743,33,Excellent,3,67,8,0,Other,51756,21725,72,Other
-Excellent,465,40306,Self-Employed,Investment,29672,33,Fair,23,93,1,1,Auto,80194,74927,48,Tax Lien
-Excellent,360,77459,Employed,Investment,71946,15,Excellent,34,66,7,1,Mortgage,86509,31946,80,Collection
-Excellent,785,52897,Employed,Land,70603,60,Fair,23,23,3,0,Other,6780,68178,46,None
-Excellent,394,79371,Self-Employed,Car,52207,39,Poor,92,49,9,5,Student,97635,33975,10,None
-Excellent,359,84706,Employed,Car,14722,20,Excellent,64,3,10,1,Student,57523,70113,29,Other
-Poor,528,94350,Self-Employed,House,62156,29,Good,56,38,4,6,Auto,63523,9732,77,Tax Lien
-Fair,397,29339,Self-Employed,None,10353,100,Good,23,84,8,0,Other,60643,7418,96,Judgement
-Good,785,14221,Employed,Investment,53125,64,Good,50,45,10,8,Other,59977,47521,7,Other
-Excellent,732,17833,Employed,None,94048,97,Good,63,70,5,3,Student,49428,2298,75,Other
-Poor,740,90522,Unemployed,None,23005,32,Fair,12,2,8,9,Auto,86009,61430,73,None
-Fair,487,80680,Employed,Car,56798,90,Excellent,92,99,1,7,Mortgage,77788,58900,100,Other
-Good,643,42528,Unemployed,House,67653,82,Poor,41,26,0,5,Mortgage,58642,2860,45,Collection
-Poor,733,49076,Employed,Other,10948,45,Excellent,54,61,4,10,Personal,92617,99317,30,Other
-Poor,749,96144,Unemployed,Other,76011,93,Poor,99,81,2,6,Personal,94455,12680,98,None
-Fair,500,57878,Employed,None,90821,87,Good,49,96,8,5,Auto,45205,50800,82,Tax Lien
-Excellent,825,62479,Unemployed,Land,15535,14,Fair,39,26,8,6,Mortgage,5361,72451,63,Bankruptcy
-Fair,664,12905,Employed,Investment,45025,6,Good,45,84,5,5,Student,18152,75241,21,None
-Excellent,486,23194,Employed,None,27619,31,Poor,96,95,3,1,Mortgage,65034,84680,87,Other
-Excellent,840,54690,Unemployed,Investment,80708,63,Good,20,61,7,10,Other,30795,41030,54,Other
-Fair,466,79160,Employed,Other,52518,65,Fair,17,3,0,1,Other,47869,20516,95,Other
-Fair,422,93554,Employed,Land,85584,67,Good,96,95,4,10,Other,74946,64042,84,Other
-Good,460,63557,Self-Employed,Land,53246,28,Poor,1,52,8,0,Mortgage,95448,74845,80,Collection
-Fair,391,40529,Self-Employed,House,31766,78,Poor,29,84,3,3,Personal,86944,98038,27,Other
-Poor,663,66503,Self-Employed,Land,59364,18,Fair,31,35,8,1,Auto,26938,40763,16,Judgement
-Good,657,75149,Self-Employed,None,81594,33,Good,87,39,9,5,Auto,19079,40662,21,Tax Lien
-Fair,657,99534,Unemployed,House,58689,42,Fair,21,29,9,10,Mortgage,67511,2209,94,Judgement
-Excellent,346,10756,Self-Employed,Investment,20750,40,Poor,39,60,10,6,Auto,38803,15688,57,Collection
-Fair,430,35740,Employed,Car,30765,69,Good,18,16,10,5,Mortgage,11584,92963,16,Other
-Poor,767,73706,Employed,Car,92689,29,Poor,78,91,8,8,Mortgage,56338,70604,87,None
-Fair,777,96916,Self-Employed,House,63030,89,Poor,84,37,0,9,Other,46113,94417,84,Bankruptcy
-Good,700,59861,Unemployed,Investment,99088,16,Good,33,66,4,0,Auto,88355,96484,22,None
-Poor,644,45889,Employed,Other,69938,78,Excellent,31,37,1,9,Other,55477,74629,96,Bankruptcy
-Poor,396,49292,Employed,House,48479,95,Excellent,6,9,6,4,Personal,55911,99295,60,Other
+credit_history,income,employment_status,collateral,assets_value,debt_to_income_ratio,payment_history,length_of_credit_history,number_of_credit_inquiries,number_of_credit_accounts,number_of_credit_accounts_opened_last_12_months,type_of_credit_accounts,current_balance_of_credit_accounts,total_credit_limit,total_credit_utilization,public_records_and_collections
+Fair,13934,Employed,Other,64081,66,Fair,96,22,8,4,Other,53749,85564,89,Bankruptcy
+Good,61629,Employed,Other,91624,59,Excellent,58,18,8,4,Student,66833,80131,34,None
+Good,10216,Self-Employed,Land,29282,20,Excellent,2,20,1,8,Auto,45392,37307,60,Bankruptcy
+Excellent,50425,Unemployed,Land,82318,45,Poor,18,76,9,7,Personal,5532,4609,1,Collection
+Excellent,70882,Employed,Other,46329,85,Excellent,48,5,7,3,Personal,14569,93863,84,Judgement
+Good,88368,Self-Employed,Investment,84172,42,Fair,11,85,4,5,Student,51715,4422,43,Other
+Poor,95068,Unemployed,None,67824,34,Good,99,31,5,1,Mortgage,54707,61094,24,Bankruptcy
+Fair,21450,Unemployed,Other,61130,57,Poor,65,22,0,4,Other,60635,88324,12,Bankruptcy
+Good,11092,Unemployed,Land,93385,92,Excellent,40,32,6,0,Personal,41910,56026,99,Bankruptcy
+Excellent,51610,Employed,None,19125,22,Poor,89,88,5,5,Auto,85530,44768,100,None
+Poor,29340,Self-Employed,None,30655,83,Poor,8,1,4,8,Personal,86458,29982,67,None
+Good,44251,Unemployed,Land,95529,99,Good,28,50,6,3,Auto,75677,85096,51,Judgement
+Excellent,79295,Unemployed,Land,12518,84,Fair,75,71,3,7,Auto,68861,88766,62,Other
+Excellent,52273,Self-Employed,Other,38473,90,Poor,52,1,2,1,Personal,11753,17345,28,Bankruptcy
+Excellent,51752,Employed,Land,73554,78,Good,45,80,4,7,Other,71273,29319,54,Collection
+Fair,83154,Unemployed,None,39741,68,Good,26,94,0,10,Auto,56131,90011,17,Other
+Good,91677,Employed,Car,59822,45,Excellent,51,23,1,8,Mortgage,10207,61219,15,Collection
+Good,38217,Unemployed,Land,51961,93,Fair,70,65,0,6,Personal,17559,72516,71,Bankruptcy
+Poor,99234,Self-Employed,House,67009,18,Fair,88,51,9,9,Other,66075,12132,15,Judgement
+Good,35335,Employed,Other,77848,97,Fair,14,14,8,6,Mortgage,36048,47433,26,Other
+Fair,13951,Self-Employed,Other,78874,6,Poor,48,69,2,9,Personal,34380,19231,54,Collection
+Good,28400,Self-Employed,Other,25956,91,Poor,37,64,8,9,Personal,93159,58186,63,Other
+Excellent,98768,Self-Employed,Investment,56067,50,Good,81,25,4,8,Student,36165,45948,31,Judgement
+Poor,90202,Unemployed,Land,37432,7,Good,46,13,5,1,Student,23002,16408,71,Judgement
+Good,91240,Employed,Car,54813,15,Excellent,61,33,1,4,Mortgage,30387,1876,59,Bankruptcy
+Fair,86873,Employed,House,62946,47,Poor,96,21,7,0,Other,2226,46455,34,Judgement
+Good,95907,Self-Employed,Land,41365,17,Good,86,8,9,3,Personal,72523,73035,97,Collection
+Poor,44796,Self-Employed,Land,62213,4,Excellent,46,11,2,7,Personal,81612,90906,28,None
+Fair,49657,Employed,Investment,64928,59,Fair,61,34,8,6,Personal,20351,45711,73,Tax Lien
+Excellent,75476,Self-Employed,None,35316,46,Fair,73,28,3,6,Personal,80592,87620,4,Bankruptcy
+Fair,59683,Self-Employed,Investment,18055,39,Good,47,38,4,10,Auto,63096,68606,94,None
+Poor,16912,Self-Employed,None,41018,22,Fair,24,91,5,2,Mortgage,18054,90845,26,Tax Lien
+Excellent,57160,Unemployed,House,96606,58,Fair,100,44,7,0,Auto,7258,78679,76,Judgement
+Excellent,61868,Self-Employed,Land,14847,97,Good,99,84,10,6,Mortgage,72017,81842,48,Judgement
+Excellent,36072,Self-Employed,Other,61756,70,Fair,89,4,4,9,Other,89979,48408,46,None
+Good,17621,Unemployed,Other,63921,87,Good,74,72,10,0,Auto,37072,18964,73,Bankruptcy
+Fair,34853,Unemployed,Land,70973,50,Excellent,41,75,2,1,Auto,81093,52577,8,None
+Excellent,61284,Unemployed,Investment,82359,75,Good,25,97,1,10,Student,91902,26261,77,Collection
+Good,55007,Employed,Other,23109,14,Poor,89,14,5,4,Student,85063,10631,47,Bankruptcy
+Good,73951,Self-Employed,Land,49362,73,Good,21,65,9,2,Auto,20913,50587,71,Tax Lien
+Excellent,66172,Unemployed,Car,17320,50,Poor,68,36,6,5,Personal,9393,76422,20,None
+Excellent,17025,Self-Employed,Car,96964,43,Good,69,37,0,8,Mortgage,466,48148,81,Tax Lien
+Fair,94889,Unemployed,House,18782,56,Excellent,34,43,7,6,Student,32661,22171,100,Other
+Poor,10215,Unemployed,House,86754,97,Fair,61,60,2,7,Mortgage,89935,56342,99,None
+Good,85596,Employed,Land,69488,6,Excellent,13,45,3,0,Student,34412,96727,29,None
+Fair,22523,Unemployed,None,59341,69,Poor,59,93,6,5,Other,93753,47981,10,Other
+Fair,37667,Unemployed,None,46922,68,Good,2,25,10,4,Student,86791,818,40,Bankruptcy
+Excellent,26301,Self-Employed,House,67647,18,Excellent,61,17,8,8,Other,49652,46732,36,Tax Lien
+Poor,41783,Employed,Car,43226,65,Excellent,46,89,4,2,Mortgage,31475,56715,67,Other
+Fair,26071,Employed,Other,96231,13,Good,26,52,10,0,Auto,77023,19081,93,Tax Lien
+Fair,27880,Self-Employed,Land,68857,45,Fair,84,42,6,1,Auto,16961,31862,96,Other
+Excellent,35580,Unemployed,Other,89387,88,Excellent,14,53,4,0,Auto,49240,61107,29,Judgement
+Poor,32704,Self-Employed,Land,11908,37,Poor,71,100,0,0,Auto,73935,32008,91,Collection
+Excellent,45319,Self-Employed,Car,55284,99,Excellent,64,41,3,5,Student,39854,37228,27,Other
+Poor,99548,Self-Employed,Car,53289,34,Excellent,6,43,7,3,Auto,93798,43030,52,Collection
+Good,95305,Unemployed,Car,35146,83,Poor,25,12,2,2,Student,1637,68715,79,Judgement
+Fair,99382,Self-Employed,House,76887,41,Fair,42,1,6,2,Other,7605,47499,39,Judgement
+Good,47815,Employed,Land,61379,99,Excellent,30,71,5,1,Auto,7830,2421,61,Other
+Fair,31044,Employed,Investment,10427,63,Fair,87,79,3,5,Personal,90503,43039,71,Judgement
+Fair,92931,Employed,None,72839,94,Good,71,9,2,3,Auto,99968,10932,83,Bankruptcy
+Poor,32503,Self-Employed,Investment,63228,27,Good,5,54,3,6,Student,77690,82066,77,Collection
+Poor,64257,Employed,Investment,97379,65,Poor,50,75,8,9,Other,4796,70519,73,None
+Excellent,12986,Unemployed,Investment,32556,69,Poor,36,50,8,6,Personal,91049,12063,53,Other
+Good,22818,Unemployed,Car,91863,94,Fair,37,82,7,4,Personal,86858,63552,58,Judgement
+Poor,52522,Employed,None,68585,56,Excellent,87,7,8,8,Personal,33103,90809,40,Judgement
+Excellent,21338,Employed,Investment,40192,45,Poor,30,44,2,6,Other,1162,65215,31,Bankruptcy
+Excellent,50928,Unemployed,Other,99545,56,Excellent,71,97,9,2,Student,53474,60722,50,Collection
+Fair,82786,Unemployed,Car,59594,92,Fair,4,32,9,2,Auto,3305,10784,97,Other
+Excellent,78268,Employed,Other,82040,10,Good,64,90,2,6,Other,40583,68245,21,Judgement
+Fair,92937,Employed,Investment,75535,5,Good,95,70,8,9,Personal,44481,17943,56,None
+Excellent,65737,Self-Employed,Land,34373,18,Good,73,33,2,10,Student,78127,83817,41,Collection
+Good,61828,Self-Employed,House,41799,99,Good,91,35,8,10,Personal,52721,7602,40,Tax Lien
+Excellent,25166,Employed,House,33799,20,Good,22,80,2,1,Student,32807,54502,53,None
+Poor,75396,Unemployed,House,38482,25,Good,28,98,0,7,Mortgage,4694,22139,70,Bankruptcy
+Fair,10027,Self-Employed,Investment,37659,69,Fair,77,42,1,10,Mortgage,226,78924,94,Judgement
+Poor,63533,Self-Employed,Investment,15006,59,Excellent,24,75,7,7,Student,12447,32164,4,Judgement
+Good,52804,Self-Employed,Car,67037,42,Fair,96,29,5,8,Auto,14402,1344,35,Collection
+Good,60888,Self-Employed,Other,41832,47,Good,0,23,10,6,Other,5256,79366,9,Collection
+Fair,82069,Self-Employed,Other,84456,1,Excellent,53,3,3,5,Mortgage,72345,62796,81,Judgement
+Excellent,67820,Self-Employed,House,59346,22,Excellent,64,7,10,8,Other,61039,5805,11,Judgement
+Poor,94096,Unemployed,Land,22339,66,Fair,91,28,6,3,Student,62839,22753,22,Collection
+Fair,52117,Employed,Other,60228,72,Excellent,91,46,7,10,Personal,38262,66345,15,Collection
+Good,71691,Unemployed,House,23379,54,Excellent,97,49,3,6,Student,934,44609,99,None
+Poor,80441,Employed,Other,70199,98,Poor,11,7,2,3,Student,98844,80231,76,Bankruptcy
+Fair,78259,Employed,Car,51473,98,Fair,15,17,4,6,Personal,24679,18496,35,Other
+Fair,77779,Unemployed,House,34724,20,Good,87,47,10,6,Auto,47835,79790,27,Collection
+Excellent,55101,Employed,Land,40832,79,Poor,70,33,1,3,Student,68934,49611,63,Bankruptcy
+Good,39508,Unemployed,Car,69236,20,Fair,63,74,9,9,Other,24860,70294,17,None
+Good,65157,Self-Employed,Land,75015,24,Excellent,21,53,10,7,Mortgage,91205,51836,0,Other
+Fair,49471,Employed,Investment,80415,68,Good,17,97,10,6,Mortgage,22657,78616,27,None
+Excellent,26484,Employed,House,76909,33,Good,100,40,4,2,Other,79561,88408,53,Judgement
+Good,75128,Self-Employed,House,91586,64,Fair,73,25,7,4,Personal,90113,67012,85,Tax Lien
+Good,53581,Self-Employed,Investment,31259,52,Excellent,79,80,7,2,Other,14382,74788,69,Other
+Excellent,51835,Employed,Car,72390,2,Excellent,11,62,0,0,Student,85257,81067,51,Other
+Good,55269,Self-Employed,None,53898,80,Excellent,1,23,2,5,Mortgage,76947,12490,37,Tax Lien
+Fair,42883,Employed,None,76106,59,Good,88,79,5,5,Mortgage,12483,54640,18,Other
+Poor,55914,Employed,Investment,13582,14,Fair,60,69,10,0,Auto,10287,28451,49,Tax Lien
+Excellent,97755,Self-Employed,Land,57593,84,Good,30,70,5,3,Personal,74286,13992,5,Judgement
+Poor,21422,Employed,Car,60071,20,Poor,54,36,4,2,Other,19189,73008,80,Collection
+Excellent,73813,Unemployed,Land,11007,34,Fair,35,98,2,3,Other,47131,69703,3,Collection
+Fair,60335,Unemployed,Car,96990,85,Fair,83,47,10,6,Other,8797,96280,84,Judgement
+Good,57176,Self-Employed,Investment,98264,87,Fair,3,42,1,0,Personal,92858,77443,98,Tax Lien
+Good,29007,Unemployed,None,22100,46,Fair,63,28,1,10,Student,373,79751,68,None
+Excellent,67673,Self-Employed,Land,79003,3,Fair,16,21,6,8,Mortgage,89874,5140,12,None
+Excellent,86739,Employed,House,70793,79,Good,98,53,4,1,Auto,71127,34699,34,Tax Lien
+Fair,78814,Employed,Land,40406,91,Fair,73,2,1,9,Mortgage,8645,55796,91,Collection
+Fair,24427,Employed,House,70816,41,Fair,61,20,0,3,Other,20453,93045,1,Judgement
+Fair,32710,Unemployed,Land,53546,27,Poor,6,47,10,4,Student,73148,72151,87,Judgement
+Fair,23084,Self-Employed,Investment,31114,77,Fair,4,1,8,2,Personal,3074,1767,92,Tax Lien
+Fair,93142,Unemployed,None,90655,36,Fair,7,41,8,8,Mortgage,21336,80254,27,Judgement
+Good,11842,Employed,None,14059,63,Poor,90,20,3,4,Mortgage,41063,2709,75,Collection
+Fair,11910,Self-Employed,Other,53269,68,Good,97,53,7,7,Other,72509,73465,50,Tax Lien
+Good,48164,Employed,Land,36654,13,Poor,91,2,1,3,Auto,14334,32764,35,Judgement
+Good,67312,Unemployed,Investment,23264,81,Good,8,42,4,8,Student,66404,17482,53,Judgement
+Poor,54661,Employed,Car,35138,72,Fair,95,41,5,9,Mortgage,20686,16787,15,Collection
+Fair,86151,Unemployed,House,56141,0,Fair,38,75,1,10,Mortgage,61533,58821,46,Tax Lien
+Poor,30566,Employed,Land,21407,23,Fair,89,38,9,7,Mortgage,37247,9822,62,Other
+Excellent,85468,Unemployed,None,10955,28,Poor,45,56,0,7,Auto,60980,30730,10,Judgement
+Fair,41722,Employed,Car,99742,84,Fair,42,54,5,0,Auto,86083,81225,57,Other
+Good,67816,Unemployed,Land,38949,2,Poor,85,19,7,3,Other,87181,61051,78,Bankruptcy
+Fair,63172,Self-Employed,Car,40689,65,Poor,95,31,4,1,Personal,21499,52913,59,Tax Lien
+Good,61776,Employed,Other,13391,89,Good,50,95,10,9,Mortgage,74150,36662,34,Tax Lien
+Good,82576,Self-Employed,Land,78425,41,Fair,93,47,5,8,Other,40330,88468,4,Judgement
+Good,89854,Employed,Other,27003,20,Poor,9,50,8,6,Student,94949,18099,4,Judgement
+Poor,99344,Employed,Car,77019,6,Good,94,85,8,2,Mortgage,4023,61466,45,Collection
+Fair,16006,Unemployed,Land,13549,69,Poor,56,30,1,3,Mortgage,52641,69874,33,Judgement
+Poor,68475,Unemployed,Other,11936,53,Good,93,63,9,6,Personal,50363,56927,79,None
+Good,86573,Unemployed,Investment,82426,15,Fair,66,74,1,7,Auto,80428,97563,91,Other
+Fair,33861,Unemployed,Land,97946,59,Poor,10,4,1,10,Auto,15403,91222,10,Judgement
+Good,70175,Employed,Other,15316,84,Poor,66,32,4,0,Personal,59146,54595,48,Collection
+Poor,51747,Employed,Investment,66856,53,Good,96,78,5,0,Student,48199,63077,31,None
+Fair,68596,Self-Employed,None,88026,45,Excellent,98,94,0,3,Auto,51396,16161,85,Judgement
+Fair,34147,Employed,Other,69037,36,Good,32,9,0,4,Auto,8226,67425,67,Tax Lien
+Fair,61371,Employed,Investment,70773,43,Excellent,93,72,3,4,Other,28277,82816,73,Collection
+Excellent,34414,Unemployed,House,47644,29,Fair,75,47,8,3,Other,35728,75151,18,None
+Fair,80498,Self-Employed,Land,46668,84,Good,8,49,9,0,Personal,81417,67550,65,Tax Lien
+Good,65831,Self-Employed,Car,72424,29,Fair,32,43,0,4,Student,26510,45567,37,None
+Excellent,26791,Employed,Land,44158,100,Poor,80,13,7,7,Mortgage,25581,59932,33,Tax Lien
+Fair,95758,Unemployed,Land,38899,87,Good,4,42,8,7,Other,35625,89793,89,None
+Good,61006,Unemployed,Car,62109,79,Excellent,19,95,8,9,Other,83020,27088,35,Tax Lien
+Good,15532,Unemployed,Car,49174,32,Good,30,5,8,3,Student,99669,64345,40,Other
+Fair,75504,Unemployed,House,27507,90,Fair,42,56,9,9,Student,92563,98896,92,Collection
+Excellent,14827,Unemployed,Land,46924,41,Good,76,66,7,3,Personal,36482,51288,32,Judgement
+Good,66116,Self-Employed,None,79707,60,Good,77,71,5,10,Student,85582,4742,61,Judgement
+Good,16497,Unemployed,Car,84564,87,Poor,56,33,8,1,Other,73675,40283,6,None
+Fair,63032,Self-Employed,Land,19685,47,Good,72,14,0,8,Personal,87927,59455,46,Other
+Good,62149,Self-Employed,None,16354,35,Fair,39,68,0,4,Other,9059,37266,46,Other
+Good,53417,Employed,Other,74689,56,Excellent,39,63,1,9,Student,84200,51674,76,Judgement
+Poor,69637,Unemployed,House,54424,77,Fair,84,43,3,8,Mortgage,87556,35914,82,Other
+Poor,39258,Unemployed,Car,29816,85,Fair,1,25,4,1,Other,85105,19297,28,Judgement
+Good,37350,Unemployed,None,94574,67,Excellent,73,3,0,8,Auto,50817,59745,94,None
+Poor,32409,Employed,Investment,17606,95,Excellent,12,97,9,6,Student,18111,37316,70,Other
+Good,57388,Employed,Other,41655,72,Poor,23,12,4,10,Mortgage,19987,97175,95,Judgement
+Good,79686,Unemployed,Car,52707,29,Excellent,42,49,6,1,Auto,35073,78382,49,Collection
+Poor,90473,Unemployed,Land,19684,43,Good,30,62,5,9,Mortgage,78785,53987,50,Tax Lien
+Good,75674,Unemployed,Investment,36376,16,Fair,24,44,2,8,Mortgage,47008,21362,8,Other
+Good,21899,Unemployed,Land,51583,40,Good,7,84,6,10,Auto,87786,69500,5,Collection
+Fair,86415,Self-Employed,Other,46858,24,Poor,9,47,2,2,Auto,73384,70511,50,Tax Lien
+Good,41418,Unemployed,Investment,65785,97,Fair,30,96,2,1,Personal,81565,29114,12,Tax Lien
+Excellent,59412,Self-Employed,Car,46219,91,Excellent,26,82,6,9,Mortgage,71932,46578,62,Other
+Excellent,14252,Unemployed,Investment,27434,90,Poor,45,3,3,3,Auto,79566,17457,33,Collection
+Excellent,29281,Employed,None,91685,31,Excellent,18,45,4,6,Personal,3405,93607,66,Other
+Excellent,26696,Employed,Land,74114,40,Poor,32,35,6,0,Student,94128,48056,21,Other
+Excellent,20212,Employed,Investment,56020,29,Excellent,4,6,7,10,Personal,13519,77030,10,Tax Lien
+Good,39625,Employed,Car,77088,99,Poor,9,67,6,7,Mortgage,83942,13158,38,None
+Excellent,44145,Unemployed,House,74616,32,Poor,44,61,10,2,Other,52990,92121,27,None
+Excellent,97547,Unemployed,House,96897,9,Fair,77,19,7,2,Student,76549,87731,55,Tax Lien
+Good,79066,Self-Employed,None,17896,63,Fair,22,45,9,9,Other,92991,92870,39,Tax Lien
+Excellent,15211,Self-Employed,Car,24730,70,Good,35,71,6,0,Mortgage,69085,34808,52,Other
+Poor,50294,Self-Employed,Land,68213,84,Excellent,64,71,3,4,Student,36017,32622,100,Collection
+Excellent,42826,Employed,Car,69824,11,Excellent,66,48,1,1,Other,64730,5159,81,Judgement
+Good,97777,Self-Employed,None,35610,58,Poor,88,25,3,2,Mortgage,84530,37887,79,Other
+Fair,98622,Unemployed,None,13403,36,Poor,30,70,8,0,Personal,57866,39850,54,Judgement
+Good,57134,Self-Employed,Other,88708,61,Good,23,96,5,4,Auto,61902,64160,28,None
+Good,46539,Unemployed,Investment,79528,75,Excellent,75,6,10,1,Mortgage,99884,44544,93,Bankruptcy
+Excellent,11292,Self-Employed,House,83646,47,Fair,68,26,6,0,Other,57289,39124,95,Bankruptcy
+Excellent,15058,Employed,Other,44954,3,Poor,2,95,10,10,Auto,88889,2931,44,Judgement
+Poor,20579,Employed,House,20876,65,Good,23,9,2,0,Personal,32832,28679,73,Bankruptcy
+Poor,93365,Self-Employed,Investment,74920,32,Poor,31,43,0,7,Personal,96614,7487,84,Collection
+Fair,61710,Unemployed,Land,90384,19,Good,86,70,9,3,Student,28783,85347,50,Tax Lien
+Good,92629,Self-Employed,Car,36063,85,Good,11,17,2,10,Student,37699,31119,90,Judgement
+Poor,68106,Unemployed,Investment,42881,14,Good,76,90,0,4,Student,54851,79839,94,Collection
+Good,43029,Employed,House,77627,22,Good,15,7,1,5,Student,63380,44352,41,Judgement
+Excellent,94431,Employed,Other,37300,30,Poor,45,4,7,2,Personal,50412,23012,87,Other
+Fair,31573,Employed,House,16924,16,Fair,31,64,9,5,Mortgage,128,33396,7,Bankruptcy
+Poor,31420,Employed,Other,36302,17,Fair,79,75,5,8,Mortgage,26867,80715,98,Collection
+Poor,41862,Employed,Investment,89863,43,Fair,48,60,1,0,Mortgage,69529,52222,37,Judgement
+Good,80215,Self-Employed,Investment,68466,59,Good,54,55,3,0,Auto,36959,25727,15,None
+Fair,89834,Self-Employed,Land,44252,68,Excellent,88,88,8,6,Other,87650,17969,51,Judgement
+Good,25112,Self-Employed,None,95054,93,Poor,32,98,9,1,Auto,50571,94789,60,Other
+Fair,31234,Unemployed,Car,45954,85,Good,20,3,2,2,Other,96053,3983,57,Bankruptcy
+Poor,18740,Self-Employed,None,72045,24,Fair,32,8,6,4,Other,90355,22090,12,Bankruptcy
+Good,23783,Employed,Car,23660,4,Poor,53,56,6,3,Student,8371,69823,91,Judgement
+Good,24955,Employed,House,22481,59,Excellent,33,84,2,1,Other,83904,55864,79,None
+Excellent,33058,Unemployed,Investment,95359,0,Excellent,69,88,3,4,Student,76122,16869,81,Collection
+Excellent,35261,Unemployed,Land,12032,55,Excellent,5,37,5,0,Student,35950,87846,31,Collection
+Poor,89997,Self-Employed,House,85479,73,Good,92,84,1,5,Student,51363,36436,16,Other
+Good,32867,Unemployed,None,76029,58,Good,78,66,8,1,Mortgage,2452,30924,36,Other
+Fair,79574,Unemployed,Land,74330,45,Poor,60,0,10,10,Auto,7182,28274,36,Judgement
+Good,48153,Self-Employed,None,86589,63,Fair,64,25,0,5,Other,98680,3859,62,Other
+Poor,74792,Employed,Other,39174,45,Excellent,67,81,2,4,Mortgage,68780,16289,55,None
+Fair,56985,Self-Employed,None,70007,16,Poor,97,11,2,10,Auto,78531,31754,47,Judgement
+Good,93128,Unemployed,Car,79711,4,Poor,13,4,5,8,Student,63085,47493,99,Other
+Good,29876,Unemployed,Land,25422,38,Excellent,9,11,5,9,Other,43260,91579,38,None
+Good,65823,Employed,Investment,44608,35,Fair,77,47,3,7,Student,38556,83754,85,Other
+Excellent,74943,Unemployed,Other,10309,89,Good,65,56,10,2,Student,17071,40856,94,Other
+Fair,87109,Unemployed,None,95563,65,Poor,56,43,5,10,Mortgage,35477,8175,18,Bankruptcy
+Excellent,41020,Unemployed,Other,54647,92,Poor,23,60,10,2,Personal,70119,28788,94,Other
+Good,79787,Unemployed,Land,67690,74,Good,80,54,2,10,Auto,12581,9024,65,Bankruptcy
+Fair,37949,Employed,Other,37934,16,Poor,72,44,8,7,Student,67896,17685,72,Collection
+Poor,48789,Self-Employed,Other,77995,13,Excellent,7,1,6,6,Mortgage,41471,15266,43,Bankruptcy
+Good,98714,Employed,Other,19570,38,Poor,9,21,2,10,Mortgage,87235,84630,27,Judgement
+Excellent,19120,Employed,House,17634,35,Fair,52,21,6,4,Other,88740,73744,92,Collection
+Poor,49188,Employed,Car,77520,67,Good,16,7,7,10,Student,22214,4050,55,Collection
+Fair,94508,Unemployed,None,94016,82,Excellent,21,62,3,5,Personal,90467,62996,51,Judgement
+Poor,10575,Unemployed,House,47733,70,Good,87,31,10,6,Other,60285,15364,98,None
+Fair,47954,Employed,Car,33301,98,Good,94,1,5,8,Personal,8858,13660,12,Other
+Good,78923,Self-Employed,House,69867,19,Good,79,7,5,1,Other,13166,69966,36,Bankruptcy
+Excellent,78503,Unemployed,Investment,17823,66,Poor,89,55,0,2,Mortgage,98989,1759,39,None
+Poor,43387,Unemployed,Other,56838,47,Excellent,0,17,8,7,Auto,41696,69492,7,Tax Lien
+Good,54865,Unemployed,Other,91207,21,Poor,10,50,7,2,Student,21395,39122,13,Collection
+Good,98936,Unemployed,None,74039,54,Poor,100,3,0,0,Other,76615,484,11,None
+Fair,41487,Self-Employed,Land,64209,47,Fair,13,25,7,5,Auto,90764,45506,72,Bankruptcy
+Fair,66551,Self-Employed,None,28855,30,Good,0,64,2,0,Other,80009,13679,92,Other
+Excellent,78614,Unemployed,Land,90873,82,Excellent,11,65,6,0,Personal,99658,53646,6,None
+Poor,21272,Employed,Investment,66178,8,Excellent,93,39,4,5,Personal,71652,97292,81,Bankruptcy
+Excellent,35559,Self-Employed,Investment,10213,92,Fair,89,64,0,7,Other,25964,91039,51,Other
+Fair,73574,Self-Employed,House,25906,48,Poor,18,83,6,3,Student,61224,96447,46,Other
+Poor,94133,Self-Employed,Other,50213,93,Fair,31,3,9,9,Mortgage,57949,77,48,None
+Good,69599,Unemployed,Other,49805,24,Excellent,9,66,4,5,Personal,61303,88079,55,None
+Poor,46323,Employed,House,67554,98,Good,32,11,9,3,Student,44818,90221,45,Collection
+Good,38772,Unemployed,House,65892,42,Good,8,30,6,1,Personal,1479,52576,95,Collection
+Excellent,16971,Unemployed,Car,95959,16,Excellent,83,49,5,9,Personal,71157,52316,82,Bankruptcy
+Good,83066,Employed,Investment,79087,0,Excellent,37,61,9,1,Auto,50779,31577,7,Judgement
+Good,41639,Self-Employed,None,64500,1,Excellent,60,24,10,6,Other,75100,2551,75,Bankruptcy
+Good,39180,Self-Employed,Car,76129,51,Poor,68,15,10,4,Student,33943,84625,47,Judgement
+Poor,75675,Unemployed,House,94528,0,Excellent,49,49,7,1,Student,38110,45079,68,Tax Lien
+Poor,15993,Employed,Land,46489,67,Poor,27,62,9,4,Other,13670,20785,85,Judgement
+Excellent,36188,Self-Employed,None,18256,4,Good,93,63,8,4,Mortgage,20428,39827,32,Collection
+Good,23558,Employed,House,11731,30,Poor,65,37,7,9,Mortgage,88838,62273,55,Tax Lien
+Fair,45845,Self-Employed,Investment,39258,11,Fair,86,4,7,7,Student,11817,92942,83,Judgement
+Fair,59306,Unemployed,None,86269,61,Excellent,98,33,1,2,Personal,74078,68962,86,Bankruptcy
+Fair,28051,Employed,None,12136,11,Fair,64,48,4,8,Personal,16820,57910,74,Collection
+Good,82808,Self-Employed,Other,64769,78,Fair,87,52,8,8,Auto,36286,6524,65,Judgement
+Poor,83123,Self-Employed,Car,86765,86,Fair,69,93,9,2,Student,25352,81401,61,Other
+Fair,88578,Self-Employed,House,31680,89,Good,84,99,0,1,Personal,83845,51977,11,None
+Excellent,67745,Employed,Land,54355,6,Poor,7,8,10,2,Other,1535,4543,26,Other
+Poor,12159,Self-Employed,Land,66672,61,Fair,74,19,1,4,Other,75837,6637,48,Tax Lien
+Poor,10543,Unemployed,House,92387,24,Good,47,97,8,8,Auto,64471,94508,36,Other
+Good,98909,Employed,Other,29512,5,Excellent,23,46,1,10,Auto,24919,39565,93,None
+Poor,75434,Unemployed,House,85501,52,Excellent,72,97,10,4,Other,25216,6769,96,None
+Fair,39481,Employed,Other,22930,43,Good,74,65,9,10,Personal,93542,61340,60,Judgement
+Fair,73532,Unemployed,House,53688,5,Fair,78,27,0,5,Other,83612,38352,46,Other
+Fair,34278,Employed,Investment,55508,53,Good,68,22,9,6,Auto,85967,11629,64,Other
+Excellent,78705,Employed,Investment,89282,32,Fair,65,79,7,5,Other,67459,59631,49,Other
+Good,44155,Employed,House,59204,99,Fair,42,72,0,4,Student,50261,32465,62,Judgement
+Good,25126,Unemployed,Investment,53219,89,Fair,46,53,6,2,Other,55677,17768,39,Tax Lien
+Excellent,32490,Self-Employed,House,38767,13,Good,69,8,7,2,Mortgage,28437,45194,1,Bankruptcy
+Fair,69911,Employed,Other,83875,99,Excellent,57,51,2,0,Student,53945,17554,3,Tax Lien
+Fair,97739,Self-Employed,None,79538,12,Poor,8,60,6,9,Mortgage,42873,2766,94,Judgement
+Poor,84407,Employed,Investment,21587,80,Poor,78,6,7,3,Other,11367,36765,46,Judgement
+Poor,31881,Self-Employed,Other,89504,54,Poor,18,49,3,4,Personal,43383,52870,7,Collection
+Good,29216,Self-Employed,Other,26279,97,Poor,34,72,4,5,Other,84043,64262,38,Other
+Excellent,12322,Unemployed,Car,84843,38,Poor,94,35,5,8,Student,27059,85266,33,Collection
+Fair,31803,Unemployed,None,49508,19,Poor,60,8,0,1,Other,66446,66079,8,Bankruptcy
+Fair,63857,Self-Employed,Other,95228,4,Excellent,82,87,6,4,Mortgage,79941,16278,39,None
+Poor,87245,Unemployed,Car,61629,74,Excellent,60,51,10,4,Auto,65876,89215,65,Tax Lien
+Fair,23553,Employed,None,43808,20,Poor,16,2,5,8,Auto,64604,21071,95,None
+Fair,11330,Unemployed,House,94422,69,Excellent,3,94,5,2,Mortgage,62941,94628,34,Tax Lien
+Fair,37362,Unemployed,House,50369,65,Fair,97,30,2,2,Personal,46785,18631,13,Bankruptcy
+Poor,31415,Self-Employed,Investment,36638,54,Excellent,15,86,1,9,Other,7482,24885,58,Tax Lien
+Fair,50923,Self-Employed,Investment,25815,23,Excellent,32,19,0,8,Student,95590,72023,63,Other
+Excellent,18600,Self-Employed,Other,90090,22,Poor,32,22,10,2,Other,29977,54079,14,Other
+Poor,68650,Unemployed,Land,92561,15,Excellent,1,23,7,4,Student,48531,1350,7,Bankruptcy
+Good,94150,Employed,Investment,64111,15,Fair,48,51,4,6,Personal,61055,21644,65,Bankruptcy
+Excellent,41295,Self-Employed,Investment,96467,16,Fair,58,58,3,8,Auto,6308,41097,15,Judgement
+Good,65340,Employed,House,85214,82,Poor,64,83,3,7,Mortgage,36864,87567,28,Other
+Fair,58504,Employed,Other,21286,84,Poor,50,73,1,7,Other,7565,1504,52,Bankruptcy
+Good,75359,Unemployed,Car,88939,66,Good,0,6,8,2,Other,93491,4603,96,Other
+Excellent,42944,Employed,Investment,67378,24,Fair,41,75,6,8,Other,32391,5107,91,Tax Lien
+Poor,42285,Employed,House,21255,2,Poor,77,32,3,9,Auto,99534,92531,76,Other
+Excellent,17746,Self-Employed,Other,21032,55,Poor,43,59,9,10,Mortgage,49303,75763,77,Other
+Excellent,14724,Unemployed,Other,84299,77,Good,98,4,7,8,Mortgage,95839,70212,78,None
+Poor,10111,Unemployed,Other,45025,35,Poor,36,7,0,4,Auto,84117,97085,16,Collection
+Poor,61253,Self-Employed,Other,35451,10,Good,41,25,5,6,Mortgage,21163,74249,98,Other
+Good,86740,Self-Employed,House,61728,100,Poor,61,91,1,9,Mortgage,23366,16695,45,Collection
+Excellent,70736,Self-Employed,House,75862,50,Excellent,28,33,7,3,Auto,95481,9139,34,Tax Lien
+Fair,98074,Self-Employed,Car,85047,4,Good,43,35,5,3,Auto,86109,78495,53,Tax Lien
+Good,97176,Employed,Car,90072,38,Excellent,11,82,3,10,Other,5792,95920,33,None
+Fair,24241,Self-Employed,Car,93744,34,Good,9,32,1,4,Other,98860,59933,94,Bankruptcy
+Good,72031,Unemployed,Land,95970,94,Fair,6,47,0,1,Other,39757,57681,16,Bankruptcy
+Fair,76710,Employed,House,38964,21,Fair,70,92,10,6,Personal,88770,44949,37,Other
+Good,37390,Self-Employed,Car,42613,7,Fair,29,88,1,3,Student,72929,85526,28,None
+Fair,24956,Employed,None,83382,36,Good,73,23,3,10,Personal,5892,35891,5,None
+Good,28301,Unemployed,Investment,92108,78,Excellent,72,23,5,4,Student,41719,64984,70,Other
+Fair,43534,Self-Employed,None,66517,16,Good,97,46,1,8,Mortgage,10880,55813,74,Other
+Poor,97659,Self-Employed,House,48485,59,Excellent,5,70,1,9,Auto,39607,12874,41,Bankruptcy
+Poor,40797,Unemployed,Car,50691,4,Poor,7,84,6,3,Mortgage,65011,84350,11,Bankruptcy
+Good,94545,Employed,Car,50628,97,Excellent,27,37,5,4,Other,79660,47457,83,None
+Excellent,48887,Employed,Car,52139,52,Excellent,35,35,7,9,Personal,79030,27968,85,None
+Excellent,21563,Employed,Land,49893,12,Good,74,45,6,5,Other,97329,29440,70,Judgement
+Fair,65386,Unemployed,None,13722,55,Fair,68,73,4,3,Mortgage,80013,12391,7,Bankruptcy
+Good,38177,Unemployed,House,44893,23,Excellent,9,90,2,8,Auto,12892,61193,11,Bankruptcy
+Good,28694,Employed,Land,57529,63,Fair,74,84,3,7,Mortgage,88557,86115,70,Judgement
+Poor,25133,Employed,Land,14284,0,Poor,49,51,6,5,Personal,3115,71668,21,Other
+Poor,10882,Unemployed,House,70205,24,Excellent,76,67,0,2,Personal,94159,66691,81,Bankruptcy
+Excellent,78998,Self-Employed,None,10543,7,Good,36,53,6,0,Auto,96272,45712,10,Collection
+Excellent,82250,Unemployed,Other,37873,78,Poor,93,8,5,2,Student,71191,82293,18,Other
+Poor,40624,Self-Employed,Other,91135,26,Good,99,21,5,5,Mortgage,50250,69737,7,Bankruptcy
+Fair,59919,Self-Employed,Other,45549,17,Excellent,46,21,8,9,Other,39975,37649,94,Judgement
+Good,25619,Unemployed,Investment,49492,5,Good,60,26,8,9,Other,50674,69305,17,Tax Lien
+Poor,38396,Unemployed,Car,89778,22,Excellent,100,86,10,7,Mortgage,65203,9793,72,None
+Fair,57792,Self-Employed,None,59286,69,Poor,31,68,8,3,Student,90552,99978,98,Collection
+Excellent,28396,Self-Employed,House,49237,95,Excellent,49,71,7,2,Mortgage,48491,76285,57,None
+Poor,88100,Employed,Investment,14163,17,Good,55,2,5,3,Other,53665,37223,100,Other
+Good,61462,Unemployed,Other,63733,49,Fair,55,100,5,6,Mortgage,20915,46528,100,None
+Good,18790,Employed,Land,20500,94,Excellent,21,16,9,10,Personal,61333,19885,19,Tax Lien
+Good,41492,Self-Employed,Investment,13640,30,Excellent,76,81,7,2,Student,30899,51094,75,None
+Excellent,21004,Self-Employed,Investment,18022,43,Excellent,27,65,4,7,Student,48568,36017,90,Bankruptcy
+Excellent,97805,Employed,House,56390,85,Excellent,89,38,4,2,Student,81101,86015,17,Judgement
+Good,58115,Employed,None,68594,59,Fair,59,56,2,6,Mortgage,87421,10399,13,Other
+Poor,85144,Self-Employed,Land,42527,56,Excellent,4,76,0,4,Other,77693,66704,59,Tax Lien
+Fair,24681,Employed,House,53106,75,Poor,61,50,2,6,Mortgage,80764,96005,92,Judgement
+Good,87936,Unemployed,None,88134,100,Good,4,50,5,6,Personal,24356,76531,10,Bankruptcy
+Excellent,28770,Self-Employed,None,68417,82,Fair,86,36,5,9,Other,2461,26620,21,Tax Lien
+Fair,85867,Employed,Land,60488,42,Excellent,70,20,9,9,Personal,41753,56647,55,Bankruptcy
+Good,31761,Unemployed,Land,99043,61,Poor,33,54,3,4,Auto,99121,57256,28,Judgement
+Poor,22474,Employed,None,98786,91,Poor,49,8,1,1,Mortgage,89801,70232,26,Bankruptcy
+Excellent,19608,Employed,Car,85750,82,Excellent,10,17,8,10,Mortgage,33529,14902,18,Collection
+Good,40256,Self-Employed,Car,40915,26,Fair,63,98,6,6,Other,39230,19848,21,Tax Lien
+Fair,40214,Unemployed,None,82087,27,Poor,91,29,6,9,Personal,39020,95988,85,Collection
+Fair,25143,Self-Employed,Land,70511,82,Poor,43,13,5,2,Auto,84461,41403,74,Judgement
+Excellent,34375,Unemployed,Other,74116,16,Good,13,28,3,6,Auto,89377,34850,63,Bankruptcy
+Good,11150,Unemployed,Land,48731,53,Fair,28,68,8,7,Other,38465,1212,36,Other
+Fair,91896,Employed,Investment,48537,44,Good,42,96,5,10,Personal,86559,31959,10,Tax Lien
+Good,73331,Self-Employed,Car,99701,81,Poor,88,57,7,0,Other,75602,19559,62,Judgement
+Poor,50450,Employed,House,93424,31,Poor,43,41,10,6,Mortgage,44703,94509,88,Judgement
+Poor,72223,Self-Employed,Land,28720,67,Poor,27,91,1,4,Auto,32541,3305,98,Bankruptcy
+Excellent,85050,Self-Employed,Investment,53737,99,Excellent,12,1,6,4,Personal,45834,85103,5,Other
+Good,29960,Self-Employed,None,78885,96,Poor,70,1,3,4,Mortgage,77507,7030,95,Collection
+Poor,65688,Unemployed,None,20366,92,Good,7,59,5,9,Personal,22709,56195,65,Collection
+Poor,18590,Employed,House,74233,79,Good,32,45,4,4,Other,53100,22290,63,Judgement
+Good,10177,Self-Employed,None,20627,99,Good,64,48,0,1,Other,21218,30014,75,Bankruptcy
+Poor,35083,Unemployed,Land,13122,82,Fair,16,71,6,5,Student,67580,78049,89,Other
+Excellent,57764,Employed,Land,22322,93,Poor,14,66,4,9,Student,9191,22279,16,Tax Lien
+Excellent,19821,Unemployed,None,86385,68,Excellent,81,59,2,6,Other,66866,8,4,Tax Lien
+Good,82263,Employed,Other,72903,63,Excellent,59,26,0,8,Mortgage,618,67464,94,Judgement
+Fair,23238,Unemployed,Land,14757,21,Good,2,51,3,7,Mortgage,80291,60671,38,Judgement
+Fair,68395,Self-Employed,Investment,63229,19,Good,39,0,0,6,Auto,35238,58183,46,Other
+Excellent,99210,Unemployed,Investment,29058,54,Excellent,74,77,6,6,Mortgage,8512,24772,81,Judgement
+Excellent,60976,Employed,House,65367,64,Good,78,67,2,0,Auto,65937,63930,0,Judgement
+Excellent,50429,Employed,Land,75641,97,Excellent,44,87,9,7,Other,7377,41344,13,Judgement
+Good,94557,Employed,Other,66027,3,Excellent,9,12,2,0,Mortgage,18200,85591,29,Bankruptcy
+Good,65752,Self-Employed,Land,27805,44,Poor,99,73,7,2,Mortgage,82148,6463,15,Bankruptcy
+Fair,98216,Unemployed,Other,69823,80,Excellent,20,46,6,5,Auto,79618,22589,37,Judgement
+Excellent,23662,Unemployed,Investment,13562,3,Fair,80,100,7,6,Personal,91317,45224,61,None
+Poor,38451,Employed,Car,66411,85,Poor,4,92,5,4,Mortgage,26811,60366,16,None
+Excellent,88776,Employed,Investment,80248,30,Poor,90,7,2,6,Mortgage,55888,38402,12,Tax Lien
+Good,70317,Unemployed,None,80198,40,Fair,42,38,8,0,Other,39171,78913,16,None
+Poor,91188,Employed,Other,91020,49,Excellent,17,4,4,8,Mortgage,32188,64072,59,Other
+Excellent,47772,Self-Employed,None,56401,60,Good,77,67,10,1,Mortgage,6413,42599,77,Tax Lien
+Poor,93280,Employed,Car,28636,37,Poor,62,58,6,2,Personal,66066,45955,100,Bankruptcy
+Good,64092,Self-Employed,Investment,96282,5,Poor,84,0,1,0,Other,49544,15750,29,Collection
+Fair,95485,Unemployed,Car,39027,87,Poor,29,55,8,4,Other,5708,408,19,None
+Fair,12986,Employed,Car,22494,80,Excellent,56,37,6,1,Auto,86424,77250,14,None
+Fair,80888,Unemployed,Land,21757,70,Good,0,79,0,1,Auto,23607,19426,25,Judgement
+Good,93183,Unemployed,Land,32210,23,Excellent,68,87,10,1,Mortgage,19717,57187,59,Judgement
+Poor,52989,Self-Employed,Other,51818,72,Poor,3,9,9,2,Personal,96012,83630,76,Bankruptcy
+Fair,62529,Unemployed,Investment,49662,60,Excellent,73,3,0,0,Student,2705,52225,18,Collection
+Excellent,11428,Unemployed,Other,48797,80,Poor,88,88,4,10,Personal,3654,57443,25,Judgement
+Poor,22484,Self-Employed,Investment,94703,14,Fair,45,0,0,9,Personal,42043,29839,28,None
+Good,96756,Employed,Other,31328,77,Fair,6,65,4,2,Mortgage,81231,25570,9,Collection
+Good,57587,Self-Employed,Car,52516,75,Poor,6,66,9,5,Mortgage,84215,63700,8,Bankruptcy
+Good,68331,Employed,Other,64398,100,Poor,99,97,5,9,Personal,75050,13449,3,None
+Poor,67303,Employed,Land,49044,28,Fair,97,79,2,6,Mortgage,70600,77546,31,Bankruptcy
+Poor,20438,Employed,Car,48261,36,Excellent,52,57,9,4,Mortgage,94847,35589,21,None
+Poor,80102,Unemployed,Investment,19345,99,Excellent,69,94,0,6,Personal,4583,43851,89,Judgement
+Fair,15892,Unemployed,Land,12564,67,Poor,26,31,10,1,Auto,22243,81721,50,None
+Fair,52708,Self-Employed,Investment,32789,42,Excellent,37,54,0,3,Student,14921,79646,67,Tax Lien
+Good,27669,Employed,Other,45656,98,Fair,45,63,8,0,Auto,7973,98300,85,Other
+Excellent,86492,Self-Employed,House,86633,6,Fair,43,8,3,6,Mortgage,53578,36164,63,Collection
+Fair,53120,Unemployed,Other,96706,74,Good,40,73,5,9,Student,10818,30666,24,Bankruptcy
+Poor,83963,Self-Employed,Investment,33402,98,Fair,95,23,7,10,Other,30636,4134,94,Judgement
+Excellent,78387,Employed,Car,28584,10,Poor,97,72,1,2,Mortgage,45850,38923,86,Other
+Poor,28961,Employed,Car,69000,12,Good,33,95,6,2,Other,98065,50582,23,Other
+Good,50730,Self-Employed,None,69829,48,Excellent,49,67,6,1,Mortgage,46277,21512,39,Tax Lien
+Excellent,67576,Self-Employed,Other,86343,43,Good,95,4,7,3,Personal,40851,9005,14,Tax Lien
+Fair,34123,Employed,Investment,61714,49,Excellent,85,55,2,8,Other,41224,32102,63,None
+Excellent,99166,Employed,Car,36100,25,Good,77,13,9,9,Personal,26312,1301,58,Other
+Fair,40581,Self-Employed,None,22050,78,Fair,40,95,0,0,Other,32843,66776,11,Tax Lien
+Fair,20925,Self-Employed,Car,32017,55,Fair,100,79,8,5,Personal,95249,64075,71,Tax Lien
+Fair,87987,Self-Employed,Other,34083,20,Excellent,71,72,8,1,Auto,46741,3088,76,Tax Lien
+Fair,91636,Employed,Land,98365,95,Good,83,55,6,0,Personal,7302,56920,4,Other
+Good,87184,Self-Employed,None,89089,70,Fair,24,34,0,4,Mortgage,8633,21698,22,Collection
+Fair,57962,Self-Employed,Land,71733,74,Excellent,24,17,0,0,Mortgage,92862,30814,72,Other
+Poor,28778,Self-Employed,Land,50188,82,Poor,39,37,2,3,Student,61733,36922,28,None
+Excellent,43554,Self-Employed,Other,41582,73,Good,63,39,2,0,Student,89952,36316,18,Collection
+Fair,57561,Unemployed,None,94287,25,Excellent,96,51,3,1,Auto,13287,59520,60,Collection
+Excellent,47540,Self-Employed,Land,49900,27,Good,83,46,5,8,Personal,24238,83132,58,Judgement
+Poor,50183,Employed,House,43819,11,Poor,64,100,1,1,Personal,18537,97455,35,None
+Excellent,95513,Unemployed,Other,79183,67,Poor,21,37,10,0,Personal,49725,10049,5,Bankruptcy
+Excellent,53718,Employed,None,12887,54,Poor,66,37,2,9,Auto,24019,33354,92,Other
+Good,38491,Self-Employed,Land,92884,89,Fair,94,34,4,4,Auto,42605,75991,61,Bankruptcy
+Good,54410,Unemployed,House,70617,87,Excellent,74,63,9,4,Auto,70850,48339,7,Collection
+Good,80148,Employed,Land,35859,33,Fair,73,18,8,7,Personal,48641,34427,41,Bankruptcy
+Fair,81093,Employed,House,49522,77,Good,8,17,9,2,Other,48155,90007,27,Bankruptcy
+Good,20391,Unemployed,Land,64539,72,Good,47,77,8,3,Auto,63506,63703,22,Collection
+Good,18001,Unemployed,None,99121,73,Excellent,76,83,3,6,Student,35095,61256,18,Judgement
+Poor,63100,Employed,None,31793,43,Excellent,29,50,1,2,Mortgage,89729,6080,62,Other
+Excellent,87221,Unemployed,Other,39216,2,Excellent,32,95,2,1,Mortgage,12457,53607,35,Tax Lien
+Poor,36852,Employed,House,29099,2,Excellent,65,47,0,10,Student,65178,23143,15,Tax Lien
+Fair,77417,Unemployed,House,12247,57,Poor,9,0,2,8,Other,72848,76681,40,None
+Good,99254,Employed,Other,82182,19,Excellent,51,34,9,9,Student,30961,22624,55,Collection
+Good,42617,Self-Employed,None,18015,55,Fair,21,21,6,1,Personal,1585,62005,10,None
+Fair,32947,Self-Employed,Other,33702,60,Poor,2,22,4,0,Student,7904,57570,41,Collection
+Fair,78725,Self-Employed,Investment,66002,13,Fair,63,22,5,2,Personal,27295,3323,9,Judgement
+Good,71273,Self-Employed,Other,33721,39,Good,79,68,7,10,Mortgage,39270,18199,15,Other
+Good,50453,Employed,None,40679,81,Good,77,100,0,2,Student,3342,30829,96,Judgement
+Excellent,83064,Self-Employed,None,22449,53,Poor,36,99,8,4,Auto,29582,22760,29,Bankruptcy
+Fair,97288,Employed,House,89545,1,Fair,54,43,5,8,Auto,39660,21451,53,Bankruptcy
+Poor,23167,Employed,Investment,28245,74,Poor,86,26,3,7,Student,47142,15512,77,Other
+Poor,88101,Self-Employed,Land,67015,34,Excellent,85,9,6,6,Mortgage,5808,28105,20,Bankruptcy
+Excellent,58337,Self-Employed,Other,85516,53,Fair,96,64,0,3,Other,76257,45951,99,Tax Lien
+Poor,64954,Employed,Land,75964,9,Excellent,56,67,9,5,Auto,28317,67541,43,Bankruptcy
+Good,80260,Self-Employed,Investment,95431,36,Fair,79,91,1,1,Personal,44971,64051,0,Bankruptcy
+Excellent,44010,Employed,Land,40212,22,Fair,4,53,6,10,Student,72160,67670,69,Tax Lien
+Fair,23284,Unemployed,Car,66514,40,Poor,64,10,3,5,Personal,83369,26938,86,None
+Good,57774,Unemployed,Investment,53349,65,Fair,79,86,4,10,Auto,6879,34673,35,None
+Fair,29090,Unemployed,House,83683,46,Poor,67,41,9,10,Student,24503,74548,36,Other
+Good,56833,Self-Employed,Other,46028,70,Fair,15,63,4,5,Student,64195,56243,68,Tax Lien
+Poor,15065,Unemployed,House,46318,85,Poor,85,24,1,6,Mortgage,95330,40475,37,Other
+Excellent,70795,Self-Employed,House,82678,14,Good,0,3,4,2,Mortgage,57381,44845,3,Judgement
+Poor,79786,Employed,Land,69245,15,Poor,38,18,4,5,Student,80683,93220,64,None
+Fair,74720,Unemployed,Investment,50148,80,Poor,40,4,2,3,Auto,1310,54330,47,Bankruptcy
+Excellent,79656,Self-Employed,Investment,11110,48,Fair,49,27,7,10,Auto,74325,179,11,Collection
+Poor,53012,Self-Employed,Land,92750,53,Excellent,66,14,2,3,Other,73066,79400,89,Bankruptcy
+Excellent,62286,Self-Employed,Investment,22272,9,Poor,28,93,7,3,Other,19417,99880,27,Collection
+Fair,10887,Self-Employed,Investment,71227,79,Good,80,45,5,5,Mortgage,99600,13046,40,Judgement
+Poor,37867,Unemployed,None,35197,71,Poor,43,1,6,1,Student,3998,54114,0,Collection
+Poor,17591,Unemployed,None,21164,74,Fair,36,52,5,3,Personal,88257,52026,47,Bankruptcy
+Poor,52839,Self-Employed,Other,66312,11,Fair,49,56,1,9,Student,51560,29857,5,Other
+Fair,89233,Unemployed,Investment,93711,24,Good,0,78,7,1,Mortgage,43184,4827,82,Tax Lien
+Good,39473,Employed,None,79798,29,Fair,94,70,7,3,Mortgage,39040,90110,49,Tax Lien
+Fair,83916,Employed,House,34226,22,Poor,3,44,0,6,Mortgage,73965,96594,85,Other
+Excellent,72008,Unemployed,House,19252,62,Poor,4,91,1,0,Student,76669,46330,34,Tax Lien
+Excellent,84966,Employed,House,63522,79,Excellent,48,48,2,2,Other,23341,86990,11,Other
+Poor,57133,Employed,None,89163,31,Fair,65,60,5,10,Student,2573,6401,10,Judgement
+Fair,22034,Unemployed,Other,43639,61,Good,39,59,8,1,Mortgage,86332,16039,53,Collection
+Good,98804,Employed,House,49313,33,Good,24,80,4,4,Auto,80004,47751,8,Collection
+Poor,52340,Self-Employed,Investment,39484,47,Good,10,32,2,7,Personal,38788,81572,36,Judgement
+Good,18634,Employed,Land,33579,70,Fair,100,1,1,2,Auto,41049,54762,88,Bankruptcy
+Good,59494,Unemployed,Car,46640,74,Fair,62,5,7,2,Mortgage,2137,17661,62,Bankruptcy
+Poor,90098,Employed,Land,48456,88,Good,9,43,9,6,Student,80978,59968,52,Tax Lien
+Poor,81208,Self-Employed,House,49359,11,Good,92,38,10,2,Auto,98195,27984,74,Tax Lien
+Fair,56114,Self-Employed,House,30630,71,Good,30,97,2,2,Personal,13279,283,71,None
+Fair,68142,Self-Employed,Land,92257,25,Good,7,70,4,6,Personal,487,39296,78,Collection
+Good,11785,Unemployed,House,52545,42,Excellent,93,27,5,9,Auto,30922,50315,88,Collection
+Fair,48244,Unemployed,Investment,91922,66,Good,11,29,8,3,Other,30606,90586,89,Other
+Excellent,29172,Self-Employed,Car,60873,56,Fair,54,45,6,8,Other,96176,27167,5,Bankruptcy
+Excellent,18660,Employed,None,21010,35,Poor,2,95,2,6,Mortgage,25677,75356,43,None
+Fair,87305,Unemployed,Car,56993,52,Poor,28,6,8,10,Mortgage,75775,35227,23,Judgement
+Poor,41133,Unemployed,None,31646,85,Poor,73,78,9,7,Other,23443,21091,2,Tax Lien
+Good,88857,Employed,Land,66387,79,Good,54,53,3,5,Personal,22001,1994,89,Judgement
+Excellent,87283,Self-Employed,Investment,70779,92,Fair,71,92,0,3,Personal,28187,26697,24,Tax Lien
+Good,86551,Self-Employed,Other,52069,16,Poor,30,47,7,2,Student,8408,4165,94,Other
+Poor,23111,Unemployed,Investment,81058,100,Good,32,93,2,0,Mortgage,85872,5008,31,Other
+Excellent,76444,Unemployed,House,57833,68,Good,3,35,5,10,Auto,19454,60955,54,Other
+Good,37310,Employed,Land,76602,61,Good,9,93,8,5,Auto,38281,67537,24,Judgement
+Excellent,13083,Self-Employed,Land,67553,88,Excellent,48,100,6,8,Auto,83534,65328,15,None
+Good,26756,Unemployed,Other,30464,96,Poor,72,29,2,5,Other,15961,34868,30,Other
+Fair,24305,Employed,Investment,15308,14,Poor,5,1,6,9,Mortgage,41923,97648,99,Tax Lien
+Good,89165,Employed,Investment,38224,50,Fair,7,63,1,10,Mortgage,91027,38442,72,Collection
+Fair,45587,Employed,None,12523,18,Poor,29,5,4,4,Auto,52368,20255,6,None
+Good,69342,Unemployed,Investment,72347,13,Excellent,31,61,7,3,Personal,9947,81675,91,Bankruptcy
+Fair,65774,Unemployed,Investment,53486,3,Excellent,99,73,6,2,Personal,95330,21645,81,Judgement
+Fair,93176,Self-Employed,Car,87283,10,Fair,78,41,3,7,Auto,39702,78079,42,Other
+Excellent,49168,Self-Employed,House,96740,24,Poor,13,37,2,9,Mortgage,65571,65146,46,None
+Good,93632,Employed,Other,44336,96,Fair,15,10,8,7,Personal,37933,49725,40,Tax Lien
+Good,40640,Employed,Land,98944,12,Fair,95,40,1,7,Student,27461,31049,55,Other
+Fair,21343,Self-Employed,House,23798,63,Poor,70,91,7,5,Student,54340,28114,7,Other
+Excellent,17732,Self-Employed,None,55901,99,Excellent,13,66,8,6,Mortgage,87816,77506,1,None
+Excellent,87823,Employed,Land,23826,37,Poor,32,22,8,0,Personal,99535,41715,3,Judgement
+Excellent,17940,Self-Employed,House,86799,88,Poor,81,88,9,5,Personal,29898,19676,2,Judgement
+Poor,75728,Self-Employed,House,94717,68,Excellent,43,82,5,8,Personal,93785,57081,95,Tax Lien
+Poor,26917,Employed,Other,38281,79,Good,11,99,3,9,Mortgage,88696,90468,8,Bankruptcy
+Fair,78313,Unemployed,Land,71598,23,Excellent,87,75,0,6,Mortgage,61179,84941,8,Collection
+Good,83159,Unemployed,Land,42250,99,Good,71,45,9,3,Other,78585,16018,72,Judgement
+Fair,63528,Unemployed,Land,80145,87,Fair,64,78,6,2,Mortgage,33206,29346,58,None
+Excellent,32279,Self-Employed,Other,44185,65,Excellent,47,19,0,3,Mortgage,34215,97091,71,Bankruptcy
+Good,80082,Self-Employed,House,76085,29,Excellent,83,15,4,3,Other,88953,62331,30,Judgement
+Excellent,70083,Unemployed,Other,67835,53,Fair,30,78,1,6,Other,15997,93246,39,Tax Lien
+Good,27826,Employed,House,99881,45,Good,100,20,9,3,Mortgage,75515,65047,99,Other
+Excellent,61208,Self-Employed,Investment,74283,56,Good,88,51,5,6,Personal,86231,76819,67,Other
+Excellent,99673,Self-Employed,Other,34203,20,Good,0,34,7,2,Student,87654,52176,5,Collection
+Poor,33235,Self-Employed,House,25576,6,Fair,92,62,7,0,Mortgage,87629,74879,48,None
+Excellent,29889,Unemployed,Car,34851,91,Poor,16,3,9,5,Mortgage,74720,67287,14,Collection
+Poor,23418,Unemployed,Investment,32295,26,Fair,74,24,2,0,Mortgage,43259,44794,58,Judgement
+Fair,16065,Self-Employed,Investment,46343,55,Fair,27,21,3,8,Student,91139,1552,73,Other
+Excellent,45809,Self-Employed,None,16669,16,Poor,22,96,5,5,Student,9971,47893,11,Collection
+Fair,16348,Self-Employed,None,76243,88,Good,14,46,9,4,Personal,92120,94627,96,None
+Poor,57266,Unemployed,Investment,98853,83,Fair,49,7,3,4,Mortgage,81540,46284,38,Other
+Excellent,42661,Self-Employed,Land,67861,80,Fair,66,26,10,7,Auto,55358,50560,54,Bankruptcy
+Fair,41771,Unemployed,Investment,59487,34,Good,45,4,3,9,Student,55230,50759,97,Collection
+Good,62669,Self-Employed,House,89885,8,Excellent,89,54,9,3,Other,66610,67555,73,Collection
+Fair,71476,Unemployed,Investment,82229,12,Good,65,71,8,0,Personal,83784,20528,11,Collection
+Fair,89440,Unemployed,House,38415,5,Poor,39,88,10,6,Auto,50695,47818,29,Judgement
+Poor,98108,Unemployed,Land,52860,84,Fair,77,29,2,10,Auto,16275,20566,68,None
+Fair,55827,Self-Employed,Other,18478,37,Excellent,31,25,9,8,Mortgage,69151,71863,87,Other
+Poor,14850,Employed,Other,57222,13,Poor,81,68,7,6,Auto,20873,44109,37,Bankruptcy
+Fair,64839,Self-Employed,Car,39939,81,Excellent,62,98,8,8,Mortgage,36414,63703,71,Judgement
+Poor,31812,Self-Employed,Investment,11268,67,Poor,19,0,1,7,Student,93093,73080,80,Other
+Poor,62802,Employed,Car,88985,40,Fair,25,34,0,3,Auto,20999,88667,81,Tax Lien
+Excellent,51787,Self-Employed,None,29354,29,Fair,99,38,9,8,Personal,59179,32119,23,None
+Excellent,18133,Self-Employed,Other,98813,36,Poor,69,5,0,5,Personal,7629,44052,81,Collection
+Fair,48983,Employed,Other,99160,56,Poor,43,63,10,2,Mortgage,55899,48647,74,Other
+Poor,94424,Self-Employed,Land,18807,53,Excellent,87,2,8,9,Other,46417,79241,75,Other
+Good,94769,Self-Employed,Land,80168,61,Good,83,61,6,3,Mortgage,94451,55787,4,Tax Lien
+Excellent,39150,Employed,Car,42487,51,Good,41,56,7,1,Other,95876,90642,64,Collection
+Poor,29407,Unemployed,None,87786,66,Fair,45,39,0,0,Personal,29094,59072,72,Bankruptcy
+Poor,17177,Self-Employed,None,28032,24,Fair,35,4,3,1,Mortgage,40150,7782,61,None
+Fair,55839,Unemployed,Land,30921,63,Fair,76,100,1,8,Auto,24783,1816,96,None
+Poor,86880,Employed,Investment,97673,6,Excellent,74,97,10,5,Student,28663,98535,83,Bankruptcy
+Good,66916,Unemployed,Land,71254,52,Excellent,97,62,0,3,Mortgage,90270,15877,24,None
+Good,35008,Unemployed,Car,75468,42,Excellent,20,36,2,2,Other,24537,41129,74,Judgement
+Good,95178,Unemployed,Land,34214,25,Excellent,45,76,7,3,Personal,53375,65606,22,None
+Excellent,73545,Employed,Investment,63249,61,Excellent,58,84,2,0,Personal,4587,12692,22,Other
+Fair,88370,Unemployed,House,88664,46,Good,82,94,4,7,Other,42870,16650,70,Judgement
+Good,65162,Unemployed,House,60413,28,Excellent,95,33,5,9,Student,20140,27554,23,None
+Poor,48760,Self-Employed,Car,64418,50,Good,39,77,8,4,Auto,89262,94062,55,None
+Excellent,84849,Self-Employed,Other,56610,22,Good,52,90,9,1,Student,54108,59627,89,Other
+Fair,99256,Employed,None,63434,0,Poor,33,88,0,4,Auto,82572,19861,37,Other
+Poor,46116,Self-Employed,None,43251,1,Poor,11,33,3,5,Other,58007,82138,38,None
+Excellent,37539,Employed,Car,83790,42,Poor,2,62,8,10,Auto,31223,76016,41,Collection
+Fair,54466,Employed,Investment,21592,77,Good,68,85,3,6,Other,16681,83032,28,Collection
+Excellent,38005,Self-Employed,None,26356,40,Poor,5,22,6,9,Auto,29070,16061,99,Bankruptcy
+Good,69786,Self-Employed,None,90249,37,Excellent,64,33,4,1,Personal,77741,83339,37,Bankruptcy
+Good,14381,Self-Employed,None,80743,43,Fair,31,22,5,9,Student,49777,21153,82,Tax Lien
+Good,23623,Self-Employed,Car,62918,60,Fair,63,6,9,0,Personal,73378,77313,31,Tax Lien
+Poor,78107,Unemployed,Car,80512,65,Poor,34,92,3,5,Student,89676,67249,79,Judgement
+Poor,52753,Self-Employed,Land,17245,23,Fair,15,78,0,4,Mortgage,70212,29813,7,None
+Good,48708,Self-Employed,Land,51731,87,Excellent,19,8,2,10,Student,60939,68486,48,Tax Lien
+Excellent,23050,Self-Employed,Investment,65425,2,Fair,90,83,9,5,Other,87657,22965,51,None
+Good,43862,Employed,Car,75169,35,Excellent,63,90,3,3,Personal,39287,44435,6,Bankruptcy
+Good,92884,Employed,Car,31963,25,Poor,59,31,4,7,Personal,97066,86817,32,Collection
+Fair,19139,Unemployed,Other,41489,47,Poor,20,36,8,9,Personal,20029,24980,73,Tax Lien
+Good,13976,Unemployed,Investment,16777,25,Excellent,51,18,6,6,Student,8751,77543,83,None
+Fair,27578,Unemployed,Car,83343,50,Excellent,1,48,8,2,Auto,57419,14502,58,Other
+Excellent,86413,Unemployed,Car,68660,14,Good,52,59,5,8,Auto,86909,81969,100,Tax Lien
+Fair,95402,Self-Employed,Land,27058,48,Fair,65,64,6,9,Mortgage,49527,62948,83,Other
+Good,30654,Unemployed,None,50320,43,Poor,13,16,9,2,Student,38596,12724,3,Judgement
+Poor,84453,Unemployed,Car,36810,44,Good,57,18,9,1,Auto,14720,81476,76,None
+Fair,70104,Employed,Investment,28999,51,Poor,31,44,3,1,Mortgage,73152,2308,75,Tax Lien
+Poor,57104,Employed,Investment,35612,65,Poor,35,58,0,6,Mortgage,70216,40118,98,Judgement
+Poor,29418,Unemployed,Investment,45221,64,Fair,95,65,3,2,Other,71663,22211,48,Judgement
+Good,69190,Employed,Land,13591,38,Poor,17,70,4,4,Personal,5641,85889,27,None
+Poor,14931,Employed,House,70440,9,Excellent,47,27,6,3,Personal,74642,12519,31,None
+Good,34536,Employed,Investment,88224,30,Fair,72,13,9,8,Student,73082,8620,25,Collection
+Excellent,61167,Employed,Car,76631,3,Poor,90,70,3,9,Other,79435,23481,94,Judgement
+Good,97380,Employed,Investment,80804,37,Good,56,96,2,6,Student,76470,52081,40,Other
+Poor,16471,Self-Employed,Other,90895,17,Poor,55,50,6,2,Auto,89073,85139,1,Other
+Poor,24631,Employed,None,79322,81,Good,73,89,7,0,Student,31702,77873,86,Collection
+Fair,76356,Unemployed,Investment,57563,66,Excellent,99,17,3,9,Other,72998,15616,46,None
+Excellent,14965,Unemployed,None,38459,33,Fair,25,98,5,4,Personal,31457,6466,49,Collection
+Excellent,98251,Unemployed,House,97001,24,Excellent,74,30,10,5,Other,72838,42347,27,Tax Lien
+Excellent,43230,Self-Employed,Land,40596,88,Fair,7,21,8,6,Mortgage,67925,4019,41,Other
+Excellent,25593,Employed,Car,51081,77,Excellent,53,42,3,10,Mortgage,49806,91704,23,Bankruptcy
+Poor,22682,Employed,Land,33068,1,Poor,19,36,7,5,Other,45006,29542,29,Collection
+Poor,39403,Unemployed,House,23237,93,Poor,30,66,4,10,Personal,32378,33376,96,Collection
+Poor,89112,Employed,Other,25983,63,Fair,10,50,3,8,Student,13711,64616,87,Bankruptcy
+Good,74737,Employed,Investment,13988,88,Fair,9,81,7,2,Student,52268,17387,70,None
+Good,41326,Employed,House,95721,62,Poor,50,9,5,3,Auto,42679,21500,53,Tax Lien
+Fair,36734,Employed,Other,47335,69,Good,93,6,1,0,Auto,85846,32685,30,Bankruptcy
+Poor,49782,Self-Employed,None,16767,4,Excellent,24,95,5,1,Other,79888,55850,70,Collection
+Good,58100,Unemployed,House,28973,26,Fair,12,33,4,8,Auto,17362,41440,8,Tax Lien
+Poor,77439,Self-Employed,Land,69084,49,Fair,33,54,4,10,Personal,63949,40680,16,None
+Poor,89243,Self-Employed,House,92721,25,Fair,36,16,3,4,Personal,99700,51197,92,None
+Excellent,65971,Employed,None,57343,26,Good,89,97,7,10,Student,5264,77559,53,Collection
+Excellent,47378,Self-Employed,Land,61922,60,Excellent,89,43,3,4,Auto,82044,70627,77,Judgement
+Poor,54904,Self-Employed,Car,21262,89,Good,85,85,1,0,Auto,35332,59926,6,Other
+Poor,54039,Unemployed,Car,72844,17,Good,36,35,8,8,Student,86276,85286,19,None
+Poor,41932,Employed,House,87586,78,Fair,31,92,5,4,Student,76334,20650,39,Tax Lien
+Poor,47118,Employed,None,90836,81,Good,22,66,2,3,Personal,32808,44051,58,Tax Lien
+Poor,98414,Unemployed,Land,95963,76,Excellent,44,5,2,8,Student,19921,88942,85,Other
+Fair,98906,Unemployed,House,23089,44,Excellent,90,10,6,6,Personal,19695,37228,84,Other
+Good,34876,Self-Employed,Investment,78804,53,Good,63,82,8,9,Auto,48595,34377,49,None
+Poor,62439,Self-Employed,House,88714,81,Poor,79,23,8,6,Auto,69323,76509,37,Tax Lien
+Poor,81034,Employed,Car,21529,64,Fair,53,0,6,0,Auto,82236,26573,55,Other
+Poor,10219,Self-Employed,House,14596,17,Poor,87,78,4,6,Auto,8406,83996,79,Judgement
+Fair,19808,Unemployed,Land,65997,71,Poor,73,0,4,3,Auto,69337,3051,91,None
+Fair,85746,Unemployed,House,66330,98,Fair,9,39,5,3,Mortgage,30082,13323,94,Other
+Excellent,43155,Self-Employed,Other,38123,54,Excellent,39,12,6,3,Auto,61148,40006,89,None
+Excellent,85769,Unemployed,House,34484,56,Fair,23,74,0,6,Auto,38275,35639,97,Collection
+Poor,67073,Employed,None,54263,93,Excellent,100,79,8,1,Mortgage,17839,70947,43,Judgement
+Poor,25964,Unemployed,House,63210,78,Poor,59,74,2,1,Mortgage,42227,93740,96,Tax Lien
+Poor,52465,Employed,Other,28308,35,Good,90,38,6,2,Auto,77198,25837,54,Tax Lien
+Poor,18976,Self-Employed,Investment,64374,74,Fair,67,19,2,9,Student,79795,81284,12,Other
+Poor,15967,Employed,House,14872,79,Excellent,13,26,10,9,Other,1317,83256,29,Other
+Fair,96099,Employed,Investment,66202,11,Excellent,79,5,10,9,Other,36263,90590,64,Judgement
+Fair,43043,Unemployed,House,33201,52,Excellent,0,84,8,1,Personal,52252,49812,7,Bankruptcy
+Excellent,82951,Self-Employed,Car,87247,55,Fair,33,40,5,9,Student,20177,52489,69,None
+Fair,39872,Self-Employed,House,86252,76,Fair,60,73,2,4,Mortgage,19480,82347,54,Collection
+Excellent,44554,Unemployed,Other,70267,98,Excellent,16,80,8,10,Auto,15191,9793,26,Collection
+Good,80364,Self-Employed,Investment,88058,92,Poor,50,33,2,6,Mortgage,92074,37317,42,Collection
+Poor,45452,Unemployed,Car,20479,63,Excellent,21,60,10,5,Other,78586,36400,17,Collection
+Good,45544,Employed,Investment,93589,84,Poor,38,77,2,8,Other,47258,22626,29,Judgement
+Fair,31916,Employed,Land,48732,68,Poor,65,81,10,2,Student,10232,47903,70,Bankruptcy
+Excellent,73623,Employed,Land,46020,59,Fair,75,100,8,2,Auto,86887,61379,63,Other
+Poor,87708,Self-Employed,Land,93566,97,Fair,35,84,6,9,Personal,63026,11457,20,Collection
+Excellent,64817,Unemployed,Investment,94344,49,Poor,87,99,1,7,Student,57328,16090,96,Collection
+Poor,39813,Self-Employed,House,69556,80,Poor,7,40,2,10,Personal,13017,29286,68,Collection
+Fair,58633,Unemployed,None,77982,97,Excellent,5,49,5,6,Mortgage,69035,56865,31,Collection
+Good,56321,Unemployed,Other,99157,59,Poor,95,78,5,6,Personal,70123,60292,54,Judgement
+Fair,94561,Self-Employed,Investment,22268,13,Poor,15,72,2,3,Auto,40278,20396,44,Bankruptcy
+Good,23598,Unemployed,House,63788,84,Good,29,22,9,7,Mortgage,55063,14475,24,Judgement
+Fair,50245,Unemployed,Other,68996,89,Fair,75,68,0,9,Other,50575,23809,10,Tax Lien
+Poor,30095,Self-Employed,Land,35231,71,Fair,63,3,8,1,Auto,43812,35894,97,Judgement
+Fair,99477,Unemployed,House,26506,98,Good,25,62,9,4,Mortgage,6935,57021,76,Other
+Fair,94990,Unemployed,Car,93594,33,Good,69,80,6,3,Other,54737,39521,38,None
+Good,34387,Unemployed,Land,31983,7,Good,88,77,2,8,Student,59325,88903,55,Judgement
+Excellent,79789,Employed,House,99742,30,Fair,45,85,0,2,Student,90243,66723,77,Other
+Excellent,10188,Employed,Investment,87000,68,Excellent,82,47,2,6,Student,21047,88545,9,Collection
+Good,77262,Unemployed,Other,25178,27,Excellent,17,24,9,2,Other,69285,42579,60,Collection
+Excellent,80719,Unemployed,None,51841,90,Fair,63,69,5,9,Student,58302,9741,12,Bankruptcy
+Good,16199,Employed,House,94538,40,Good,74,63,6,7,Personal,22514,59846,17,Collection
+Excellent,78949,Unemployed,Investment,10853,3,Excellent,41,23,5,6,Other,15565,45592,52,Other
+Poor,92989,Unemployed,Investment,24220,10,Fair,14,93,1,10,Other,24860,83849,92,Judgement
+Excellent,36722,Unemployed,Other,18277,53,Good,48,98,7,8,Student,5564,6373,3,None
+Poor,71485,Self-Employed,None,98730,80,Good,9,12,9,8,Student,52511,73799,67,None
+Fair,53077,Self-Employed,House,63083,63,Good,43,0,4,2,Other,9584,21589,62,Other
+Excellent,88800,Unemployed,Other,47177,92,Excellent,51,53,10,6,Personal,57312,95528,97,Judgement
+Fair,83963,Employed,Car,24183,11,Good,30,21,2,10,Other,68250,16846,60,Judgement
+Fair,14384,Self-Employed,Investment,21779,7,Good,74,63,0,1,Other,55665,69726,39,Judgement
+Fair,15063,Unemployed,House,67788,43,Excellent,71,29,7,4,Mortgage,51526,49747,7,None
+Poor,95384,Employed,Car,13079,50,Fair,15,55,4,1,Mortgage,49235,36278,64,Collection
+Excellent,58094,Employed,Land,10501,6,Excellent,83,95,9,8,Mortgage,3676,12783,86,Judgement
+Good,67771,Self-Employed,Land,71289,26,Fair,93,45,8,8,Other,22529,8247,89,Tax Lien
+Good,24749,Employed,Other,71171,33,Poor,9,35,7,5,Student,90716,77430,50,Bankruptcy
+Poor,54887,Self-Employed,Land,43397,69,Fair,69,38,2,10,Other,24617,98844,56,None
+Excellent,26585,Employed,House,29063,91,Excellent,24,66,9,3,Mortgage,44982,57307,87,Bankruptcy
+Good,81187,Employed,Land,31575,63,Good,38,43,6,9,Student,74291,91983,5,Bankruptcy
+Good,64393,Self-Employed,Other,86666,48,Poor,95,50,3,7,Personal,89503,33702,17,None
+Fair,15148,Employed,None,53372,35,Fair,8,87,3,5,Auto,86372,27821,83,None
+Fair,77051,Unemployed,Land,17904,0,Poor,12,43,10,6,Other,22871,29259,83,None
+Good,72845,Unemployed,Other,56327,81,Fair,57,55,0,9,Personal,83935,34023,0,Tax Lien
+Poor,42684,Unemployed,Land,34432,60,Good,29,32,1,5,Student,88493,95875,58,Other
+Excellent,23265,Employed,Car,47244,63,Excellent,33,19,9,7,Other,91960,67516,26,None
+Poor,93779,Self-Employed,Investment,84412,95,Good,52,23,5,2,Personal,52668,53946,45,Tax Lien
+Poor,81411,Employed,Other,66084,16,Fair,64,55,6,5,Auto,86246,13598,99,Other
+Excellent,34702,Unemployed,None,94848,92,Good,73,90,0,9,Student,52135,36151,91,None
+Fair,67473,Self-Employed,House,38352,31,Poor,0,60,4,9,Mortgage,2811,24445,67,Tax Lien
+Good,28181,Self-Employed,Investment,91720,0,Good,0,17,6,8,Student,26376,73400,12,Judgement
+Fair,88092,Self-Employed,Car,72117,13,Good,35,66,4,7,Personal,13437,2421,6,Other
+Good,89221,Unemployed,Other,43506,93,Good,17,75,0,6,Auto,75237,25582,47,Bankruptcy
+Poor,57088,Unemployed,Land,97402,4,Excellent,15,43,4,3,Student,26109,79230,61,Judgement
+Good,97757,Unemployed,House,65712,69,Poor,99,44,10,4,Mortgage,22511,52069,55,Tax Lien
+Good,97118,Employed,Other,74153,93,Good,4,97,8,7,Other,99425,98179,44,Judgement
+Good,38841,Employed,Investment,24365,98,Good,91,88,9,2,Mortgage,43128,58800,63,Judgement
+Fair,57399,Unemployed,None,50219,28,Fair,6,48,8,5,Student,22221,13590,58,Bankruptcy
+Fair,88588,Self-Employed,None,24746,14,Excellent,84,20,9,1,Mortgage,13738,90445,54,Collection
+Poor,22776,Unemployed,Car,34060,22,Fair,93,18,7,1,Mortgage,84469,60230,89,Collection
+Fair,33368,Self-Employed,House,77672,83,Excellent,65,78,10,6,Personal,19627,90475,54,Bankruptcy
+Excellent,29492,Employed,Land,44555,66,Poor,3,41,4,3,Auto,63246,47550,30,Bankruptcy
+Fair,30571,Employed,Land,18680,8,Good,79,77,7,8,Auto,9301,99689,15,None
+Excellent,65796,Self-Employed,Car,89545,79,Fair,13,85,8,5,Mortgage,14691,91586,73,Judgement
+Poor,14196,Unemployed,Other,25246,23,Excellent,55,95,5,2,Mortgage,40521,39281,94,None
+Excellent,76350,Unemployed,Other,25611,33,Poor,18,35,9,3,Student,73185,78526,1,Collection
+Good,18768,Self-Employed,Car,65090,25,Excellent,47,70,5,5,Auto,30841,43967,47,None
+Excellent,35460,Unemployed,Car,35477,82,Excellent,95,20,8,9,Auto,37844,91761,15,Judgement
+Excellent,83588,Unemployed,House,63075,76,Excellent,31,73,0,3,Personal,37729,12773,35,Bankruptcy
+Poor,97498,Self-Employed,House,87475,96,Fair,74,82,2,8,Mortgage,84959,6660,73,None
+Good,65843,Unemployed,Car,99597,72,Excellent,52,76,9,2,Student,94340,16712,52,Judgement
+Excellent,78110,Self-Employed,Car,18638,22,Poor,81,30,3,8,Personal,43050,50919,19,Tax Lien
+Good,64038,Self-Employed,House,50754,93,Poor,96,68,0,6,Auto,29731,24003,26,Bankruptcy
+Good,66646,Unemployed,Car,82854,77,Excellent,18,26,10,2,Other,9451,11992,16,Judgement
+Excellent,96109,Employed,Land,70139,13,Excellent,59,1,10,6,Student,21912,17624,2,Other
+Good,85725,Unemployed,Investment,14559,62,Good,11,76,10,3,Personal,58093,90331,6,None
+Poor,92906,Unemployed,House,59653,43,Excellent,54,48,9,0,Student,50918,55595,57,Other
+Excellent,96654,Employed,Other,50357,31,Good,15,40,1,1,Mortgage,33971,18153,39,Judgement
+Poor,30775,Self-Employed,Other,10911,85,Poor,65,95,4,2,Personal,46760,61954,8,Collection
+Poor,30961,Employed,Investment,60052,70,Fair,58,37,1,8,Mortgage,29834,75423,42,Bankruptcy
+Fair,63346,Self-Employed,Land,30108,53,Good,91,89,2,2,Student,68400,65809,34,Bankruptcy
+Fair,23750,Unemployed,None,17678,89,Poor,68,2,6,2,Personal,42894,1129,28,Tax Lien
+Excellent,43631,Employed,Investment,50826,9,Poor,68,28,2,1,Mortgage,7922,98646,47,Collection
+Good,91901,Unemployed,Car,47767,44,Excellent,32,15,2,1,Mortgage,89160,29454,11,Tax Lien
+Good,97257,Employed,Car,82929,84,Excellent,4,44,4,8,Mortgage,45212,95323,47,Judgement
+Fair,50848,Unemployed,Investment,41326,25,Fair,63,44,1,5,Other,42440,37740,99,Tax Lien
+Good,10043,Unemployed,Car,33508,78,Excellent,96,69,3,8,Personal,39316,54287,52,Other
+Excellent,21539,Employed,Land,93342,99,Excellent,24,8,1,10,Other,95400,70849,3,None
+Fair,45630,Unemployed,House,96628,28,Fair,42,33,8,7,Personal,31709,65892,32,Judgement
+Poor,15743,Unemployed,Car,90481,93,Poor,13,76,7,4,Other,54890,15870,74,None
+Excellent,32687,Employed,Land,13280,2,Poor,66,55,8,0,Personal,82363,63735,39,Other
+Fair,78001,Self-Employed,Investment,64161,68,Good,51,8,2,5,Student,50912,45582,87,Judgement
+Good,74389,Self-Employed,None,99932,75,Good,34,25,3,8,Personal,11681,99717,84,None
+Excellent,78971,Self-Employed,Car,24874,77,Poor,50,65,9,6,Mortgage,36394,74112,71,Other
+Fair,59491,Employed,None,60459,66,Fair,94,72,0,8,Mortgage,44678,77620,20,Tax Lien
+Fair,21311,Unemployed,Land,37307,89,Excellent,89,32,2,3,Auto,50651,98976,90,Collection
+Good,68779,Employed,Car,70110,29,Excellent,20,6,7,8,Personal,54424,17644,38,None
+Poor,78015,Unemployed,Land,54497,62,Fair,72,72,9,3,Auto,33201,51387,66,Tax Lien
+Fair,31047,Self-Employed,Investment,90513,65,Excellent,65,42,8,0,Other,12329,20468,100,None
+Poor,31232,Unemployed,Other,21949,64,Fair,78,68,3,6,Auto,94327,80817,20,Other
+Excellent,17250,Employed,Other,22434,82,Poor,47,52,2,2,Mortgage,99309,7963,74,Bankruptcy
+Poor,16405,Unemployed,House,73798,46,Good,73,82,4,3,Student,47437,10202,73,None
+Excellent,39443,Unemployed,Investment,88514,90,Poor,15,51,3,8,Mortgage,59339,53405,68,Other
+Excellent,91511,Unemployed,Other,80532,40,Fair,20,72,0,0,Personal,34073,56973,59,Collection
+Good,43684,Unemployed,Land,19253,97,Good,70,12,7,0,Personal,26896,97332,85,None
+Fair,49173,Unemployed,Investment,56607,41,Poor,44,92,7,2,Other,46348,72470,7,Bankruptcy
+Excellent,61518,Employed,Investment,51359,90,Fair,65,17,2,4,Other,47457,33175,85,Collection
+Excellent,48943,Employed,Car,27278,82,Poor,52,84,10,5,Student,52765,41847,89,Bankruptcy
+Good,86435,Unemployed,Land,93541,80,Fair,32,39,7,8,Student,79942,80561,91,Judgement
+Good,69967,Self-Employed,Other,64585,11,Fair,22,86,8,9,Personal,38346,236,15,Judgement
+Poor,28624,Unemployed,Land,97672,73,Fair,15,18,6,9,Student,97956,35764,35,Other
+Good,38890,Self-Employed,Other,57611,58,Excellent,10,21,5,9,Other,10504,73483,13,None
+Fair,22477,Employed,None,24211,60,Good,70,60,8,2,Personal,33338,61434,39,Other
+Excellent,52028,Unemployed,None,14601,16,Excellent,24,25,9,8,Auto,16840,33347,13,Judgement
+Poor,68676,Unemployed,Land,95894,21,Poor,48,22,3,8,Other,82013,29212,63,None
+Fair,76144,Self-Employed,Other,88404,44,Excellent,12,40,5,10,Auto,29937,56991,13,Judgement
+Excellent,92154,Employed,None,39952,41,Fair,96,88,3,3,Personal,88806,43374,89,None
+Excellent,38639,Unemployed,Investment,37453,46,Poor,93,99,3,0,Student,80045,74584,82,None
+Excellent,72093,Unemployed,Car,32842,98,Fair,68,53,4,2,Personal,47057,19088,93,Other
+Good,37317,Unemployed,Car,24741,23,Fair,1,90,0,10,Student,40498,48673,69,Bankruptcy
+Poor,87060,Self-Employed,None,41554,62,Fair,12,2,6,8,Auto,44367,87960,59,Collection
+Poor,37167,Self-Employed,Investment,58240,46,Fair,87,60,9,6,Mortgage,81942,54431,90,Other
+Excellent,35026,Employed,Land,11315,71,Good,11,38,7,6,Student,16291,48884,57,Other
+Good,96481,Unemployed,Car,91075,59,Poor,19,70,10,0,Student,4573,22675,89,Tax Lien
+Excellent,29304,Employed,Investment,64427,43,Good,64,43,7,6,Auto,71535,9082,61,Other
+Poor,38677,Unemployed,House,25373,33,Good,16,52,5,9,Mortgage,67400,87368,66,Bankruptcy
+Poor,19787,Employed,Land,16733,52,Good,51,57,5,3,Student,57461,58614,100,Judgement
+Poor,42797,Self-Employed,Car,70685,58,Poor,79,64,9,10,Auto,80767,13348,23,None
+Excellent,77930,Unemployed,None,15710,69,Good,94,18,2,1,Auto,33404,84219,100,Other
+Poor,20845,Employed,None,20563,45,Poor,78,91,10,7,Personal,29584,42149,56,Bankruptcy
+Good,88490,Employed,None,78549,83,Poor,12,75,3,2,Auto,52250,92771,97,Judgement
+Excellent,84647,Self-Employed,House,41401,85,Excellent,29,75,7,4,Student,54890,9158,6,Collection
+Excellent,77388,Unemployed,House,31264,73,Good,11,100,3,0,Auto,9161,95134,66,None
+Poor,92954,Unemployed,Investment,60553,36,Fair,93,53,9,3,Other,96998,25500,45,Bankruptcy
+Poor,71842,Self-Employed,Investment,31438,89,Excellent,81,81,4,4,Mortgage,84701,61005,87,Other
+Fair,48479,Unemployed,House,88791,4,Fair,9,37,2,3,Other,67237,46578,91,Judgement
+Good,52337,Unemployed,Land,93812,0,Excellent,52,52,1,1,Student,7212,82559,63,Judgement
+Excellent,81077,Unemployed,Other,65507,75,Fair,38,60,3,9,Mortgage,66887,97413,41,Judgement
+Excellent,42464,Employed,Land,24401,82,Poor,54,92,8,5,Mortgage,73194,48337,1,None
+Good,17687,Self-Employed,Other,95876,35,Good,14,16,5,8,Mortgage,15001,36001,31,Bankruptcy
+Poor,13566,Employed,None,20973,47,Poor,39,15,9,0,Student,684,30244,55,Tax Lien
+Fair,54718,Self-Employed,None,50295,18,Poor,67,52,4,9,Other,15248,19632,12,Judgement
+Fair,55969,Self-Employed,Other,32174,68,Good,27,13,1,2,Auto,37396,61663,52,Bankruptcy
+Poor,59885,Unemployed,Car,96678,44,Fair,81,90,9,2,Mortgage,1070,99550,70,Bankruptcy
+Fair,12808,Self-Employed,Investment,53346,3,Fair,21,3,8,10,Personal,21047,71670,1,Collection
+Excellent,53274,Unemployed,Land,81932,90,Fair,35,31,9,7,Mortgage,56999,98708,48,Collection
+Poor,98473,Self-Employed,Car,41619,1,Poor,6,58,0,9,Personal,37025,34079,78,Judgement
+Good,92911,Employed,House,79489,84,Poor,14,12,5,2,Auto,29079,45086,28,Collection
+Poor,68047,Unemployed,None,94683,31,Good,6,59,8,5,Auto,79571,83779,17,Other
+Good,47238,Employed,Investment,20918,99,Good,73,78,9,0,Personal,83412,13919,90,Tax Lien
+Excellent,46728,Self-Employed,None,46693,79,Fair,57,50,7,10,Mortgage,12493,64050,55,Tax Lien
+Good,65728,Employed,House,35098,59,Fair,21,30,9,2,Other,92361,42631,77,Collection
+Excellent,78043,Employed,House,41581,34,Poor,58,81,0,5,Personal,73668,98817,77,None
+Fair,21305,Unemployed,Land,22948,17,Excellent,24,2,0,0,Mortgage,29787,40983,68,Tax Lien
+Excellent,79780,Self-Employed,Car,72266,59,Excellent,48,21,5,6,Student,95274,9475,2,Collection
+Good,29793,Employed,House,30001,96,Poor,58,23,10,10,Auto,22582,98817,10,Collection
+Excellent,19724,Unemployed,House,89431,5,Fair,85,74,3,1,Other,76694,77659,14,Collection
+Excellent,70285,Unemployed,Other,17999,15,Poor,9,91,7,9,Student,70763,9365,49,Other
+Poor,45296,Self-Employed,Car,86111,53,Excellent,90,7,10,6,Auto,14416,55555,72,Collection
+Poor,24967,Unemployed,Other,38944,6,Excellent,20,97,7,8,Auto,8515,26933,28,Collection
+Excellent,36602,Self-Employed,Investment,91717,49,Poor,95,20,3,2,Mortgage,48745,29478,26,Bankruptcy
+Poor,10297,Unemployed,None,91947,53,Poor,97,89,3,6,Student,40837,46172,80,Collection
+Poor,10055,Employed,None,72413,70,Fair,82,57,1,6,Personal,66537,73048,39,None
+Excellent,46446,Self-Employed,Car,19189,70,Excellent,43,84,7,0,Other,37486,97207,2,Tax Lien
+Excellent,27552,Employed,Car,81786,9,Poor,82,100,6,9,Other,59227,83555,76,Collection
+Poor,61357,Unemployed,Land,20781,51,Good,54,43,0,7,Personal,80381,34108,34,Other
+Poor,72599,Employed,Land,53024,93,Fair,31,9,10,0,Student,82334,459,96,Collection
+Excellent,15857,Unemployed,Other,44256,69,Good,55,78,6,1,Auto,90454,88342,9,None
+Poor,71086,Unemployed,Land,14184,63,Poor,86,89,7,7,Other,69685,27117,78,Tax Lien
+Good,41440,Employed,Land,59712,57,Poor,73,60,7,3,Student,73251,87220,9,Other
+Poor,56024,Self-Employed,Other,67347,65,Excellent,67,45,0,2,Personal,74459,88807,23,Tax Lien
+Fair,71162,Self-Employed,Car,47736,37,Poor,27,15,5,8,Student,62433,69872,19,Collection
+Fair,92490,Unemployed,House,30689,18,Poor,56,7,3,7,Auto,68689,33127,50,Bankruptcy
+Good,58621,Employed,Land,18609,98,Good,15,40,9,1,Personal,71305,76877,18,Bankruptcy
+Fair,55342,Self-Employed,Other,41623,32,Poor,50,23,1,9,Other,55706,32961,9,Tax Lien
+Excellent,68206,Self-Employed,Land,80147,2,Excellent,98,69,10,1,Auto,51222,79908,82,None
+Good,98420,Self-Employed,None,94491,97,Good,72,11,1,6,Other,82678,88157,20,Judgement
+Excellent,28796,Unemployed,Car,45846,0,Good,66,37,1,10,Personal,95707,6479,53,Other
+Excellent,91240,Employed,Investment,38234,16,Poor,51,62,4,8,Personal,41514,82915,24,Collection
+Fair,13340,Self-Employed,House,62556,82,Excellent,66,65,6,8,Auto,35052,87126,8,Judgement
+Good,63042,Self-Employed,House,39352,71,Fair,54,10,1,0,Auto,68475,84148,73,Tax Lien
+Excellent,45675,Unemployed,Land,90798,20,Good,67,46,2,10,Other,46438,54090,2,None
+Fair,99400,Unemployed,House,47665,67,Fair,90,44,3,1,Personal,32220,8726,10,Collection
+Excellent,30344,Self-Employed,House,88735,21,Good,31,88,4,8,Student,61691,68853,95,Other
+Poor,60494,Self-Employed,House,97028,7,Poor,15,6,10,6,Personal,56575,74713,26,Tax Lien
+Fair,80339,Employed,Car,82661,43,Poor,62,41,4,5,Other,34536,59271,12,None
+Good,62375,Self-Employed,Car,79249,35,Fair,16,89,5,10,Personal,34570,70571,11,Collection
+Excellent,27985,Self-Employed,House,66039,13,Fair,33,24,3,10,Personal,24147,45346,15,Bankruptcy
+Excellent,97610,Self-Employed,Land,82043,29,Fair,85,32,7,9,Personal,21120,22708,3,Collection
+Excellent,40571,Self-Employed,Other,72613,66,Fair,3,63,7,9,Mortgage,77123,74526,77,Other
+Fair,29900,Employed,Other,59383,3,Excellent,52,100,10,7,Mortgage,78431,23535,7,Bankruptcy
+Poor,41920,Unemployed,Land,59100,72,Fair,34,83,5,1,Auto,28528,37857,84,Judgement
+Excellent,65634,Employed,Land,91389,84,Good,53,0,5,10,Student,43414,29552,3,Bankruptcy
+Poor,27340,Unemployed,None,78649,36,Good,98,37,4,6,Personal,89757,98806,13,Judgement
+Poor,96439,Self-Employed,Land,41444,4,Excellent,98,35,7,8,Auto,25285,74520,30,Bankruptcy
+Poor,25942,Unemployed,Car,69507,35,Good,58,3,3,7,Student,37612,8152,88,Other
+Poor,29341,Self-Employed,Land,69138,52,Poor,86,55,5,5,Auto,1268,65370,58,Collection
+Good,53726,Self-Employed,Other,52502,42,Fair,88,56,8,8,Personal,11517,38275,22,Other
+Fair,49721,Employed,Land,45752,47,Fair,83,9,6,4,Mortgage,10236,79356,16,Collection
+Fair,92572,Employed,House,46550,16,Good,31,0,9,8,Mortgage,30014,32078,39,Other
+Excellent,67052,Self-Employed,Car,43777,89,Excellent,4,53,10,2,Student,25255,79635,56,Judgement
+Excellent,66298,Employed,Land,13045,97,Poor,95,28,9,5,Student,22846,47598,14,Other
+Poor,26890,Unemployed,Investment,97208,32,Poor,74,69,10,0,Mortgage,16843,50095,16,Bankruptcy
+Good,85302,Unemployed,Other,56450,31,Fair,47,93,7,2,Personal,55845,47278,38,Bankruptcy
+Poor,41193,Employed,House,12019,21,Excellent,22,75,2,6,Other,7810,68716,35,Collection
+Good,34205,Self-Employed,Car,36390,7,Poor,57,66,7,7,Student,85812,49775,66,None
+Good,58103,Employed,House,67983,81,Excellent,65,52,3,2,Personal,82673,99812,20,Bankruptcy
+Good,94872,Self-Employed,Other,59097,6,Poor,53,23,2,6,Student,14935,99349,14,None
+Good,61622,Unemployed,None,13743,76,Excellent,49,20,3,6,Mortgage,75448,57227,52,Tax Lien
+Good,47425,Self-Employed,Car,50070,85,Fair,44,46,7,8,Auto,69206,35954,69,Bankruptcy
+Fair,24863,Unemployed,Investment,24468,59,Good,73,70,4,5,Student,43003,3713,70,None
+Good,42019,Employed,Car,63668,62,Good,60,96,8,7,Student,66193,78915,11,Judgement
+Excellent,38818,Self-Employed,None,50806,12,Good,26,20,2,8,Student,39793,17378,44,Tax Lien
+Good,48516,Employed,None,19923,25,Excellent,93,98,1,3,Student,1459,27747,93,Bankruptcy
+Fair,12951,Unemployed,Investment,68271,69,Poor,83,97,2,6,Personal,83089,1096,30,Tax Lien
+Poor,92003,Self-Employed,House,94632,3,Good,42,61,9,10,Auto,3768,36548,21,Tax Lien
+Good,77301,Unemployed,None,57003,92,Fair,26,52,3,10,Personal,16891,76087,18,Collection
+Good,32150,Employed,House,31018,30,Fair,31,92,7,0,Personal,65259,68499,44,Tax Lien
+Fair,10744,Self-Employed,Land,47877,21,Fair,57,25,2,2,Auto,81886,61214,65,None
+Good,38317,Unemployed,Investment,79089,39,Fair,93,61,8,8,Personal,15183,35081,99,Judgement
+Excellent,47341,Employed,Investment,27059,12,Excellent,57,29,8,2,Personal,13906,66881,79,Other
+Poor,76944,Unemployed,Investment,29154,66,Fair,50,30,1,9,Personal,17073,24105,52,None
+Poor,88286,Self-Employed,None,91065,60,Fair,2,36,8,5,Other,2108,91635,70,Judgement
+Excellent,58361,Employed,Investment,62846,11,Poor,19,24,7,1,Student,58580,40458,71,Other
+Fair,63892,Employed,Land,68810,58,Excellent,14,7,0,0,Other,9706,6576,94,Bankruptcy
+Poor,51154,Employed,Car,46544,85,Poor,96,77,10,8,Personal,65257,83021,28,Bankruptcy
+Fair,93843,Self-Employed,Car,23751,2,Fair,38,41,4,8,Other,88897,88224,60,None
+Poor,46410,Self-Employed,Car,72341,58,Excellent,36,33,4,8,Student,76521,37347,40,Bankruptcy
+Poor,83556,Unemployed,Car,71613,91,Fair,35,59,0,6,Mortgage,72486,43947,29,Bankruptcy
+Fair,67175,Employed,None,80984,66,Excellent,17,72,3,1,Other,20721,152,30,Collection
+Poor,40364,Self-Employed,Investment,54389,30,Excellent,26,26,4,5,Other,24736,34775,84,Other
+Excellent,81782,Self-Employed,Land,14841,4,Poor,10,86,5,9,Auto,64032,37089,89,None
+Excellent,93568,Unemployed,Car,98613,22,Good,27,71,0,0,Auto,68024,3174,10,None
+Excellent,65463,Employed,Car,39251,40,Fair,64,19,8,10,Mortgage,87494,34753,80,None
+Excellent,69874,Employed,Investment,53717,83,Good,90,85,4,2,Other,89563,66623,36,Judgement
+Poor,78675,Employed,Investment,14526,94,Poor,23,42,4,6,Student,52587,87751,94,Judgement
+Poor,36343,Unemployed,Car,49380,7,Fair,86,47,5,2,Auto,47669,60764,12,Other
+Fair,95254,Unemployed,Other,28870,34,Good,31,96,5,5,Auto,9308,46,12,None
+Fair,15479,Self-Employed,Other,42924,62,Poor,51,26,9,5,Student,85531,47395,42,Collection
+Good,19525,Employed,Car,67766,10,Poor,36,97,3,10,Student,42388,73532,34,None
+Excellent,23755,Self-Employed,None,13728,47,Good,84,79,0,7,Mortgage,90886,70279,96,Collection
+Excellent,97969,Employed,Other,16458,18,Excellent,57,55,4,10,Other,84250,69630,70,Judgement
+Excellent,31261,Self-Employed,Land,15460,45,Good,90,5,1,8,Student,43669,16420,34,Tax Lien
+Poor,87580,Self-Employed,Car,60365,93,Excellent,63,22,2,1,Other,81090,61848,95,Judgement
+Excellent,71652,Employed,Investment,43026,77,Good,37,47,7,5,Personal,14526,52118,98,Judgement
+Good,47153,Unemployed,Car,74233,81,Excellent,78,25,6,2,Mortgage,54234,39520,88,Tax Lien
+Poor,32607,Employed,Car,72112,10,Poor,9,98,8,4,Auto,21469,11753,47,Tax Lien
+Fair,46848,Unemployed,None,79504,45,Poor,36,14,2,0,Student,17738,8431,81,None
+Fair,27949,Employed,Car,22255,41,Poor,45,4,6,1,Student,76846,97033,67,Judgement
+Poor,81062,Unemployed,Land,30257,73,Excellent,66,31,3,2,Student,36833,53141,47,Tax Lien
+Excellent,48532,Unemployed,Land,17503,86,Fair,64,65,3,3,Auto,83466,31988,21,None
+Excellent,93428,Self-Employed,House,65395,89,Excellent,10,36,6,0,Mortgage,55330,13337,94,Collection
+Good,47694,Self-Employed,House,28842,55,Fair,23,47,4,2,Personal,2065,79573,83,None
+Fair,73531,Self-Employed,Other,36417,15,Excellent,46,100,2,0,Mortgage,12456,26649,22,Bankruptcy
+Fair,57829,Employed,Other,94063,7,Poor,25,44,10,10,Other,17236,709,8,Other
+Excellent,18474,Employed,Investment,84828,45,Fair,44,64,2,9,Other,27569,38973,18,Collection
+Excellent,32539,Employed,Other,42745,43,Poor,84,57,9,9,Personal,2832,13401,14,Collection
+Excellent,33732,Unemployed,Other,15089,12,Good,95,67,4,9,Personal,33535,77731,1,None
+Excellent,62107,Self-Employed,Other,57018,71,Good,15,88,7,2,Personal,80017,60664,7,Bankruptcy
+Good,34310,Unemployed,Land,32372,45,Poor,88,76,4,1,Auto,87515,41709,24,Tax Lien
+Fair,56374,Employed,Investment,53102,25,Good,29,61,2,1,Auto,74225,97215,68,Other
+Excellent,29054,Self-Employed,Other,45283,28,Excellent,18,51,8,0,Mortgage,50679,24604,79,Bankruptcy
+Excellent,67955,Unemployed,Investment,27345,75,Fair,32,44,5,3,Personal,96452,7918,27,Judgement
+Poor,12060,Self-Employed,Land,99654,42,Fair,92,31,2,7,Student,27387,19604,30,Judgement
+Excellent,75090,Unemployed,None,10890,56,Good,58,53,8,2,Auto,3153,60628,34,Collection
+Good,80974,Unemployed,Investment,35017,26,Excellent,93,23,1,2,Personal,35221,77950,58,Tax Lien
+Excellent,21121,Unemployed,Other,81343,7,Excellent,45,91,10,9,Student,89250,20138,17,Collection
+Fair,53439,Employed,Car,30932,73,Excellent,80,62,1,4,Mortgage,59190,525,29,Tax Lien
+Fair,53897,Employed,Other,52259,4,Good,73,16,1,1,Student,31207,55673,92,Bankruptcy
+Poor,96374,Employed,None,79864,21,Poor,70,49,10,3,Mortgage,54364,45627,40,Bankruptcy
+Fair,37498,Employed,Car,52307,3,Poor,5,95,1,3,Personal,71227,96079,97,None
+Good,70671,Self-Employed,None,94976,47,Fair,49,84,8,6,Personal,33136,37983,9,Judgement
+Good,76679,Unemployed,Car,18518,80,Fair,74,59,5,4,Mortgage,30493,12533,8,Other
+Fair,78269,Self-Employed,Car,92110,88,Poor,64,93,4,4,Auto,22074,25765,64,Collection
+Poor,46510,Unemployed,House,93517,31,Poor,82,36,3,0,Other,46365,58803,35,Tax Lien
+Good,31503,Self-Employed,Land,19334,68,Excellent,62,61,8,8,Personal,77563,57351,16,Other
+Good,49400,Employed,House,54865,0,Poor,22,94,9,10,Student,7301,86797,67,Collection
+Poor,89832,Self-Employed,Land,58275,77,Good,58,36,4,8,Auto,18620,62601,75,Collection
+Fair,61355,Employed,Car,34570,62,Good,87,97,10,8,Student,81322,65543,12,Collection
+Good,72669,Employed,Investment,83056,41,Excellent,95,11,5,6,Student,69026,35497,76,None
+Excellent,43084,Self-Employed,Car,37904,55,Poor,28,98,9,0,Mortgage,56042,71122,0,Collection
+Excellent,51959,Employed,Land,50615,41,Good,63,5,8,0,Mortgage,27006,38618,93,None
+Good,61130,Employed,None,31549,97,Good,59,57,6,7,Mortgage,43690,87677,65,Other
+Good,98654,Employed,Land,23367,89,Fair,5,23,5,5,Other,12584,84244,62,Collection
+Good,40866,Self-Employed,None,75206,99,Good,63,62,9,3,Auto,82711,70624,49,None
+Poor,68553,Employed,None,21170,22,Poor,40,61,6,6,Mortgage,35810,81958,85,Collection
+Fair,79533,Employed,Investment,37281,50,Poor,80,80,1,7,Other,74188,33792,77,None
+Fair,15967,Employed,None,84153,82,Good,97,70,6,8,Auto,79844,50095,11,Other
+Fair,79712,Self-Employed,Car,26291,53,Fair,34,14,7,4,Mortgage,58084,28493,76,None
+Good,62221,Self-Employed,Land,43482,12,Poor,41,82,4,9,Other,72742,65602,0,Other
+Fair,57096,Unemployed,Land,91848,64,Poor,8,3,9,4,Auto,22696,72616,55,Tax Lien
+Excellent,22200,Employed,Investment,27857,23,Good,48,9,7,6,Personal,89770,5555,13,Bankruptcy
+Good,34935,Employed,None,44948,49,Good,55,31,4,10,Student,75259,2968,79,Judgement
+Fair,49649,Unemployed,Other,72170,79,Poor,68,57,6,4,Auto,26323,83181,71,Collection
+Fair,69389,Unemployed,Car,34405,84,Good,80,59,10,10,Auto,40955,1753,98,Tax Lien
+Good,51610,Employed,Land,34833,37,Fair,78,82,0,5,Auto,97825,53443,9,Collection
+Poor,35964,Employed,Car,69268,60,Poor,96,56,6,0,Student,27124,61012,39,Bankruptcy
+Fair,96223,Employed,Other,26385,22,Fair,5,52,1,1,Other,4896,46660,50,Tax Lien
+Poor,20994,Employed,House,31969,23,Excellent,91,64,8,10,Mortgage,6004,74642,77,Bankruptcy
+Good,89842,Employed,Investment,61510,92,Good,2,63,8,5,Personal,47076,38057,83,Judgement
+Poor,37168,Self-Employed,Investment,19713,2,Excellent,90,44,7,6,Student,42387,1142,13,Bankruptcy
+Excellent,21097,Employed,Investment,80881,40,Excellent,62,32,8,10,Mortgage,87094,97606,95,None
+Excellent,46146,Self-Employed,Other,74620,10,Poor,100,29,4,9,Student,98516,61885,85,Other
+Excellent,44584,Unemployed,Land,10289,80,Excellent,97,24,6,2,Student,50515,97991,42,None
+Good,31552,Employed,Car,18803,86,Excellent,38,42,3,7,Personal,25056,66672,3,Judgement
+Poor,64338,Self-Employed,Investment,35381,33,Fair,100,0,5,8,Student,43203,29771,75,Other
+Excellent,52022,Unemployed,Land,39891,95,Good,50,48,3,2,Student,3499,75210,55,Other
+Fair,99098,Employed,None,22238,54,Good,58,20,10,9,Student,15354,27343,97,Other
+Excellent,15273,Employed,House,47123,12,Excellent,15,2,2,1,Auto,3678,64319,88,Tax Lien
+Poor,84302,Employed,None,40681,25,Poor,69,41,10,6,Auto,37016,99648,63,Judgement
+Excellent,93499,Unemployed,Other,33823,65,Excellent,46,64,7,1,Auto,36589,24293,6,Judgement
+Excellent,78722,Self-Employed,None,60428,27,Poor,2,80,9,0,Auto,57300,93762,79,Tax Lien
+Fair,31621,Self-Employed,Other,44548,32,Excellent,96,71,1,6,Mortgage,12713,71878,45,Judgement
+Excellent,88945,Employed,None,41271,38,Excellent,32,23,5,10,Other,67048,60085,48,Collection
+Excellent,95457,Employed,None,18705,99,Fair,83,65,7,10,Other,66572,70808,46,Collection
+Good,83149,Unemployed,Car,48537,18,Excellent,24,54,4,2,Student,13880,39073,87,Judgement
+Good,93991,Employed,None,73891,89,Fair,91,80,1,7,Auto,826,54545,85,Tax Lien
+Excellent,61123,Unemployed,None,27359,38,Excellent,97,89,2,10,Student,570,17667,35,Bankruptcy
+Good,85163,Employed,Investment,77271,55,Fair,23,91,10,9,Mortgage,58584,10260,40,Tax Lien
+Excellent,66558,Self-Employed,Land,96721,83,Poor,18,85,5,9,Auto,32725,52199,27,Judgement
+Good,18113,Employed,Investment,17398,97,Poor,67,51,4,3,Student,34767,9530,15,Judgement
+Good,85603,Unemployed,Investment,48220,30,Good,11,30,9,2,Mortgage,51402,89512,7,None
+Excellent,68312,Unemployed,Land,23111,57,Fair,5,86,4,1,Auto,69119,5300,90,Judgement
+Fair,30951,Unemployed,Other,70428,80,Fair,7,49,9,1,Mortgage,69345,25899,97,Tax Lien
+Excellent,38563,Unemployed,None,79844,90,Excellent,88,85,1,6,Auto,51320,97640,39,Collection
+Excellent,49172,Unemployed,Other,46895,92,Good,86,47,2,6,Student,73571,30626,90,None
+Poor,67989,Unemployed,Land,91786,28,Good,37,77,3,4,Auto,67827,45295,94,Collection
+Poor,42436,Unemployed,Other,64585,74,Good,92,67,5,2,Other,11944,58030,81,Judgement
+Good,42590,Employed,Car,71287,96,Excellent,91,62,3,5,Mortgage,16456,51325,14,Judgement
+Excellent,22298,Employed,Investment,50545,70,Poor,78,36,0,0,Personal,95156,57073,84,Bankruptcy
+Good,60969,Self-Employed,None,66158,22,Fair,49,81,10,6,Student,47102,4551,42,Judgement
+Fair,35694,Self-Employed,Land,43327,44,Poor,30,96,1,10,Auto,31067,8369,3,Tax Lien
+Good,55445,Unemployed,Car,12796,11,Fair,54,28,6,3,Other,16217,28929,10,Bankruptcy
+Fair,51869,Unemployed,Investment,89731,22,Poor,81,24,10,0,Auto,42407,2888,9,Bankruptcy
+Fair,90442,Unemployed,None,70072,79,Good,6,16,10,10,Mortgage,59837,76559,46,Tax Lien
+Fair,65211,Employed,Car,78931,7,Excellent,82,43,9,7,Auto,19445,65003,62,Bankruptcy
+Good,14561,Employed,None,35843,42,Good,74,55,9,4,Student,3455,5500,94,Judgement
+Excellent,74366,Self-Employed,House,83482,41,Excellent,49,23,9,1,Auto,50709,51670,44,Other
+Good,17298,Employed,House,11229,49,Excellent,51,1,10,5,Mortgage,98276,73951,26,Bankruptcy
+Good,80022,Self-Employed,House,89913,45,Poor,62,89,7,7,Auto,37054,82184,41,Tax Lien
+Excellent,18090,Employed,House,52372,24,Good,45,81,1,1,Student,77496,92655,82,None
+Excellent,23102,Self-Employed,Investment,11541,4,Poor,8,43,7,4,Auto,2514,50397,66,None
+Good,95576,Employed,House,80726,41,Excellent,9,54,2,1,Personal,61635,77065,18,None
+Poor,81729,Employed,Car,79264,2,Fair,10,45,9,9,Personal,55363,34419,65,None
+Poor,12645,Self-Employed,Land,76146,6,Fair,97,62,5,0,Personal,2771,31327,16,None
+Poor,74751,Self-Employed,None,25885,70,Fair,42,52,10,6,Other,59442,4289,70,None
+Fair,73454,Employed,Investment,12673,51,Poor,38,6,2,8,Personal,9496,29602,69,None
+Poor,35442,Self-Employed,None,86395,31,Good,1,19,0,1,Auto,15406,46275,69,Judgement
+Fair,85748,Employed,Other,93862,94,Fair,40,5,4,5,Personal,90483,13799,3,Other
+Poor,71035,Employed,House,72563,74,Excellent,75,21,5,5,Other,18535,6661,31,Bankruptcy
+Good,73265,Employed,Investment,66939,28,Good,13,2,2,9,Mortgage,44971,59169,52,Judgement
+Fair,48577,Employed,Investment,63277,65,Good,12,94,5,5,Auto,47287,97038,26,Tax Lien
+Good,85130,Employed,Land,80991,88,Fair,33,30,4,2,Mortgage,61339,39889,7,Tax Lien
+Good,35757,Self-Employed,Other,67266,80,Excellent,17,36,6,8,Student,21177,49380,43,Collection
+Fair,83232,Self-Employed,Land,39176,33,Good,77,80,7,0,Other,56782,34959,44,Bankruptcy
+Excellent,27758,Employed,None,31840,49,Poor,19,64,7,7,Personal,9230,7570,3,Other
+Fair,77809,Employed,Investment,76040,15,Good,82,11,7,5,Mortgage,82517,36226,30,Tax Lien
+Poor,68040,Unemployed,Other,34892,90,Good,71,33,1,5,Mortgage,47608,61400,97,Collection
+Good,98166,Unemployed,Car,26266,61,Fair,62,42,1,3,Student,39004,15556,58,Collection
+Fair,94105,Employed,Land,67622,25,Good,33,0,9,10,Auto,95660,6055,70,Other
+Fair,84029,Unemployed,Investment,54571,95,Poor,56,47,1,0,Personal,33363,39898,39,Judgement
+Good,40000,Employed,Car,30842,7,Good,68,88,2,5,Other,98702,44503,73,Judgement
+Excellent,32389,Unemployed,Investment,73445,27,Fair,79,7,6,8,Auto,67315,97490,86,Judgement
+Poor,70847,Self-Employed,Car,98021,84,Good,22,24,3,2,Mortgage,44212,33919,70,None
+Excellent,68021,Unemployed,Other,47684,57,Good,91,93,4,10,Other,98637,85978,4,None
+Poor,14684,Unemployed,None,25721,7,Poor,51,9,9,5,Auto,73945,73692,24,Bankruptcy
+Excellent,48547,Self-Employed,None,24049,92,Good,12,57,2,0,Mortgage,32259,76903,51,Other
+Poor,84855,Self-Employed,Car,96266,39,Excellent,91,78,2,5,Student,5016,26076,29,Tax Lien
+Poor,15291,Unemployed,None,80612,96,Excellent,10,37,7,5,Other,67775,41571,12,Judgement
+Fair,79722,Unemployed,House,17852,10,Fair,37,62,3,0,Other,70849,16728,86,Judgement
+Excellent,95531,Employed,Investment,36256,86,Excellent,53,42,3,8,Personal,96341,59201,14,Collection
+Fair,19342,Employed,Other,18748,4,Fair,87,14,8,8,Student,34881,21551,100,Other
+Excellent,10887,Employed,House,53026,31,Excellent,98,97,7,9,Auto,46451,4547,21,Other
+Fair,23637,Unemployed,House,80055,13,Good,58,65,7,2,Student,52417,49046,93,Other
+Poor,83435,Self-Employed,Investment,30037,82,Poor,70,3,6,2,Other,37308,28202,51,Tax Lien
+Fair,96041,Employed,House,91806,90,Poor,48,29,4,3,Other,14871,45294,22,None
+Good,46310,Employed,Land,29467,98,Fair,92,75,2,6,Mortgage,13405,43749,49,None
+Poor,22988,Employed,Car,30855,36,Fair,55,43,8,5,Mortgage,63742,38326,91,None
+Excellent,15332,Unemployed,None,18573,66,Excellent,50,90,10,10,Student,64170,53224,42,Collection
+Poor,65229,Unemployed,House,18307,69,Fair,93,55,7,0,Student,20187,97320,36,Bankruptcy
+Poor,50504,Unemployed,Investment,59662,9,Fair,27,19,6,0,Mortgage,44121,42037,97,Tax Lien
+Good,98177,Unemployed,Other,65595,24,Excellent,41,13,1,8,Student,27197,51168,42,Tax Lien
+Good,35563,Self-Employed,Other,14860,78,Poor,57,42,4,0,Auto,8398,43424,98,None
+Fair,12343,Employed,Land,87196,37,Fair,25,97,10,3,Student,67054,40809,59,Judgement
+Fair,86915,Employed,House,56087,91,Fair,84,41,6,0,Auto,97972,95534,39,Collection
+Fair,10552,Employed,Land,46423,100,Excellent,46,86,7,5,Other,10068,65292,20,Judgement
+Fair,17510,Self-Employed,Land,77523,1,Fair,17,4,10,8,Student,89509,88705,13,Tax Lien
+Excellent,89553,Unemployed,Other,31431,9,Excellent,75,58,6,4,Personal,14847,37218,35,Collection
+Fair,42379,Employed,Investment,90271,42,Poor,86,40,9,7,Personal,62707,26968,26,Tax Lien
+Good,23356,Self-Employed,Investment,34033,3,Fair,5,91,0,0,Mortgage,14405,40715,17,Other
+Good,35995,Self-Employed,Car,30418,89,Fair,93,71,8,3,Personal,97878,46795,76,Collection
+Excellent,92689,Employed,Other,21451,56,Fair,88,62,8,7,Mortgage,98359,16736,5,Bankruptcy
+Poor,12277,Self-Employed,Car,11953,61,Excellent,3,54,6,3,Auto,97958,16350,67,Judgement
+Good,56033,Self-Employed,Car,57056,81,Fair,67,8,1,9,Student,73452,40356,67,Tax Lien
+Fair,17713,Unemployed,None,33919,42,Excellent,58,99,7,1,Student,66362,22744,94,None
+Poor,64604,Employed,Land,29938,36,Fair,15,92,7,6,Auto,68170,35096,88,Collection
+Fair,28492,Employed,Investment,47094,34,Excellent,84,87,5,1,Other,50075,91248,89,Tax Lien
+Poor,60125,Employed,Other,39462,91,Good,3,99,3,10,Other,31774,36752,10,None
+Excellent,56662,Unemployed,Land,26578,86,Poor,26,94,6,7,Auto,33751,69245,39,Other
+Fair,64803,Employed,Investment,74982,66,Poor,11,12,9,10,Student,64885,67209,62,Other
